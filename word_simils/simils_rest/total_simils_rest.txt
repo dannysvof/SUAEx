@@ -1,0 +1,2980 @@
+staff friendliest competent stickler service everything else place make
+0.2329 0.0808 0.1817 0.0375 0.1908 0.0683 0.0462 0.1107 0.0511
+great group great date great early brunch nightcap
+0.1114 0.1278 0.1114 0.1251 0.1114 0.1078 0.1727 0.1325
+like cafe noir dont get wrong jsut people work evil incompetent
+0.0623 0.1042 0.0994 0.062 0.0577 0.0577 0.0907 0.0981 0.0772 0.1094 0.1814
+service terrible wait everything ask several different people thing allowed served
+0.2474 0.0966 0.1048 0.0885 0.0686 0.0578 0.0504 0.0923 0.0582 0.0528 0.0826
+waitress seems concerned looking good actually waitressing
+0.2409 0.1414 0.1177 0.1589 0.1275 0.1296 0.084
+whole set truly unprofessional wish cafe noir would get good staff despite current one great place
+0.0339 0.0539 0.0611 0.0945 0.03 0.0641 0.0612 0.0431 0.0355 0.0483 0.1976 0.0469 0.0623 0.0325 0.0412 0.094
+night without reservation wait bar little manager nice made wait great experience
+0.1017 0.0575 0.077 0.0903 0.0847 0.0593 0.1177 0.075 0.05 0.0903 0.0542 0.1423
+busy crow ded
+0.5197 0.2401 0.2401
+would way made great recommendation gave group full treatment
+0.1097 0.1042 0.0968 0.1048 0.1144 0.0991 0.1203 0.1018 0.149
+food average tasty
+0.5388 0.1916 0.2697
+dessert ca missed save room
+0.2325 0.1861 0.1163 0.1153 0.3498
+bartender recent visit incredibly rude never go back
+0.1757 0.1018 0.1323 0.1412 0.1774 0.0859 0.0969 0.0888
+friendly staff member guy bar
+0.2029 0.4294 0.1179 0.1099 0.1399
+turkey burger cooked friend salmon completely raw
+0.1464 0.1452 0.1853 0.1162 0.1493 0.1359 0.1217
+always full tourist especially close proximity rockefeller cente
+0.1324 0.1055 0.1376 0.1218 0.1131 0.1711 0.1345 0.0841
+ive bunch time service always outstanding
+0.0952 0.078 0.1577 0.3874 0.12 0.1617
+food average midtown sligtly better heartland brewery city
+0.3069 0.1091 0.141 0.0586 0.0836 0.075 0.0776 0.1483
+place worth going even beer
+0.361 0.1306 0.1758 0.1518 0.1808
+seasonal beer fabulous try pumpkin ale fall favorite
+0.1677 0.1184 0.1187 0.0668 0.1756 0.1333 0.1264 0.093
+heartland brewery far one best place nyc make new friend catch old one
+0.0632 0.0654 0.0648 0.0503 0.0604 0.1456 0.1207 0.0672 0.0999 0.0695 0.0579 0.0849 0.0503
+dress code attitude plenty comfort companionship great place relax always busy midtown
+0.0912 0.1102 0.1108 0.0562 0.0981 0.0406 0.0525 0.1199 0.0706 0.064 0.0879 0.0978
+much usual bar food go enjoy menu sampling one hand crafted beer
+0.0618 0.0544 0.0934 0.2421 0.0684 0.0544 0.077 0.0544 0.0471 0.0561 0.1227 0.0683
+typical nyc gimmick theme restaurant
+0.1075 0.1754 0.191 0.216 0.3101
+cool bar great food ton excellent beer
+0.1351 0.1272 0.0814 0.3298 0.0781 0.1554 0.093
+even pub atmosphere great kid
+0.1056 0.1875 0.4737 0.11 0.1232
+always ask bartender seasonal beer
+0.1704 0.1525 0.2905 0.2266 0.16
+one nicest outdoor restaurant ever seen ny italy place rival one country
+0.0441 0.0913 0.0877 0.1871 0.0487 0.0545 0.0965 0.0746 0.1276 0.0711 0.0441 0.0728
+coming year nothing good thing say service great staff la lanterna
+0.0502 0.0961 0.0555 0.0526 0.0415 0.0476 0.1764 0.0449 0.2153 0.0541 0.1658
+try chocolate mud cake warmed scoop dulce de leche gelato
+0.0392 0.113 0.0917 0.08 0.0869 0.0698 0.1637 0.0856 0.1567 0.1134
+wine list also really nice
+0.2819 0.2232 0.1508 0.1687 0.1754
+ballato consistently delicious authentic italian food
+0.1353 0.1219 0.1383 0.1636 0.1354 0.3056
+best city ambience cozy secluded wonderful art wall
+0.0475 0.0982 0.2821 0.1602 0.0885 0.0646 0.1098 0.1491
+love pic andy warhol used frequent place painted ballato sign window
+0.0524 0.0543 0.1025 0.0475 0.0634 0.0859 0.1401 0.1795 0.1102 0.0679 0.0964
+emilio owner often sitting front table greeting guest come go
+0.1125 0.1414 0.0719 0.075 0.1049 0.1118 0.1749 0.0844 0.0464 0.0768
+eat lamb chop delicious salad really nice dressed lemon extra virgnin olive oil
+0.0446 0.0938 0.0754 0.0962 0.0837 0.0699 0.0727 0.0796 0.0833 0.0499 0.0406 0.0992 0.1111
+anyones doubt knowing enough wine please check wine list
+0.1113 0.0762 0.0823 0.0905 0.173 0.0773 0.0794 0.173 0.1369
+go try marinara sauce mozzarella en carozza mmmmmmmm everything delicious
+0.0828 0.0466 0.1221 0.1563 0.1523 0.0933 0.056 0.056 0.1018 0.1327
+food sastifying
+0.8398 0.1602
+seating ok even though sometimes alot people
+0.1821 0.1306 0.1125 0.1337 0.1705 0.0985 0.172
+noodle rice dish taste great
+0.2173 0.2158 0.2209 0.217 0.129
+want roast duck pork chicken rice ginger try
+0.1004 0.1252 0.1516 0.1295 0.1335 0.1479 0.1549 0.057
+service ok could better
+0.5471 0.155 0.1443 0.1536
+food prepared quickly efficiently
+0.444 0.1869 0.135 0.2341
+takeout great since give high quality tupperware well
+0.1184 0.093 0.1272 0.0857 0.1441 0.1565 0.1238 0.1515
+place always crowded popular
+0.3583 0.1912 0.2636 0.1869
+food great service name cantonese
+0.3532 0.0871 0.3426 0.0846 0.1325
+fell love egg noodle beef broth shrimp dumpling slice bbq roast pork
+0.055 0.0487 0.0892 0.0962 0.0811 0.1165 0.0945 0.1042 0.0683 0.0819 0.0808 0.0836
+try congee donut like deep fried dough call ow ley soh delicious sweet tasting bread
+0.0338 0.1006 0.0731 0.0488 0.0763 0.0736 0.0847 0.0653 0.0405 0.0405 0.0405 0.0962 0.0858 0.0555 0.0846
+place best chinese style bbq rib city
+0.21 0.0871 0.1462 0.1161 0.1319 0.1284 0.1802
+also recommend rice dish different variety congee rice porridge
+0.0897 0.0669 0.126 0.129 0.0603 0.0978 0.1446 0.126 0.1598
+definately place go want impress someone
+0.1332 0.3029 0.152 0.1506 0.1271 0.1343
+quick friendly service
+0.154 0.3094 0.5366
+one best comfort food place city
+0.0663 0.0796 0.157 0.3407 0.1918 0.1646
+food looked appetizing delicious since came variety fancy plate
+0.2756 0.0724 0.1042 0.1247 0.093 0.06 0.0882 0.0929 0.0889
+ended great experience gulab jamun dessert recommended waiter
+0.0589 0.0846 0.2221 0.1072 0.1135 0.1343 0.0761 0.2032
+could carry conversation routinely interrupted waitress servant asking u order hinting taking much time amazing sat
+0.0508 0.0552 0.0705 0.0583 0.0568 0.1087 0.1002 0.0521 0.0773 0.0358 0.0379 0.0462 0.0507 0.0785 0.0629 0.0581
+term food nothing special limited several appetizer
+0.1563 0.357 0.1091 0.0937 0.0888 0.081 0.1142
+yet paired rude service would never recommend anyone interested carrying kind conversation
+0.09 0.1194 0.1106 0.2076 0.0552 0.0536 0.0469 0.0685 0.0664 0.0549 0.051 0.076
+sum service varies good mediorce depending waiter get generally average ok seating always prompt though restaurant fill evening
+0.0356 0.1362 0.0642 0.0406 0.0268 0.0484 0.0832 0.0299 0.0544 0.0499 0.0386 0.0538 0.0422 0.0561 0.0395 0.1159 0.0298 0.0549
+food usually good though ocasionally wondered freshmess raw vegatables side order
+0.275 0.0616 0.0796 0.0774 0.0525 0.0861 0.0525 0.0775 0.1176 0.0707 0.0495
+many reviewer noticed order often slow arrive particularly true evening problem lunch time
+0.0635 0.0758 0.0633 0.0465 0.0682 0.0953 0.0519 0.1043 0.087 0.101 0.0722 0.0689 0.102
+decor vibrant eye pleasing several semi private boths right side dining hall great date
+0.1953 0.1047 0.0463 0.1041 0.0394 0.0791 0.0672 0.0332 0.0402 0.0447 0.0858 0.0689 0.0429 0.0482
+service prompt friendly great
+0.4458 0.1837 0.2571 0.1134
+like somosas chai chole dhosas dhal kinda dissapointing
+0.1033 0.0858 0.1759 0.0858 0.0858 0.19 0.1501 0.1233
+service varys day day sometimes nice sometimes
+0.3656 0.0719 0.0817 0.0817 0.1352 0.1288 0.1352
+kitchen however almost always slow
+0.1812 0.2344 0.1435 0.1978 0.2431
+also specify like food spicy rather bland
+0.0994 0.108 0.0778 0.3385 0.1392 0.1006 0.1365
+ambience pretty nice conversation casual lunch would probably best
+0.3678 0.0789 0.0906 0.0941 0.114 0.0707 0.0684 0.0535 0.0619
+oh yes lie phone claiming seating garden course seat available
+0.0687 0.0856 0.1092 0.1286 0.096 0.1267 0.1251 0.0847 0.1143 0.0611
+weather nice try snag outside table
+0.189 0.1763 0.0821 0.1727 0.1678 0.2121
+odd ave odd place attracts eclectic crowd say least
+0.0916 0.1081 0.0916 0.154 0.152 0.1382 0.133 0.0717 0.0599
+aside bearded courdoroy blazer professor type nyu student sleeping week see strange mix hipster frat boy smith type need told black bitter cougar cant understand arent married yet
+0.0478 0.0231 0.0231 0.0231 0.0231 0.0275 0.0374 0.0392 0.0414 0.0523 0.0282 0.0382 0.0382 0.0583 0.036 0.0311 0.0506 0.0275 0.0356 0.0299 0.0394 0.0462 0.0231 0.0266 0.0378 0.0261 0.0385 0.0508
+though undoubtedly seated table seems like barely enough room matter size party warm atomosphere worth cramped quarter fun forgot tight spot
+0.0363 0.0532 0.0519 0.0531 0.0415 0.0297 0.0359 0.0371 0.0761 0.0364 0.0352 0.0468 0.0651 0.098 0.0263 0.0638 0.0338 0.0415 0.0307 0.0533 0.0543
+waitstaff busy outstanding service never dealt rudely
+0.228 0.1159 0.1137 0.2723 0.0703 0.0981 0.1018
+course reason packed food delicious
+0.1172 0.0959 0.1218 0.4578 0.2072
+oyster lamb steak duck well prepared tender
+0.1088 0.1497 0.1393 0.1435 0.1365 0.1429 0.1793
+special usually quite good
+0.2263 0.1933 0.3306 0.2498
+great romantic place date try get corner booth table little privacy sit close
+0.0549 0.1055 0.1252 0.0616 0.0354 0.0473 0.0626 0.1112 0.0914 0.0601 0.1098 0.078 0.0571
+obv caviar top line rest menu diverse give chance taste manydifferent variety
+0.0528 0.1195 0.0823 0.0898 0.065 0.088 0.1106 0.0629 0.0728 0.1148 0.0528 0.0886
+taste make mouth water
+0.3263 0.2045 0.2372 0.232
+waitstaff great attentive
+0.4541 0.138 0.4079
+wine list huge def well selected
+0.2526 0.2 0.1214 0.1053 0.185 0.1357
+champagne caviar felt like princess
+0.1717 0.2568 0.211 0.1368 0.2238
+great people watching others
+0.2164 0.3173 0.219 0.2474
+place quiet delightful
+0.4277 0.2934 0.2789
+try caviar tried salmon crab salad good definitely good spot snack chat
+0.0432 0.1173 0.0497 0.0939 0.108 0.107 0.0787 0.073 0.0787 0.1143 0.066 0.0703
+recommend jelly fish drunken chicken soupy dumpling certainly stir fry blue crab
+0.0485 0.0774 0.0915 0.0606 0.0825 0.1271 0.0997 0.0959 0.0777 0.0889 0.0622 0.088
+course crowded care
+0.2575 0.4166 0.3259
+authentic shanghai style cannot recommend better shanghai place new york
+0.142 0.0984 0.0826 0.0667 0.0581 0.0722 0.0984 0.1493 0.1025 0.1298
+reading review thought order chow fun course greasy awful even shanghainese agreed ambience lacking
+0.0569 0.0839 0.0425 0.0312 0.0754 0.0557 0.0444 0.0978 0.0527 0.041 0.0736 0.0372 0.2405 0.0671
+traditional item yellow eel eggplant mock chicken fried juicy bun etc tourist order prepared traditional flavor harboring semi sweet juicy taste
+0.0443 0.0346 0.0489 0.0678 0.0641 0.0481 0.0472 0.0439 0.0545 0.0476 0.0314 0.0396 0.0228 0.0534 0.0443 0.0674 0.0242 0.0576 0.0512 0.0545 0.0526
+soup bomb lovingly called pork dumpling soup ha experiance
+0.1293 0.0908 0.1405 0.0699 0.1133 0.1412 0.1293 0.0984 0.0873
+wonton dough filled gently steamed seasoned pork common add amazing soup wonton seal serve steaming hot dumpling becomes new place amazing dumpling alone try wine chicken scallion pancake well
+0.0431 0.0369 0.0301 0.0422 0.0348 0.047 0.0334 0.0309 0.0285 0.0293 0.0381 0.0431 0.0233 0.0202 0.0327 0.0245 0.0416 0.0296 0.0357 0.0521 0.0293 0.0416 0.0183 0.0147 0.0508 0.0344 0.0414 0.0351 0.0372
+chow fun chow see really bland oily
+0.1611 0.119 0.1611 0.0864 0.1217 0.1493 0.2014
+okay mind oily part cause cooked way way bland
+0.091 0.0924 0.1936 0.0763 0.0763 0.1526 0.0872 0.0872 0.1435
+scallion pancake fried dumpling nothing ordinary
+0.199 0.1689 0.1541 0.2003 0.1359 0.1418
+filet mignon dish superb
+0.2058 0.2313 0.2585 0.3044
+small cute restaurant
+0.2226 0.2443 0.5331
+raga romantic cozy restaurant
+0.1855 0.185 0.3073 0.3221
+exotic food beautifully presented delight delicious combination
+0.1115 0.2729 0.1498 0.1266 0.0987 0.1235 0.1171
+staff incredibly helpful attentive
+0.4201 0.146 0.1751 0.2588
+bar well stocked interesting beer well priced wine
+0.1236 0.1288 0.1405 0.1068 0.0904 0.1288 0.1052 0.1759
+innovator french indian fusion great job making dish interesting possible still accessible
+0.0457 0.0961 0.1079 0.1257 0.0591 0.0908 0.0637 0.1012 0.0799 0.0656 0.0543 0.1098
+pair food excellent beer tap well priced wine list
+0.0769 0.2423 0.1142 0.0683 0.0831 0.0974 0.0795 0.133 0.1053
+party private room made truly memorable helpful planning
+0.1227 0.1308 0.1995 0.0771 0.124 0.0859 0.167 0.0931
+raga stand interesting fusion french indian cooking
+0.1659 0.0779 0.1163 0.1831 0.14 0.1571 0.1596
+well attended enthusiastic staff especially manager tony gaskin made excellent suggestion menu selection
+0.0728 0.0636 0.0928 0.2143 0.05 0.097 0.0649 0.0345 0.0412 0.0853 0.0572 0.0576 0.0687
+beginning appetizer scallop incredible delicious chocolate souffle rasberry mint sor bet delighted taste sensation
+0.0537 0.0642 0.0956 0.0641 0.0907 0.0919 0.0724 0.0924 0.0724 0.0383 0.0401 0.0529 0.0832 0.0881
+sure would call food indian fusion seems french indian exotic touch
+0.0435 0.0546 0.065 0.2114 0.0952 0.1109 0.0679 0.0848 0.0952 0.0863 0.0853
+recommended appetizer calamari beautifully deep fried served awful sauce ask alternative sauce
+0.0489 0.0704 0.0973 0.1208 0.079 0.0762 0.0713 0.067 0.1174 0.0592 0.075 0.1174
+best dish nori wrapped tuna
+0.121 0.2189 0.234 0.1421 0.284
+mayo nnaise forgot toast left ingredient ie cheese omelet hot temperature bacon cooked crumbled plate touched
+0.0667 0.0356 0.0443 0.0615 0.0421 0.0945 0.0519 0.0697 0.0683 0.0495 0.0725 0.0692 0.08 0.0697 0.0602 0.0645
+conclusion culinary nightmare check given table knocking glass water
+0.0784 0.1252 0.1152 0.0877 0.0988 0.143 0.1203 0.1288 0.1026
+friend ordered special sushi roll excellent presentation tasted great
+0.0812 0.0576 0.0792 0.1561 0.1244 0.1423 0.1772 0.1075 0.0745
+sushi also great
+0.4888 0.2778 0.2333
+banana tower amazing dessert well
+0.2162 0.1646 0.1765 0.2185 0.2242
+friendly informative staff attentive prompt raw bar service
+0.1097 0.1152 0.2323 0.1431 0.0784 0.0553 0.0757 0.1903
+take look rest menu oyster fantastic
+0.135 0.212 0.1332 0.1802 0.1817 0.158
+atmosphere great looking laid back scene inexpensive way spend weekend afternoon
+0.2451 0.0569 0.0832 0.0954 0.0597 0.1332 0.0822 0.0566 0.0614 0.0686 0.0576
+whem asked ask detailed question knew special
+0.094 0.1296 0.1325 0.2276 0.1628 0.1242 0.1292
+best part experience knowing manager bubbly friendly young woman great smile truly cared
+0.0469 0.0431 0.1303 0.0525 0.1077 0.072 0.1125 0.0719 0.0696 0.0496 0.0814 0.0736 0.0889
+soup udon soy sauce water
+0.2066 0.1955 0.1828 0.2672 0.1479
+sushi awful
+0.6295 0.3705
+rice poor quality cooked badly hard
+0.1834 0.1789 0.1847 0.1907 0.1595 0.1029
+furthermore rice seasoning sushi bland disgusting
+0.1382 0.1567 0.2129 0.1964 0.1532 0.1426
+fish adequate inexpertly sliced
+0.3021 0.2955 0.1395 0.263
+service awful
+0.7613 0.2387
+great sushi experience
+0.1748 0.3662 0.459
+unique apppetizers
+0.7037 0.2963
+try sushimi cucumber roll
+0.12 0.144 0.4251 0.3109
+margarita best since returned naples
+0.2124 0.1687 0.2439 0.1452 0.2299
+tomato crust mozzarella everything perfect
+0.2239 0.2308 0.2491 0.1665 0.1297
+came friend really delicious pasta mine pesto linguini shrimp linguini pomodoro sauce lobster really great came little warm hot
+0.0324 0.04 0.0489 0.0673 0.0721 0.0274 0.0692 0.0534 0.0607 0.0534 0.0683 0.0793 0.0551 0.0489 0.0367 0.0324 0.0402 0.075 0.0394
+nice restaurant overall classic upscale italian decor
+0.0841 0.2034 0.1061 0.0862 0.1345 0.1092 0.2765
+main course came see waiter least 40 minute
+0.1077 0.1054 0.0897 0.0961 0.2441 0.0902 0.1065 0.1604
+food delivered busboy waiter got cheese offered pasta water wine glass remained empty entire meal would easily spent another 20 wine
+0.1286 0.0316 0.0459 0.0763 0.024 0.0481 0.0278 0.0624 0.0379 0.0706 0.0476 0.0474 0.0409 0.034 0.0422 0.0332 0.0312 0.0329 0.0255 0.0411 0.0706
+could catch waiter eye ignored u
+0.1249 0.1092 0.2893 0.1299 0.1569 0.1898
+know talking italian remark depicts worldly somelier lpf true gourmand savvy wine basic good eat
+0.0563 0.0509 0.0842 0.1015 0.0362 0.0641 0.0702 0.0362 0.0641 0.0796 0.0987 0.1043 0.0589 0.055 0.0398
+lpf simply delicious fantasically authentic neopolitan style pizza excellente usual 1st course easily turn 2nd 3rd
+0.0343 0.0604 0.0814 0.0343 0.0962 0.0729 0.056 0.0858 0.096 0.0404 0.0476 0.046 0.0437 0.0494 0.0606 0.095
+word advice save room pasta dish never leave tiramisu
+0.0898 0.0758 0.0603 0.183 0.1505 0.1311 0.0778 0.0704 0.1613
+fish delicious incredible curry sauce
+0.1961 0.2147 0.1516 0.1847 0.2529
+everything sala thai tasty well portioned
+0.1416 0.1483 0.1521 0.2042 0.164 0.1898
+calamari come incredible sauce duck noodle yummy well
+0.1466 0.0567 0.106 0.1769 0.1402 0.1378 0.1024 0.1333
+everything good eater
+0.3778 0.3151 0.307
+pad se ew chicken del icious however pad thai far oily
+0.0975 0.0722 0.0758 0.1005 0.094 0.0515 0.0961 0.0975 0.1006 0.0676 0.1468
+asked chef recommends asked like uni know uni sea urchin japanese happens favorite served uni hand roll never let tell heaven
+0.0367 0.0522 0.0394 0.0367 0.032 0.0841 0.0413 0.0841 0.0556 0.0607 0.0523 0.0412 0.0309 0.0452 0.0841 0.0323 0.0574 0.0349 0.0321 0.0331 0.0339
+aside sea urchin chef recommended assortment fish including fatty yellow tail boton shrimp blue fin torro fatty tuna sea eel etc
+0.0532 0.0537 0.0586 0.0503 0.0298 0.0408 0.0555 0.0288 0.0507 0.0518 0.0469 0.0256 0.0549 0.0377 0.0426 0.0359 0.0507 0.0736 0.0537 0.0719 0.0333
+sake menu overlooked
+0.3084 0.325 0.3666
+try lobster teriyaki rose special roll
+0.0806 0.1876 0.182 0.2083 0.1329 0.2087
+service however bright flower garden
+0.3282 0.1205 0.2119 0.2115 0.1279
+tend judge sushi restaurant sea urchin heavenly sushi rose
+0.0673 0.0648 0.1296 0.207 0.1001 0.1092 0.0894 0.1296 0.1031
+melted little mouth perfect consistency fishy crea slightly buttery
+0.1059 0.0817 0.0912 0.0818 0.1422 0.1553 0.0577 0.114 0.1702
+sushi seemed pretty fresh adequately proportioned
+0.1832 0.1093 0.1055 0.1868 0.2018 0.2134
+rice fish ration also good try overpack rice
+0.1746 0.175 0.0808 0.1244 0.1226 0.0673 0.0808 0.1746
+kindly brought u see better
+0.2595 0.132 0.2646 0.1588 0.1852
+miso soup lacked flavor fish unfortunately well prepared past
+0.1129 0.1135 0.1348 0.1464 0.1138 0.0669 0.1106 0.1159 0.0853
+waited one hour food
+0.1408 0.1111 0.177 0.5711
+abrupt called actually claimed food late rice
+0.2087 0.0726 0.0958 0.0826 0.3256 0.0804 0.1343
+pad penang delicious everything else fantastic
+0.1783 0.1733 0.2234 0.1714 0.1159 0.1376
+toon recently redone attractive space
+0.1528 0.1338 0.1783 0.2223 0.3128
+food good ever
+0.6647 0.1924 0.1429
+authentic thai food look toon
+0.1973 0.1374 0.3687 0.1379 0.1587
+try pad thai sample anything appetizer menu delicious
+0.0654 0.1485 0.1532 0.0884 0.0964 0.1315 0.1307 0.186
+sit read exploit vt pizza deliciousness flaky tender crust perfection tomato sauce cheese combination supreme pepperoni
+0.0522 0.0636 0.0284 0.0495 0.0711 0.0604 0.0816 0.0787 0.0717 0.0622 0.0696 0.0795 0.0557 0.0639 0.0529 0.0589
+yeah sometimes service slow
+0.1546 0.1786 0.483 0.1839
+pizza pizza nyc additional topping crust taste like best freshly baked bread
+0.1069 0.1069 0.1046 0.0442 0.0826 0.1078 0.0929 0.0515 0.0523 0.0749 0.0862 0.0892
+veal parmigana better patsy
+0.2793 0.339 0.1762 0.2055
+one great place eat pizza good place take pizza
+0.0597 0.0757 0.1728 0.0643 0.1464 0.0888 0.1728 0.0731 0.1464
+delicate thin crust take pie get soggy box
+0.1903 0.1492 0.1662 0.0823 0.099 0.0735 0.1416 0.0979
+try plain pizza fresh garlic eggp lant
+0.0689 0.1418 0.2065 0.2282 0.1895 0.0826 0.0826
+eggplant delicate sweet tender
+0.2542 0.277 0.2031 0.2656
+also top meal delicious perfect slice tiramisu
+0.1196 0.121 0.1336 0.1842 0.11 0.1201 0.2114
+waiter slow sweet
+0.4339 0.2703 0.2957
+fresh ingredient everything made order
+0.2947 0.2833 0.194 0.1274 0.1006
+friendly staff actually let enjoy meal company
+0.1802 0.3815 0.0948 0.0742 0.0724 0.1058 0.0912
+expect top service small place small staff friendly accommodating could found
+0.058 0.0529 0.1727 0.0614 0.1002 0.0614 0.2107 0.0996 0.0807 0.0455 0.0569
+bruscetta bit soggy salad fresh included nice mix green iceberg dish served piping hot kitchen
+0.0782 0.0706 0.074 0.0711 0.0953 0.0431 0.0617 0.0571 0.0688 0.0736 0.0763 0.0586 0.0739 0.0479 0.0497
+chicken parm edible canned tomato sauce boxed pasta chicken portobello mushroom consisted dry inedible chicken terrible sauce
+0.0533 0.0568 0.0485 0.0624 0.0668 0.0763 0.0516 0.0694 0.0533 0.0699 0.0609 0.0431 0.0469 0.0571 0.0533 0.0542 0.0763
+complaining chicken dish manager came tell u one ever complained know dish supposed taste like
+0.0642 0.0782 0.0887 0.1125 0.0457 0.0498 0.0817 0.0408 0.0451 0.0588 0.0622 0.0887 0.0482 0.0871 0.0483
+never treated rudely
+0.2756 0.3256 0.3988
+sandwhiches world
+0.6077 0.3923
+waitress nice also get counter service sit
+0.1798 0.1123 0.0966 0.0699 0.1073 0.3189 0.1152
+real gallery star visited
+0.1844 0.3392 0.1914 0.285
+plenty place go good corned beef sandwich katz charm
+0.0799 0.1705 0.0855 0.0876 0.0993 0.106 0.1134 0.1151 0.1427
+little confusing one go order food ordered treat
+0.0971 0.1544 0.0699 0.1015 0.0647 0.3592 0.0685 0.0847
+corned beef tender melted mouth
+0.1765 0.1885 0.2842 0.1884 0.1623
+pickle great addition
+0.3744 0.2877 0.3378
+would gotten cole slaw knish stomach space
+0.0944 0.0848 0.147 0.1566 0.1115 0.0833 0.3224
+pastrami corned beef juicy piled high ask extra rye bread
+0.0946 0.0992 0.106 0.1301 0.1021 0.1157 0.0813 0.071 0.0796 0.1204
+server give sample slice order wait shortly might add
+0.1941 0.0852 0.0806 0.1106 0.0675 0.1541 0.0961 0.0964 0.1153
+kosher dill perfect compliment unforgetable sandwich give plenty
+0.0995 0.1974 0.1049 0.1545 0.1077 0.1454 0.0882 0.1024
+try hot dog snappy delicious
+0.0981 0.1636 0.1675 0.2917 0.2791
+pastrami sandwich like buttah pickle icy cold beer wash pleasurable experience
+0.0826 0.0988 0.0606 0.0745 0.0847 0.114 0.0882 0.0744 0.0781 0.073 0.171
+look foward trying ruben upon returning
+0.216 0.1858 0.1292 0.1719 0.1329 0.1643
+surprised good food first visit sunday night
+0.1124 0.0959 0.3312 0.0921 0.1277 0.0874 0.1534
+service excellent ac worked well thank god hot
+0.2913 0.1415 0.1357 0.0799 0.1207 0.0843 0.0669 0.0797
+even better know cook french classic like steak au poivre onglet without burning death overcooking
+0.0483 0.0555 0.0604 0.0568 0.0818 0.0713 0.0469 0.0837 0.1105 0.1247 0.0389 0.0534 0.0831 0.046 0.0389
+black blue need quality meat excellent might add
+0.1187 0.1022 0.1072 0.1512 0.1438 0.1715 0.0936 0.112
+frites delicious bit thick side
+0.2151 0.2395 0.2068 0.2027 0.1359
+service good warm
+0.55 0.1641 0.2859
+moules excellent lobster ravioli salty
+0.2535 0.2014 0.1582 0.2084 0.1784
+three page wine menu one page entree horedevous
+0.094 0.1058 0.2471 0.1431 0.0876 0.1058 0.1308 0.0859
+great selection wine seafood
+0.151 0.2324 0.3361 0.2805
+mention wine
+0.3537 0.6463
+wine list extensive impressive
+0.3324 0.2632 0.1955 0.2089
+love atmosphere felt like paris
+0.0951 0.48 0.1602 0.1039 0.1608
+great spot whether looking couple drink quiet dinner
+0.0964 0.1642 0.085 0.1409 0.0882 0.1172 0.1509 0.1572
+warm friendly winter terrific outdoor seating warmer month
+0.1567 0.1738 0.0989 0.1051 0.1202 0.1191 0.0962 0.13
+food great good selecion wine reasonable price
+0.3294 0.0813 0.0954 0.0628 0.1808 0.1254 0.125
+large selection bruschettas panini tramezzinis keep palate stagnating
+0.1053 0.1654 0.0831 0.1885 0.0831 0.1164 0.175 0.0831
+sure try seasonal always del icious special
+0.1102 0.0853 0.2141 0.161 0.1867 0.1023 0.1406
+bruschetta panini yummy
+0.3592 0.3739 0.2669
+always great glass wine waited
+0.1754 0.144 0.2162 0.3205 0.1439
+sat got great fast service
+0.1425 0.091 0.1202 0.1736 0.4727
+people work always friendly forget new york sometimes
+0.1216 0.0957 0.101 0.188 0.079 0.1298 0.1645 0.1205
+service sometimes lack focus ideal hurry never treated rudely
+0.268 0.0991 0.1095 0.1093 0.0867 0.0763 0.0692 0.0818 0.1002
+italian employee may speak best english add experience
+0.1466 0.1499 0.0939 0.1089 0.0772 0.1073 0.1018 0.2143
+hour brunch definitely rush kept unlimited mimosa flowing whole time
+0.1077 0.1329 0.0932 0.0911 0.081 0.0729 0.0956 0.1178 0.0707 0.1372
+dinner menu diverse top notch well
+0.1809 0.1429 0.1796 0.1337 0.1822 0.1807
+tiny table two dinner plate hung edge right middle one lane waiter traffic
+0.0694 0.0928 0.0371 0.0909 0.0729 0.0755 0.0925 0.0522 0.0618 0.0439 0.089 0.1339 0.0882
+told booked solid table available
+0.1676 0.2092 0.2199 0.2782 0.125
+asked seltzer lime ice
+0.2244 0.1627 0.3218 0.2912
+got club soda filled ice lime
+0.1109 0.1335 0.1349 0.1935 0.2029 0.2242
+food average creme brulee awful sugar charred caramelized smelled kerosene
+0.213 0.0757 0.0894 0.1321 0.0648 0.0695 0.1054 0.1232 0.0863 0.0406
+right hostess stood busboy hissed rapido rapido tried clear set table six
+0.069 0.1773 0.07 0.1067 0.057 0.057 0.057 0.0546 0.0712 0.0966 0.1228 0.0608
+best ravioli ever
+0.2495 0.5209 0.2296
+little noise think party
+0.2021 0.3132 0.2136 0.2711
+enjoyed nice caesar salad wife arugula goat cheese tasty
+0.0642 0.0937 0.1366 0.1079 0.0639 0.1733 0.1207 0.1025 0.1372
+opted pasta dish served timely fresh
+0.0713 0.2041 0.1778 0.1364 0.1884 0.222
+concluded tiramisu chocolate cake delicious
+0.129 0.2578 0.2275 0.161 0.2246
+true feel like scene goodfellas
+0.1596 0.2273 0.1088 0.2733 0.231
+nicky nose bar treat
+0.1646 0.2991 0.3328 0.2035
+best italian food ever italian mean alot
+0.0813 0.1544 0.3483 0.0749 0.1544 0.1145 0.0722
+best burger village
+0.2445 0.3518 0.4036
+service attentive suggestion menu item right mark
+0.3109 0.2337 0.1013 0.1019 0.0875 0.074 0.0907
+liked beer selection
+0.2568 0.3168 0.4264
+wow 100 beer choose
+0.2711 0.3175 0.2473 0.1642
+really cool stauff inside
+0.2382 0.2969 0.1383 0.3265
+simple comfort food hot lage portion
+0.1874 0.1634 0.3546 0.0941 0.0677 0.1329
+great place go drink 100 kind beer
+0.1085 0.2475 0.1242 0.1319 0.1592 0.1048 0.124
+lot fun live entertainment kind disney type special effect
+0.0849 0.1049 0.0949 0.1447 0.0777 0.1481 0.0742 0.0855 0.185
+food pretty tradional hot good large portion
+0.376 0.1119 0.0717 0.0997 0.1089 0.0908 0.1409
+100 different beer offer thier guest made husband happy food del icious must recommend dish must pumkin tortelini
+0.0651 0.0355 0.0507 0.0455 0.038 0.0558 0.041 0.0453 0.0398 0.1797 0.0626 0.0343 0.0382 0.0394 0.0759 0.0382 0.0807 0.0343
+entertainment great show go dinner
+0.2797 0.1555 0.133 0.1781 0.2537
+server really cool served u food drink smile
+0.141 0.0894 0.1115 0.0882 0.1059 0.2722 0.0817 0.1102
+place decor hidden bathroom made good laugh
+0.1655 0.33 0.1117 0.1451 0.067 0.0851 0.0957
+warm comfortable surroundings nice appointment witness etched glass brickwork separating dining room
+0.0935 0.1286 0.1844 0.0634 0.0716 0.0566 0.0354 0.0687 0.0354 0.0616 0.0915 0.1093
+well mannered pleasant staff tony employ
+0.1268 0.1338 0.1424 0.3736 0.1132 0.1103
+treated like royality
+0.413 0.3207 0.2663
+food spectacular appitizers main course course dessert wow need
+0.2957 0.1054 0.0759 0.0773 0.0757 0.0757 0.1158 0.0914 0.0871
+shrimp scampi excellent antipasti plentiful
+0.1945 0.1656 0.2245 0.2431 0.1722
+best shabu shabu restaurant try state area
+0.0909 0.0978 0.0978 0.3215 0.0619 0.1225 0.2075
+thius must anyone love shabu shabu
+0.1328 0.148 0.2229 0.1465 0.1749 0.1749
+always popular always full always wait
+0.1628 0.1592 0.1628 0.1298 0.1628 0.2227
+always get shabu shabu dinner beef always fresh
+0.1157 0.0819 0.0968 0.0968 0.155 0.1349 0.1157 0.2031
+fried rice really good
+0.2515 0.2996 0.2386 0.2103
+staff also attentive friendly
+0.428 0.1062 0.2636 0.2022
+shabu tatsu serf shabu shabu style japanese tableside cooking named gentle sound boiling broth
+0.0498 0.0378 0.0612 0.0498 0.0498 0.0617 0.0744 0.0634 0.0906 0.0775 0.151 0.0642 0.0694 0.0997
+table pot boiling water sunken surface get platter thin sliced meat various vegetable rice glass noodle
+0.0654 0.0462 0.0558 0.0469 0.1126 0.0954 0.0338 0.049 0.0687 0.0572 0.0629 0.0378 0.0775 0.0656 0.0589 0.0661
+dip ingredient chopstick swirl around eat
+0.1683 0.2492 0.1481 0.2176 0.1137 0.1031
+end left mild broth noodle slurp cup
+0.0912 0.0998 0.179 0.2226 0.1837 0.1176 0.1062
+fun experience group kid would love
+0.161 0.3244 0.1418 0.1383 0.1292 0.1054
+flavor fresh pretty inobtrusive nothing flashy
+0.2302 0.2282 0.1288 0.0826 0.1322 0.1979
+satisfying
+1.0
+much grown restaurant compared rest street
+0.11 0.1355 0.356 0.1398 0.1013 0.1574
+highly recommend special occasion provides intimate setting nice service
+0.0631 0.0504 0.0603 0.0695 0.109 0.1321 0.2143 0.0785 0.2229
+saul pretty good definitely great
+0.247 0.2033 0.1978 0.1834 0.1685
+food pretty good little flavorless portion small including dessert
+0.2716 0.0808 0.0786 0.0734 0.1356 0.1018 0.0936 0.0582 0.1064
+duck breast special last visit incredible
+0.1898 0.1855 0.1178 0.1903 0.1731 0.1435
+duck confit always amazing foie gras terrine fig world
+0.1108 0.1399 0.0787 0.083 0.1052 0.1075 0.1443 0.163 0.0677
+wine list interesting many good value
+0.25 0.1979 0.1518 0.112 0.1318 0.1564
+svc bit rude time esp big group overall restaurant must
+0.1365 0.0965 0.1276 0.0975 0.0611 0.0483 0.0699 0.1064 0.2038 0.0525
+place best interior seen anywhere northside burg impress whoever bring
+0.1517 0.0629 0.2676 0.0648 0.0631 0.0514 0.1313 0.0636 0.0954 0.0482
+eaten share impress large amount people serve
+0.1507 0.0973 0.1323 0.1353 0.1592 0.2026 0.1225
+service always bad though expect much anything server would recommend bringing date either
+0.2227 0.069 0.0683 0.0645 0.0749 0.0586 0.0538 0.1189 0.0592 0.0503 0.0445 0.0636 0.0518
+besides bad service le money tip
+0.1187 0.1228 0.4002 0.097 0.1229 0.1384
+ordered beef noodle soup dish thai section menu nothing got thai
+0.0524 0.0962 0.1141 0.1132 0.116 0.1023 0.0811 0.0873 0.0839 0.0513 0.1023
+however think place good hang spot
+0.1612 0.1293 0.255 0.1311 0.133 0.1904
+next time would dare ordering anything else simple asian appetizer drink
+0.0643 0.1178 0.077 0.0934 0.065 0.0699 0.07 0.1576 0.1002 0.0954 0.0895
+like ambience dark original
+0.0943 0.5689 0.2124 0.1245
+planet thailand always hit go usually sushi great thai food excellent
+0.0541 0.1248 0.0682 0.0465 0.0641 0.0508 0.1173 0.056 0.0846 0.2269 0.1069
+atmosphere greatest suppose keep price
+0.4582 0.1414 0.1215 0.1152 0.1637
+food
+1.0
+try mediterranean salad true experience taste bud
+0.0598 0.1572 0.1479 0.1267 0.2434 0.1559 0.1091
+burger great also
+0.3833 0.2815 0.3352
+place great stop great food
+0.2478 0.1086 0.0952 0.1086 0.44
+manager claimed could compensate u anything bill show lack sophistication entire group
+0.1195 0.0566 0.0571 0.0831 0.0868 0.0523 0.0861 0.0471 0.0884 0.2009 0.059 0.0632
+tuna wasabe potato excellent
+0.3445 0.12 0.2393 0.2963
+outdoor atmosphere sitting sidewalk watching world go 50 foot away 6th avenue cool evening wonderful
+0.0636 0.1747 0.0454 0.0655 0.0411 0.0425 0.0465 0.0324 0.048 0.0356 0.1497 0.0711 0.0674 0.0644 0.0522
+inside little cramped expected
+0.2997 0.1798 0.3285 0.1919
+service prompt courteous
+0.4965 0.2046 0.2989
+many time food good consistent
+0.1072 0.1721 0.4356 0.1261 0.159
+3rd time manager remembered treated like usual customer
+0.1847 0.1381 0.1873 0.0858 0.1034 0.0803 0.0785 0.1419
+really also service good waiter friendly
+0.1083 0.0968 0.3197 0.0954 0.1954 0.1844
+ordered chicken teriyaki dish found chicken extremely dry
+0.0659 0.1287 0.1242 0.1459 0.1106 0.1287 0.1827 0.1133
+dim sum however good
+0.3166 0.1929 0.2706 0.22
+disappointment coat check girl seem know customer realtively non busy night coat check girl
+0.0599 0.0681 0.0591 0.0617 0.0753 0.0694 0.0952 0.0447 0.0725 0.0968 0.1085 0.0681 0.0591 0.0617
+food great
+0.8021 0.1979
+appetizer ate dim sum variety food impossible criticize food
+0.0777 0.0481 0.1012 0.0616 0.0778 0.2428 0.0579 0.0902 0.2428
+service good excellent along attitude
+0.3938 0.1175 0.1913 0.0862 0.2112
+make reservation expect delayed 15 20 minute hosting staff difficulty seating guest arrived reservation probably lot walk in close time square
+0.0351 0.0473 0.044 0.0527 0.0382 0.0431 0.0525 0.0513 0.1597 0.0433 0.0517 0.0419 0.0354 0.0473 0.0272 0.0351 0.039 0.0347 0.0346 0.0533 0.0327
+always seated propm tly
+0.2772 0.3708 0.176 0.176
+big group place perfect recomends sharing lazy susans table even family feel comfortable
+0.0436 0.0631 0.1255 0.0602 0.0425 0.0609 0.0818 0.0425 0.0916 0.0527 0.0741 0.107 0.1545
+get zen feel without feeling rigid
+0.0961 0.175 0.2171 0.1184 0.1731 0.2204
+website rating make place look wonderful reality disappointing
+0.1587 0.1231 0.088 0.1905 0.1265 0.1074 0.1232 0.0827
+food
+1.0
+waiter attentive except bill turned table finished
+0.2108 0.2594 0.0912 0.1372 0.0799 0.1462 0.0753
+food ok least food available
+0.3733 0.1026 0.0818 0.3733 0.069
+reason seafood menu unavailable except salmon
+0.1135 0.2484 0.1724 0.1394 0.1389 0.1873
+every course better next
+0.2496 0.2583 0.2747 0.2174
+one favorite though angry lobster cold lobster salad magnificent
+0.0695 0.0791 0.1004 0.0941 0.1323 0.1194 0.1323 0.1406 0.1323
+huge place best renting big party
+0.1458 0.3112 0.1291 0.1055 0.1081 0.2004
+appetizer salad fabulous steak mouth watering pasta delicious
+0.1048 0.1289 0.0926 0.1344 0.0988 0.1337 0.1587 0.1482
+food absolutely amazing
+0.5977 0.2131 0.1892
+baked clam octopus shared appetizer best ever lamb tender full flavor dessert divine
+0.0802 0.077 0.1102 0.0447 0.0667 0.0487 0.0448 0.0919 0.1101 0.0499 0.1109 0.0817 0.0832
+waiter attentive
+0.4483 0.5517
+place beautiful bar scene seems happening
+0.1944 0.2123 0.1331 0.1993 0.1108 0.1501
+open air area good conversation still gc
+0.1476 0.1798 0.2247 0.1221 0.1497 0.0956 0.0805
+food good try lobster saffron sauce good
+0.3084 0.0893 0.0491 0.1142 0.1853 0.1644 0.0893
+also good client lunch meeting esp
+0.1681 0.1656 0.199 0.1526 0.1732 0.1415
+friend thoroughly enjoyed leisurely dinner interesting locale excellent service waiter great
+0.0567 0.0645 0.0493 0.0714 0.0848 0.0702 0.1224 0.0993 0.2045 0.1249 0.052
+metrazur beautiful spot overlooking main terminal
+0.1939 0.2223 0.1519 0.1794 0.0945 0.1579
+people rave ambience
+0.1799 0.1305 0.6896
+aesthetic place like airport lounge
+0.3912 0.2197 0.0897 0.1491 0.1504
+given incredible architecture surrounding place character
+0.0964 0.1085 0.32 0.1054 0.1912 0.1784
+food ok fish cooked well
+0.397 0.1091 0.1641 0.1703 0.1596
+nothing stand cooking
+0.3098 0.2265 0.4637
+service decent smooth would expect place price reputation
+0.255 0.0781 0.1529 0.0678 0.0857 0.148 0.0997 0.1129
+gimmick food speaks freshness preparation
+0.1743 0.3427 0.1247 0.1693 0.189
+dining room quietly elegant music shout refreshing
+0.1271 0.1518 0.1847 0.1776 0.1522 0.0861 0.1204
+service impeccable unobtrusive staff know know menu present meal attend need
+0.166 0.098 0.145 0.2026 0.0507 0.0507 0.0544 0.0688 0.0562 0.0573 0.0504
+looking around saw room full new yorkers enjoying real meal real restaurant clubhouse fabulous trying seen
+0.065 0.0417 0.034 0.1062 0.0432 0.0696 0.0712 0.0469 0.0486 0.0592 0.0486 0.1488 0.0824 0.051 0.0403 0.0434
+got little loud 8pm joint got full
+0.0931 0.1347 0.1993 0.1677 0.1926 0.0931 0.1194
+oasis refinement food though somewhat uneven often reach pinnacle new american fine cuisine chef passion kitchen precise execution evident fish dish soup
+0.047 0.0718 0.098 0.0276 0.0454 0.0389 0.0259 0.0256 0.0385 0.0379 0.0356 0.0258 0.076 0.0367 0.0373 0.027 0.0692 0.0657 0.0478 0.0405 0.0414 0.0404
+never better enjoyed humble root vegetable mushroom consomme chef accomplishes without fat
+0.0542 0.0589 0.0506 0.1011 0.0942 0.1053 0.0921 0.1309 0.081 0.1115 0.0566 0.0636
+service highly refined seating delayed 35 minute past reservation maitre apologized regularly kept u apprised progress
+0.1568 0.0444 0.1076 0.0619 0.0631 0.0401 0.063 0.0501 0.0567 0.0779 0.0559 0.039 0.0377 0.0629 0.0308 0.0522
+decor simple comfortable
+0.4788 0.2254 0.2958
+food delicious come empty stomach
+0.461 0.2086 0.0787 0.1466 0.105
+portion small food good make
+0.1652 0.152 0.4407 0.1276 0.1146
+must crabmeat lasagna world chocolate bread pudding dessert
+0.071 0.1414 0.1616 0.0863 0.1531 0.1329 0.1229 0.1308
+staff attentive earth
+0.5061 0.3118 0.1821
+ambience authentic relaxing always received attentive prompt service
+0.2743 0.1058 0.0922 0.0594 0.0532 0.1442 0.079 0.1918
+ordered chicken casserole got small piece chicken dark meat bone
+0.056 0.1093 0.125 0.0548 0.1012 0.0773 0.1093 0.152 0.116 0.0989
+ordered steak medium beef
+0.1526 0.3284 0.2387 0.2803
+came table burned beyond recognition stringy
+0.0987 0.1862 0.1643 0.169 0.169 0.2128
+one asked wrong left nothing touched plate
+0.104 0.1406 0.1139 0.1207 0.1633 0.185 0.1725
+server checked u maybe twice entire meal
+0.236 0.1069 0.1772 0.0923 0.1175 0.1204 0.1496
+took nearly hour get due service
+0.1059 0.0914 0.1424 0.0977 0.117 0.4456
+ummm beer cold
+0.4297 0.2609 0.3094
+interior
+1.0
+reality felt gotten air france 8th district paris
+0.1085 0.1056 0.069 0.1269 0.119 0.2692 0.0959 0.106
+service good prompt attentive non intrusive
+0.2971 0.0887 0.1224 0.2234 0.0947 0.1736
+food good well considering tried budget selection though wish pork belly ordered roasted bit longer fat melt mouth experience
+0.1458 0.0422 0.0586 0.0521 0.0266 0.0461 0.0553 0.041 0.0263 0.0527 0.0408 0.0278 0.06 0.057 0.0316 0.0429 0.0547 0.044 0.0945
+wine list selection good wine glass generously filled top
+0.1514 0.1199 0.1047 0.0799 0.1514 0.1021 0.1186 0.0898 0.082
+traditional french decour pleasant though hall rather noisy restaurant full raise voice able maintain conversation
+0.0582 0.0668 0.099 0.0752 0.0469 0.066 0.0495 0.0647 0.1376 0.0399 0.0534 0.0723 0.0377 0.0736 0.0592
+buffet nice selection
+0.2333 0.3632 0.4035
+food average including surprising tasty dish
+0.3531 0.1256 0.0756 0.1198 0.1767 0.1491
+service also good
+0.6245 0.1891 0.1864
+food good
+0.7755 0.2245
+place nice calm
+0.3601 0.2185 0.4214
+service bit slow
+0.5607 0.2259 0.2134
+theater block away delicious meal beautiful room
+0.1428 0.0869 0.0758 0.1583 0.1149 0.2152 0.2062
+service attentive
+0.5708 0.4292
+ok server wander around little clueless enough server crowd get fine make small effort get attention
+0.0526 0.0992 0.0457 0.0443 0.0517 0.08 0.055 0.0992 0.0931 0.0407 0.0505 0.0498 0.066 0.0723 0.0407 0.0594
+everything excellent menu quite extensive eat view side city
+0.1073 0.1457 0.0983 0.1185 0.0999 0.0648 0.1366 0.0794 0.1494
+try time square cocktail ginger lemonade vodka also available without vodka
+0.0505 0.1254 0.077 0.0937 0.1372 0.1043 0.0883 0.0933 0.0587 0.0832 0.0883
+took 15 minute put water glass
+0.1256 0.1546 0.2123 0.1448 0.1608 0.2019
+took 25 minute bring appetizer
+0.1684 0.1824 0.2846 0.1308 0.2338
+took almost hour bring ent rees
+0.1747 0.1652 0.235 0.1358 0.1447 0.1447
+lamb meat cooked extrmely chewy
+0.2352 0.2107 0.2288 0.1018 0.2236
+scrapped bottom vessel make rice resul large chunk burnt rice serving bowl
+0.0536 0.0813 0.0995 0.0731 0.1159 0.0536 0.0679 0.0973 0.0948 0.1159 0.0616 0.0858
+never came back refill glass
+0.1808 0.1572 0.1868 0.208 0.2672
+food authentic
+0.6513 0.3487
+felt though eating paris
+0.2952 0.2341 0.1744 0.2963
+service excellent friendly attentive
+0.3553 0.1726 0.2049 0.2672
+good wine choice
+0.2578 0.4888 0.2534
+ordered dessert drink refill offered
+0.1376 0.2825 0.2163 0.2079 0.1558
+able sit long wanted chat nice
+0.1348 0.2089 0.1575 0.141 0.1542 0.2037
+seated outside waiter spilled red wine hot tea date
+0.118 0.0954 0.174 0.1007 0.1035 0.1611 0.0779 0.0881 0.0813
+shooed inside
+0.409 0.591
+one would think get apology complimentary drink instead got snobby waiter would even take order 15 minute gave u lip asked
+0.0316 0.0419 0.0463 0.0345 0.0446 0.0449 0.0487 0.0331 0.0303 0.0882 0.0962 0.0419 0.0384 0.0386 0.0292 0.046 0.0632 0.0378 0.0631 0.0589 0.0427
+food exceptional
+0.7313 0.2687
+menu consisted standard brassiere food better place like balthazar etc
+0.0846 0.0802 0.0708 0.0508 0.2661 0.0724 0.1498 0.0612 0.0983 0.0659
+choose go one special braised lamb shank red wine excellent
+0.049 0.0739 0.0509 0.0686 0.1319 0.1153 0.1514 0.0922 0.1436 0.1232
+restaurant bit noisy something overlooked sit enjoy great meal
+0.2471 0.1169 0.1161 0.0684 0.1073 0.1049 0.0672 0.0738 0.0982
+pho incredible particular fan summer roll water spinach garlic vegetable squid chili lemongrass
+0.0655 0.0675 0.0564 0.0471 0.0617 0.087 0.0623 0.1009 0.0924 0.1029 0.0859 0.0861 0.0843
+wait staff friendly overly efficient
+0.1331 0.3834 0.1811 0.1382 0.1642
+become regular treated one
+0.3001 0.207 0.2974 0.1955
+light refreshing summer roll fried remind vietnamese place paris
+0.1265 0.135 0.0844 0.119 0.1 0.0691 0.1005 0.1626 0.1028
+grilled whole fish wonderful great sp icing
+0.1329 0.0789 0.1603 0.1231 0.0957 0.1621 0.2471
+interesting dish change include chicken curry sauce salmon caserole
+0.1074 0.136 0.0814 0.0854 0.1199 0.1254 0.1718 0.1113 0.0615
+always found waiter go way help ful despite fact often busy lot diner
+0.0734 0.0781 0.1448 0.069 0.0599 0.0726 0.0466 0.0686 0.0662 0.0645 0.1008 0.0636 0.0919
+ambiance music funky enjoy
+0.4002 0.2503 0.2542 0.0952
+restaurant dozen time craving pho lemon grass chicken beef cube rice place go
+0.169 0.0447 0.0808 0.0424 0.0634 0.0801 0.0635 0.0762 0.0717 0.0509 0.0844 0.1152 0.0578
+food consistant year never let
+0.4093 0.1776 0.2163 0.1025 0.0942
+service descent even small place packed
+0.3676 0.0979 0.0897 0.1306 0.2133 0.1008
+real kicker menu however beef cube chicken chili lemon grass
+0.0841 0.0568 0.0992 0.111 0.1092 0.0775 0.1161 0.1272 0.1221 0.0968
+back nha trang literally hundred time beef cube good
+0.0915 0.1452 0.1343 0.0755 0.0999 0.1396 0.1238 0.0878 0.1023
+also make sure pay attention music piped quite weird selection
+0.0849 0.0751 0.0594 0.0859 0.0896 0.1706 0.1259 0.1107 0.0881 0.1097
+food delicious
+0.6885 0.3115
+sit inside
+0.4377 0.5623
+setting casual romantic
+0.5077 0.234 0.2582
+food excellent
+0.6797 0.3203
+daring try balsamic vinegar icecream wonderful
+0.1448 0.0634 0.2442 0.2227 0.1983 0.1266
+lovely peaceful place eat outside
+0.1686 0.3462 0.2489 0.0926 0.1437
+restaurant look beautiful green lawn hudson river statue liberty
+0.1966 0.089 0.1465 0.0907 0.1187 0.073 0.0627 0.1307 0.092
+set far small street traffic noise
+0.1544 0.1197 0.1648 0.1744 0.1867 0.2001
+food good especially basic dish drink delicious
+0.3278 0.0949 0.0906 0.1017 0.1384 0.0983 0.1483
+wonderful strawberry daiquiries well
+0.2382 0.3173 0.1431 0.3015
+walk around tray dim sum
+0.1974 0.1578 0.1871 0.2844 0.1733
+order menu leave feeling like missed full experience
+0.0744 0.1313 0.0936 0.1582 0.0949 0.0809 0.0989 0.2676
+service bad food took forever come sat upper level
+0.2435 0.0747 0.251 0.0578 0.0769 0.0429 0.0734 0.086 0.0939
+chinese dessert known healthful benefit addition sweetness
+0.1439 0.1438 0.089 0.1829 0.1037 0.1063 0.2303
+far chinese dessert place know ny anywhere close northeastern america serf dessert frog jelly couple variety pig foot ginger simmered black vinegar
+0.0326 0.051 0.051 0.0733 0.0385 0.0554 0.0305 0.0334 0.0248 0.0495 0.0402 0.051 0.0507 0.0455 0.0294 0.0417 0.0356 0.0379 0.0562 0.0565 0.0424 0.0727
+another couple special bamboo rice claypot congee noodle
+0.0738 0.084 0.0976 0.189 0.1536 0.071 0.1762 0.1547
+waitress remembers friendly know regular fried mini bun condensed milk assorted fruit beancurd
+0.1213 0.074 0.1241 0.0657 0.0457 0.0768 0.0527 0.0832 0.1026 0.0696 0.0718 0.0702 0.0423
+best dessert mixed drink well snack food
+0.0824 0.1383 0.0929 0.1059 0.1419 0.0857 0.353
+shared bottle sake order edamames sushi plate sashimi
+0.0837 0.1097 0.1178 0.0703 0.0745 0.2018 0.126 0.2162
+generous portion
+0.5187 0.4813
+found variety sashimi plate satisfying fresh yummy
+0.1189 0.1189 0.2057 0.1199 0.1261 0.1958 0.1147
+far service go waitress particularly friendly got job done
+0.0642 0.2488 0.0724 0.1402 0.1036 0.1434 0.0479 0.0971 0.0823
+delivery fast
+0.4366 0.5634
+decor really blah hip happening
+0.4018 0.1176 0.1573 0.1676 0.1557
+good food recommend fun night
+0.1263 0.4361 0.0955 0.1402 0.2019
+people restaurant pretty obnoxious loud
+0.1571 0.3585 0.1292 0.1816 0.1736
+even overcharged last time
+0.1832 0.183 0.328 0.3058
+make sure spicy scallop roll
+0.1473 0.1164 0.2329 0.27 0.2334
+delicious
+1.0
+kitchen food del icious sushi world
+0.1063 0.3862 0.1345 0.0737 0.1996 0.0998
+mizu home creative unique roll found anywhere else
+0.1152 0.0902 0.1775 0.169 0.1537 0.1194 0.0874 0.0876
+good bagel good cream cheese
+0.1707 0.1974 0.1707 0.241 0.2203
+none yucky whipped stuff
+0.1739 0.3719 0.2646 0.1897
+toaster strange
+0.5663 0.4337
+great bagel made old fashioned way
+0.1362 0.1848 0.1258 0.1812 0.2367 0.1353
+dra wbacks service slow toast
+0.093 0.093 0.4731 0.1801 0.1608
+delicious bagel especially right oven
+0.2868 0.2121 0.1751 0.1464 0.1796
+service fast friendly
+0.5144 0.189 0.2966
+drawback wo toast bagel make egg bagel
+0.135 0.1661 0.1401 0.1423 0.1105 0.1637 0.1423
+neighborhoody quick sufficient
+0.3989 0.2424 0.3587
+apetizers food
+0.2461 0.7539
+compared es tal offer le doughy bagel
+0.1314 0.1542 0.1248 0.1025 0.0952 0.2562 0.1356
+even scoop nice diet much little
+0.1486 0.1776 0.2145 0.1293 0.1603 0.1697
+cream cheese world love coffee
+0.2703 0.2472 0.1709 0.1392 0.1723
+masala dosa quite good would scale
+0.2092 0.2314 0.1807 0.1366 0.1217 0.1204
+fan fusion dosa filling went portabella mushroom avocado
+0.0654 0.1539 0.1439 0.1045 0.1352 0.1378 0.1249 0.1344
+filling may unconventional dosa batter definitely authentic combination tasty
+0.09 0.0717 0.124 0.124 0.1523 0.0678 0.1353 0.1084 0.1265
+tried curry chicken masala portobello cheese dosas delicious
+0.0593 0.1264 0.1209 0.144 0.1587 0.1214 0.1223 0.147
+highly spiced chai tea great
+0.166 0.2669 0.2365 0.1815 0.1492
+sandwich straightforward lovely drink cooler range diet soda perfect mango lassi
+0.0983 0.1425 0.1001 0.0787 0.0872 0.0795 0.054 0.0596 0.0709 0.1079 0.1212
+order dosa get 12 serve biggest piece food world unthinkable foot long
+0.0472 0.1285 0.0557 0.0519 0.0573 0.0652 0.069 0.2619 0.0677 0.05 0.0764 0.0692
+trust great devoured time
+0.2133 0.2239 0.2043 0.3585
+dosas skimpy unattractive drip grease personally drink popcorn topping eat another one
+0.0951 0.1031 0.1535 0.0816 0.1074 0.0582 0.0757 0.0802 0.0931 0.0529 0.05 0.0491
+sandwich dry tasteless way overpriced
+0.2168 0.1898 0.2426 0.1419 0.2089
+food amazing
+0.7595 0.2405
+definitely excellent date spot ambiance weekend night scene alive
+0.0654 0.1149 0.0676 0.1025 0.2302 0.0725 0.1129 0.1407 0.0933
+time extremely dissappointed service boarderline rude
+0.1401 0.1874 0.0776 0.344 0.0677 0.1833
+wouldnt even let finish glass wine offering another
+0.0976 0.1003 0.0975 0.0872 0.1569 0.2327 0.1438 0.084
+much time seems like care
+0.1673 0.259 0.2104 0.1507 0.2125
+dinner ok nothing would
+0.3243 0.2215 0.2462 0.208
+egg benedict brunch worst entire life tried removing hollondaise sauce completely failed
+0.0959 0.1499 0.0953 0.0687 0.0658 0.0544 0.0455 0.0963 0.0475 0.1328 0.0783 0.0696
+filet mignon best city major steakhouse luger spark etc
+0.1009 0.1134 0.0701 0.145 0.0868 0.1499 0.1188 0.1409 0.0743
+garlic mashed potato hand best city
+0.1902 0.2327 0.1653 0.1006 0.1014 0.2098
+kruno beverage manager best bartender yet come acr os
+0.0628 0.0892 0.1764 0.0769 0.1687 0.1384 0.0562 0.0628 0.1686
+drink inventive delicious classy
+0.1561 0.2461 0.2354 0.3625
+moment enter till moment walk friendly helpful staff fantastic
+0.086 0.1073 0.0549 0.086 0.0687 0.1328 0.1171 0.2811 0.0662
+please try filet mignon tender piece ever
+0.1154 0.0749 0.1583 0.1778 0.2485 0.124 0.1011
+zucchini mashed potato blend garlic butter simply melt mouth
+0.1214 0.1502 0.1068 0.1219 0.1228 0.0927 0.0943 0.1053 0.0846
+finish delightful dinner experience must dessert especially white chocolate bread pudding gelato hot chocolate
+0.0387 0.069 0.0756 0.1218 0.04 0.0736 0.052 0.0767 0.0862 0.0748 0.0692 0.0864 0.0499 0.0862
+go roth try served mike great
+0.1544 0.2573 0.087 0.1772 0.1893 0.1349
+expected menu comprised pad thai tom yum soup thought made place special
+0.0709 0.0781 0.0676 0.0887 0.0916 0.1145 0.0684 0.1013 0.0602 0.056 0.1383 0.0644
+ordered tamarind duck wife ordered noodle ground beef delighted way dish evoked thai flavor unexpected way
+0.0363 0.0847 0.0804 0.0443 0.0363 0.079 0.0526 0.0666 0.0502 0.0466 0.0803 0.0725 0.0709 0.1011 0.0516 0.0466
+instead pan asian thought simply creative take thai cuisine much rather innovation traditional thai spice another unremarkable noodle dish
+0.0288 0.0492 0.0474 0.0345 0.0474 0.0671 0.0336 0.0526 0.1093 0.036 0.0419 0.0824 0.0493 0.0526 0.0541 0.028 0.0678 0.0586 0.0596
+plus entree held kitchen busy saturday night owner sent complimentary summer roll hold u
+0.0524 0.0611 0.069 0.0579 0.0869 0.0952 0.0974 0.1094 0.0422 0.0583 0.0615 0.0867 0.0402 0.0818
+waitress sweet accomodating overbearing
+0.2772 0.2047 0.1704 0.3478
+music get little loud time made want lean closer beautiful wife got whiff corriander
+0.1288 0.0464 0.0589 0.0871 0.0861 0.0497 0.061 0.0655 0.0533 0.1341 0.0508 0.0407 0.096 0.0416
+liked food quasi thai restaurant
+0.0747 0.3268 0.2068 0.1218 0.2699
+nice fresh ca give high score authentic thai
+0.1149 0.1773 0.1055 0.0765 0.1286 0.0917 0.1801 0.1254
+food good thai
+0.6016 0.1742 0.2242
+food average thai fusion stuff bit sweet every thing serve sweet
+0.2267 0.0806 0.0845 0.119 0.0599 0.0886 0.0916 0.0561 0.0518 0.0496 0.0916
+thing moderately enjoyed grilled chicken special edamame puree
+0.0828 0.1259 0.0848 0.1241 0.1349 0.095 0.1275 0.225
+never edamame pureed thought innovative tasty could used bit salt
+0.0656 0.0921 0.1703 0.0641 0.1419 0.131 0.067 0.0667 0.1023 0.0988
+decor night tho really need clean vent ceiling quite un appetizing kill effort make place look sleek modern
+0.1243 0.0513 0.0292 0.0364 0.0326 0.0523 0.0489 0.0807 0.0424 0.0491 0.0419 0.0257 0.0419 0.0288 0.0624 0.0414 0.1229 0.0879
+well place ghetto even funny
+0.2094 0.2934 0.1834 0.1233 0.1904
+jimmy hand hottest night spot bron
+0.1668 0.1142 0.1897 0.2281 0.2072 0.094
+right major deegan get lady city
+0.1355 0.1697 0.112 0.1248 0.1745 0.2835
+dinner take date huge dance floor probably one biggest see ny
+0.125 0.074 0.0861 0.082 0.0945 0.1331 0.0627 0.0604 0.0774 0.0725 0.1324
+finest latin woman see life hang jimmy
+0.155 0.1654 0.1645 0.1109 0.1037 0.1396 0.1609
+great bar gorgeous bartender ever seen specifically blond lady
+0.0743 0.1161 0.1408 0.1542 0.0647 0.0724 0.0603 0.2277 0.0895
+good atmosphere combination hottest music dress code relatively strict except friday
+0.0591 0.2168 0.0876 0.0786 0.1206 0.0874 0.1057 0.0636 0.0699 0.0523 0.0584
+service fantastic
+0.7768 0.2232
+although place could little eye catching roomier time really matter
+0.1178 0.1739 0.079 0.0834 0.0822 0.0942 0.0589 0.122 0.1015 0.0871
+soup pretty good
+0.4124 0.2978 0.2897
+really great deal considering got full four dollar
+0.1603 0.1204 0.1025 0.1743 0.0911 0.1169 0.1104 0.1242
+took five minute get empty table standing bad
+0.0985 0.085 0.1665 0.0909 0.1359 0.1757 0.1203 0.1272
+increase service lot
+0.1667 0.657 0.1763
+knowledge chef waitress average
+0.3059 0.2036 0.2972 0.1933
+sell special sushi everything topping sauce etc
+0.084 0.1056 0.208 0.1397 0.1484 0.2146 0.0997
+service awful last time mean last time told needed table would leave
+0.2101 0.0659 0.0918 0.0856 0.0712 0.0918 0.0856 0.0536 0.0504 0.089 0.0559 0.0491
+fish fresh variety fish nothing ordinary
+0.1798 0.2294 0.1393 0.1798 0.1329 0.1387
+sauce used also exciting
+0.375 0.1793 0.2067 0.239
+omakase showcase technique variety serving almost 40 item bbq ed spicy tuna roll wrapped fresh nori seems rather limp performance
+0.0398 0.0541 0.0845 0.0438 0.03 0.0298 0.0354 0.0374 0.0484 0.048 0.0562 0.0749 0.0564 0.0375 0.0721 0.0617 0.0439 0.0407 0.0621 0.0434
+nyc available many different vegetable meat fish japanese cuisine number unique food preparation could used greater effect get almost nothing sort
+0.0568 0.0225 0.0299 0.0241 0.0593 0.0481 0.0503 0.0457 0.0944 0.0316 0.0552 0.1217 0.0671 0.0311 0.031 0.0365 0.0691 0.0259 0.0265 0.0372 0.0359
+perhaps food considered extreme upper east side resident rest u actually eaten ethnic food simply dull
+0.0391 0.145 0.0422 0.0521 0.0497 0.0606 0.0373 0.0621 0.0341 0.0564 0.0427 0.039 0.0799 0.145 0.0488 0.066
+best sushi new york city hand
+0.0997 0.2208 0.165 0.2091 0.2064 0.099
+get tuna gari
+0.1902 0.4899 0.3199
+keep capex minimum put cash bagel among best city
+0.101 0.0722 0.13 0.1005 0.1031 0.1266 0.0956 0.0883 0.1827
+great bagel spread good place hang
+0.1199 0.1628 0.16 0.1408 0.2738 0.1428
+great place grab hot bagel way work
+0.1152 0.263 0.0938 0.1239 0.1564 0.1145 0.133
+unlike hh block place actually give hearty hot bagel town known
+0.0823 0.0784 0.0712 0.1615 0.0844 0.0652 0.138 0.0761 0.096 0.0773 0.0695
+course atmosphere lacking expect 24 hour bagel place anyways
+0.0694 0.288 0.105 0.0884 0.0518 0.0841 0.0908 0.1527 0.0698
+pick bagel 2nd best chicken salad ever even low fat good
+0.0478 0.1019 0.1027 0.0711 0.1134 0.1199 0.0654 0.0721 0.128 0.0896 0.0882
+employee excellent even know name order pathetic ca stay away
+0.1574 0.1637 0.0822 0.1029 0.0832 0.0625 0.1033 0.109 0.0605 0.0753
+plus make salad limit much put
+0.1494 0.1561 0.2362 0.1458 0.1531 0.1594
+actually get salad worth take home add lettuce
+0.1256 0.0908 0.1681 0.0869 0.1016 0.1032 0.1314 0.1924
+bagel ok sure make special request
+0.2045 0.1678 0.1256 0.1589 0.1602 0.1831
+asked open faced cheese sandwich manager basically told take business elsewher
+0.0757 0.1007 0.0837 0.1075 0.1078 0.1542 0.0747 0.0713 0.0685 0.1009 0.0549
+sure get anything bagel turkey burger scary
+0.0998 0.1032 0.1138 0.1625 0.1644 0.1631 0.1932
+pick bagel best bagel city
+0.1018 0.2169 0.1513 0.2169 0.313
+big soft well good lunch food
+0.0755 0.1691 0.1551 0.1117 0.1029 0.3857
+sometimes best food others well suck
+0.1394 0.0907 0.3886 0.1096 0.1562 0.1155
+good chicken peanut sauce friend mixed sqewer dish great chicken lil dry shrimp lil salty
+0.058 0.0746 0.0688 0.1068 0.0539 0.0527 0.0382 0.0846 0.0494 0.0746 0.0536 0.0657 0.0818 0.0536 0.0836
+coconut rice good
+0.3669 0.372 0.2611
+interior warm table lit candlelight patron happily eating praising wait staff cook constantly pretty rare see strange
+0.1263 0.0641 0.0522 0.0631 0.1143 0.0572 0.0325 0.0266 0.0338 0.0522 0.1505 0.0354 0.0423 0.0378 0.0418 0.0297 0.0402
+ordered chu chu curry friend ordered pad thai chicken
+0.0657 0.1307 0.1307 0.134 0.0926 0.0657 0.1243 0.1283 0.1281
+chu chu curry really delish pad thai unbelievable large portion
+0.1091 0.1091 0.1118 0.0944 0.0921 0.1037 0.107 0.0957 0.0694 0.1077
+thai ice tea amazingly smooth yummy
+0.159 0.1457 0.1281 0.1873 0.2482 0.1317
+boo rice think called jasmine rice sure dry texture seemed like left rice
+0.0797 0.0951 0.0658 0.0514 0.0838 0.0951 0.0474 0.0756 0.135 0.0711 0.053 0.052 0.0951
+one best thai restaurant good service good
+0.0613 0.0735 0.1174 0.26 0.0912 0.3055 0.0912
+better try lab ped spicy duck salad pad thai tom yum kung etc
+0.066 0.0386 0.0463 0.0463 0.0997 0.1025 0.0954 0.0876 0.0903 0.113 0.0675 0.0869 0.06
+delivery ca speak ambience considering lack attention give food certainly ca much see
+0.0474 0.0538 0.0564 0.2378 0.0613 0.0679 0.0532 0.039 0.1715 0.0742 0.0538 0.0438 0.04
+mussaman curry ordered thin water aside poorly fried tofu ordered graciously provided one piece poorly cooked potato
+0.0346 0.0707 0.0346 0.0784 0.0536 0.0718 0.0648 0.0629 0.0675 0.0346 0.066 0.0655 0.0353 0.0478 0.0648 0.0779 0.0691
+plain simple bad thai food
+0.1296 0.2092 0.1179 0.1475 0.3958
+red curry weak tasteless pad thai stuck together lumpy rice often overcooked seafood pretty sketchy
+0.0643 0.071 0.0621 0.0764 0.0658 0.0679 0.043 0.0455 0.088 0.0752 0.0482 0.0738 0.0835 0.0543 0.0812
+pizza good though
+0.4553 0.2763 0.2684
+awsome pizza especially margheritta slice
+0.1848 0.3138 0.1818 0.1255 0.1941
+always busy fast moving
+0.2295 0.3154 0.2722 0.183
+great atmoshere worth every bit
+0.128 0.4351 0.1057 0.1284 0.2028
+open late well late ever got night person
+0.1457 0.1028 0.1674 0.1028 0.0895 0.0778 0.1928 0.121
+nice pizza place good selection thin crust pizza including basil slice
+0.0762 0.1064 0.1256 0.0646 0.0847 0.0963 0.1073 0.1064 0.0478 0.119 0.0658
+calzones horrific bad vomit inducing yuck
+0.2332 0.2016 0.1478 0.0947 0.1617 0.161
+smell like stuff old canned vegetable like spinach mushroom calzone
+0.1022 0.0653 0.075 0.0932 0.1237 0.1383 0.0653 0.1357 0.1209 0.0804
+counter service bad
+0.2047 0.6085 0.1868
+rude time friendly
+0.3514 0.2685 0.3802
+food absolutely horrible
+0.6036 0.2152 0.1812
+food better get good neighborhood restaurant
+0.3143 0.0856 0.0669 0.091 0.1827 0.2595
+cannot ambience place cramped guest sit aisle
+0.0692 0.3815 0.1549 0.1358 0.0854 0.0964 0.0769
+annoying thing though fact server seem trained drive revenue
+0.1127 0.073 0.0899 0.0867 0.1655 0.1026 0.1758 0.0705 0.1233
+nothing good sale call tactic amma obvious
+0.1305 0.1237 0.166 0.1313 0.0815 0.2157 0.1511
+excellent place relax food one best city new york
+0.1135 0.1356 0.0799 0.2408 0.0468 0.0562 0.1163 0.093 0.1179
+one best chicken tikka masala
+0.1114 0.1337 0.2132 0.2879 0.2539
+music best among indian restaurant visited
+0.2133 0.0843 0.0913 0.1625 0.2981 0.1505
+must dosa lover
+0.2213 0.5107 0.2679
+menu seemed wide variety dish seafood lover interesting way preparing
+0.096 0.0931 0.0881 0.0967 0.1275 0.1384 0.0777 0.1006 0.074 0.1078
+also hostess called today thank u coming mentioned hoped girlfriend enjoyed birthday unexpected truly beyond thing
+0.0597 0.1206 0.0453 0.0492 0.0571 0.0791 0.0561 0.0483 0.0654 0.0481 0.0476 0.0717 0.0552 0.0744 0.0758 0.0464
+quite poor service appetizer came pretty quickly another hour till entree showed
+0.0923 0.0969 0.2336 0.077 0.0525 0.0717 0.0732 0.0477 0.0747 0.0556 0.07 0.0548
+comp got champagne fabulous
+0.2575 0.1829 0.2826 0.277
+decor minimalist clean nothing distract commend
+0.2996 0.2833 0.126 0.0815 0.1108 0.0988
+service friendly
+0.6343 0.3657
+fluke sashimi drizzled jalapeno lime olive oil fruit oil nicely highlighting fish sweetness
+0.0595 0.0973 0.0958 0.0726 0.0663 0.0819 0.0917 0.0556 0.0917 0.0714 0.0335 0.0726 0.1102
+touch jalapeno heat contrast would good indeed
+0.1569 0.1606 0.0998 0.2421 0.1003 0.1125 0.1278
+barbecued codfish gorgeously moist poached yet fabulous texture let curiously bland seasoning spice rub might overwhelmed however herb mix sauce would done much enhance
+0.0452 0.0587 0.0575 0.0548 0.0429 0.0432 0.0291 0.0602 0.0237 0.0369 0.0415 0.0576 0.0394 0.0358 0.0265 0.0309 0.0366 0.0536 0.0325 0.0548 0.0265 0.033 0.0262 0.0527
+fresh restaurant amazing food delicious course fresh
+0.135 0.2114 0.0811 0.2561 0.1159 0.0656 0.135
+great romantic evening fun evening friend
+0.1178 0.2265 0.1869 0.1535 0.1869 0.1284
+girl waited u mind table ah downtown fashion people seemed concerned walking front door gossiping co worker paying attention order
+0.0412 0.0386 0.0609 0.0407 0.0644 0.0459 0.0736 0.0554 0.0567 0.0483 0.0419 0.0515 0.0604 0.0537 0.0503 0.0431 0.0521 0.0443 0.0486 0.0282
+drink got screwed acted put upon
+0.1951 0.1214 0.1744 0.1866 0.1728 0.1497
+total hipster wannabe attitude otherwise sweet spot
+0.0969 0.168 0.1423 0.1813 0.1241 0.1408 0.1465
+really though seasoning
+0.2808 0.2403 0.4788
+food asian air fusion
+0.4373 0.1469 0.1864 0.2294
+make crave msg kidding
+0.2521 0.1941 0.3465 0.2073
+look nose like
+0.3934 0.3648 0.2418
+still mad pay lousy food
+0.1065 0.1165 0.1398 0.1673 0.4699
+hanger steak like rubber tuna flavorless mention tasted like thawed
+0.1175 0.1044 0.0585 0.1305 0.1394 0.127 0.0764 0.0905 0.0585 0.0973
+found cold night perfect spot warm
+0.1384 0.1446 0.2002 0.1169 0.1818 0.2181
+recieved prompt service smile
+0.1402 0.1937 0.47 0.1961
+exemplifies soho cute artsy interesting
+0.2467 0.174 0.1586 0.281 0.1397
+ordinary beef version cheap undercooked beef
+0.1532 0.1684 0.1503 0.1515 0.2083 0.1684
+also ordered delivery restaurant forgot half order
+0.1346 0.0874 0.1266 0.3783 0.1088 0.0819 0.0825
+food dazzling flavor overwhelm palate truly embracing beauty authentic thai cuisine
+0.1626 0.0774 0.0865 0.0727 0.0653 0.0596 0.0882 0.1139 0.0871 0.0606 0.1261
+try pad se ew chicken cashew nut memorable repeatable experience
+0.0478 0.1084 0.0803 0.0844 0.1118 0.1314 0.108 0.0762 0.0573 0.1945
+really liked noodle dish rice avenue compared green curry dish
+0.0875 0.0609 0.1106 0.1124 0.1098 0.115 0.0863 0.1014 0.1037 0.1124
+atmosphere much better sripraphai modern sleek
+0.2753 0.0661 0.0706 0.0947 0.2056 0.2876
+restaurant vegetarian meat dish whatsoever
+0.3587 0.1447 0.1716 0.1835 0.1415
+seat uncomfortable sitting wall wooden bench
+0.1183 0.1511 0.0944 0.2511 0.2318 0.1534
+rather cramped busy restaurant close early
+0.1177 0.1955 0.1635 0.327 0.1017 0.0946
+vegetarian almost dish great
+0.273 0.1786 0.3462 0.2022
+ordered lassi asked time never got
+0.1091 0.2643 0.1505 0.226 0.1433 0.1068
+note serve beer must bring
+0.1931 0.1978 0.2549 0.1922 0.1619
+pick scallion pancake fried vegetable juice special tasty guizhou chicken shredded squid family style one personal favorite sichuan spicy soft shell crab shuizhu fish one hardcore sichuan food fan would recommend american friend spicy
+0.0133 0.0379 0.0321 0.0293 0.0412 0.0265 0.0222 0.0424 0.0162 0.0315 0.0377 0.0345 0.0281 0.0264 0.0165 0.0238 0.0188 0.0303 0.0348 0.0371 0.0279 0.0336 0.0162 0.035 0.0165 0.0277 0.0303 0.0847 0.0189 0.0219 0.0186 0.0308 0.0228 0.0348
+people sichuan die chongqing hot pot chongqing biggest city sichuan became independent province
+0.0946 0.0936 0.0772 0.0499 0.0694 0.0759 0.0499 0.0651 0.1263 0.0936 0.0695 0.085 0.0499
+sauce watery food much flavor
+0.1961 0.1465 0.3679 0.0939 0.1956
+pick guizhou chicken fish hot bean source fish fillet spicy source special menu
+0.0375 0.0455 0.0889 0.0986 0.0633 0.1065 0.0774 0.0986 0.0695 0.0982 0.0774 0.0626 0.0759
+hot sour soup unbearably hot tasted pepper nothing else
+0.0892 0.1046 0.1386 0.134 0.0892 0.1197 0.1432 0.1027 0.0789
+entree hot pot seafood full imitation crabmeat couple piece shrimp squid unnecessarily heated burner
+0.062 0.0566 0.0619 0.0977 0.0511 0.0688 0.0903 0.0481 0.0562 0.087 0.0868 0.0994 0.0676 0.0667
+sauce watery tasted heavily msg thirsty hell afterwards companion entree fare better either
+0.1224 0.0914 0.0817 0.0917 0.0821 0.0556 0.0607 0.0471 0.0639 0.0667 0.1224 0.0625 0.0518
+entree ac section cabbage baby shrimp came also watery sauce real shrimp dried reconstituted shrimpthe cheapest thing buy
+0.0509 0.0793 0.0518 0.0804 0.0531 0.0716 0.0382 0.0515 0.0698 0.0935 0.0473 0.0716 0.0673 0.0334 0.0334 0.0323 0.04 0.0346
+terribly thirsty meal
+0.4187 0.2467 0.3346
+decor nice casual fine dining
+0.4235 0.1289 0.1621 0.0994 0.1861
+yes use fancy ingredient even fancy ingredient make good pizza unless someone know get crust right
+0.05 0.052 0.0652 0.098 0.0458 0.0652 0.098 0.0503 0.056 0.0922 0.0432 0.0483 0.0572 0.0411 0.093 0.0446
+portion huge might good order three thing split rather one appetizer entree per person two people
+0.0913 0.0643 0.0627 0.0705 0.0439 0.0509 0.0556 0.0411 0.0724 0.0474 0.0779 0.0708 0.0523 0.0708 0.04 0.0881
+ingredient taste fresher crust thinner crispier slice le oily never burnt like occasionally joe
+0.1005 0.0823 0.0628 0.0954 0.0656 0.0738 0.0585 0.0466 0.1079 0.0497 0.0669 0.0456 0.0899 0.0544
+plain slice great get topping whole slice topped sparsely sprinkled like place
+0.0812 0.0731 0.0611 0.0527 0.0914 0.0504 0.0731 0.0992 0.0953 0.1258 0.057 0.1395
+also friendlier especially owner kenny
+0.1405 0.2136 0.1322 0.2487 0.2649
+sauce pizza sooo good garlic fresh tomato skimp
+0.1559 0.1395 0.0955 0.0847 0.1281 0.1542 0.1365 0.1055
+sicilian favorite moist dry like place pizza great
+0.1239 0.0747 0.1797 0.1105 0.0775 0.1898 0.1608 0.0831
+fresh mozzerella slice plain cheese slice phenomenal
+0.1969 0.1904 0.1102 0.1223 0.1395 0.1102 0.1305
+sauce delicious crust perfect
+0.3069 0.2605 0.277 0.1556
+owner friendly great guy go try pizza like
+0.1872 0.2014 0.0888 0.1091 0.1017 0.0573 0.1718 0.0827
+wonderful waitress
+0.3673 0.6327
+mistake arrived 45 sat 00 bad 00 fry imagine 4yr old getting fry served mixed green salad gave vegetable order sub
+0.036 0.0429 0.0435 0.0478 0.0354 0.0486 0.0354 0.0656 0.041 0.0312 0.0536 0.0344 0.0656 0.0529 0.043 0.0622 0.0643 0.0381 0.0796 0.0294 0.0494
+asked italian dressing received ceaser anchovy asked xtra napkin fork peper never got
+0.0591 0.0995 0.1303 0.0604 0.1154 0.1138 0.0591 0.0694 0.087 0.0652 0.0428 0.0562 0.0419
+home made potato chip bar delicious thing world
+0.0971 0.0915 0.1529 0.1263 0.1549 0.1817 0.0917 0.1038
+best secret place midtown heard bartender brilliant food try steak portobello mushroom drink bar last tuesday
+0.0356 0.0372 0.0859 0.07 0.0342 0.0781 0.0664 0.1525 0.0243 0.0626 0.0745 0.0649 0.0458 0.0588 0.0646 0.0446
+staff excellent specjal girl behind bar european chic
+0.3065 0.122 0.0494 0.0681 0.079 0.0998 0.1047 0.1705
+got u apple pie soo brilliant
+0.0971 0.2023 0.1561 0.149 0.169 0.2265
+hey price nothing midtown rock plaza
+0.1261 0.184 0.1481 0.2227 0.1241 0.1951
+got second comment owner issue handling customer staff
+0.0507 0.0617 0.1009 0.1412 0.105 0.1084 0.1103 0.3216
+however got amazing pastrami soup hit spot
+0.1612 0.0845 0.1433 0.1416 0.1865 0.0927 0.1903
+expect like nosh much pastrami challah sandwich otherworldly soup like mom knish give yonah schimmel run money
+0.0623 0.0439 0.0471 0.0488 0.0598 0.0722 0.0716 0.0674 0.0788 0.0439 0.0502 0.0583 0.0434 0.0715 0.0811 0.0429 0.0569
+ordered tuna melt came cheese made tuna sandwich
+0.0668 0.1919 0.1314 0.0763 0.1308 0.0798 0.1919 0.1312
+showed 15 minute tuna melt
+0.1248 0.1555 0.2135 0.3004 0.2057
+hot dog cold middle bun stale
+0.1387 0.142 0.1748 0.143 0.1962 0.2052
+food terrible overall would say avoid cost
+0.3624 0.1372 0.1561 0.0935 0.0949 0.0661 0.0897
+looking outside one would hesitate enter hole wall really
+0.1083 0.0976 0.0584 0.0775 0.1045 0.1357 0.0988 0.2203 0.0987
+narrow corridor lead tiny space three tiny white tiled counter great deal mess st acks bottle can small counter holding 12 14 ent rees
+0.085 0.053 0.0549 0.0366 0.1051 0.0249 0.0366 0.0486 0.0906 0.0389 0.0294 0.0251 0.0381 0.0363 0.0228 0.0335 0.0324 0.0411 0.0389 0.0312 0.0236 0.0276 0.0228 0.0228
+behind counter two men squeezed
+0.2107 0.2254 0.1136 0.2435 0.2068
+one front smile say get brother
+0.1119 0.2217 0.2328 0.1507 0.1223 0.1607
+food appear cooked premisis high turnover pretty fresh
+0.2915 0.0911 0.125 0.0556 0.1115 0.0848 0.0868 0.1537
+absolutely delicious
+0.4407 0.5593
+authentic pakistani food
+0.2892 0.1707 0.5402
+people always friendly
+0.2961 0.246 0.4579
+waste money decor
+0.1193 0.1847 0.696
+character really make enjoyable experience
+0.2535 0.1586 0.1255 0.1498 0.3126
+food however one might expect
+0.4686 0.1669 0.0912 0.1206 0.1528
+food great
+0.8021 0.1979
+really large portion
+0.3477 0.2556 0.3967
+staff friendliest seen new york
+0.4367 0.1515 0.0887 0.1425 0.1805
+food portion really large
+0.5141 0.1927 0.1689 0.1242
+server helpful friendly
+0.3298 0.3141 0.3561
+pizza delicious
+0.5132 0.4868
+combination fresh tomato sauce fresh mozz cheese basil dough make imported flour make one better pizza ny
+0.0625 0.0768 0.068 0.0776 0.0768 0.062 0.0544 0.0777 0.0581 0.0379 0.054 0.0568 0.0379 0.0283 0.0397 0.0695 0.062
+great entree well
+0.2627 0.3094 0.4279
+service bit slow harkens back year growing napoli italy thing rushed sit dinner table night
+0.1655 0.0666 0.063 0.0325 0.0441 0.0901 0.0427 0.0679 0.0561 0.039 0.0548 0.0598 0.0686 0.0701 0.079
+great pizza lunch place
+0.1588 0.3071 0.1717 0.3624
+service quick
+0.777 0.223
+pizza great
+0.6591 0.3409
+quick important
+0.4732 0.5268
+iced tea
+0.5284 0.4716
+everyone treat like part family
+0.2307 0.1792 0.1746 0.163 0.2525
+great dessert including best cannoli ever offered dinner drink house
+0.0862 0.1369 0.0748 0.0816 0.1453 0.0751 0.0755 0.1406 0.1048 0.0792
+portion large server always surprise u different starter
+0.1392 0.0897 0.1923 0.1116 0.0874 0.1444 0.0734 0.162
+wine list excellent
+0.3774 0.2987 0.3239
+thing waiter wipe chin leave
+0.1528 0.3966 0.1615 0.1374 0.1517
+volare virgin weekly regular everyone get treated ca ask service friendly
+0.085 0.063 0.0641 0.0519 0.0764 0.0535 0.0745 0.0789 0.0677 0.2442 0.1408
+anti pasta excellent especially calamari filling pasta main
+0.1044 0.1563 0.152 0.0891 0.1426 0.1149 0.1563 0.0843
+food uniformly exceptional capable kitchen proudly whip whatever feel like eating whether menu
+0.1899 0.1402 0.0698 0.0928 0.0523 0.0742 0.0519 0.0527 0.0912 0.0436 0.0398 0.0413 0.0604
+constantly impressed waiter true professional seem great time
+0.103 0.1008 0.1836 0.1045 0.2098 0.0995 0.0764 0.1224
+decor bit cheesy owner seem mind regular feel like smoking illicit cigarette grrr guess kinda add charm
+0.1802 0.0627 0.0599 0.0835 0.0516 0.0417 0.0331 0.0771 0.0369 0.0494 0.0306 0.0434 0.0306 0.0405 0.0536 0.0494 0.0757
+wine list great dessert shipped bruno street good used
+0.172 0.1361 0.0773 0.1227 0.0922 0.1149 0.1143 0.0907 0.0798
+hungry hour later
+0.2888 0.4448 0.2663
+seriously best eat town everyone say spicy tuna hand roll best broken even
+0.0661 0.0595 0.0534 0.0687 0.0774 0.0668 0.1048 0.1397 0.0591 0.1051 0.0595 0.0795 0.0603
+rarely problem slow staff 10 year going
+0.1009 0.0875 0.1155 0.3703 0.0748 0.1653 0.0858
+stay away two specialty roll menu though much avocado rice fill right quick
+0.0463 0.0577 0.0438 0.0906 0.1098 0.0847 0.0749 0.068 0.122 0.1099 0.0566 0.0615 0.0742
+eat deal truly amazing
+0.1901 0.1905 0.3322 0.2871
+highly recommended spicy fried clam roll spider roll
+0.0887 0.0717 0.1328 0.1119 0.1194 0.1331 0.2094 0.1331
+small restuarant go early nice quiet go late packed
+0.1194 0.1729 0.0978 0.0827 0.1183 0.1337 0.0978 0.0855 0.0921
+place realy fresh sushi nice large menu japanese classic cuisine
+0.1253 0.1081 0.1173 0.115 0.076 0.0537 0.0707 0.0836 0.0778 0.1724
+spicy tuna salmon best ever
+0.2346 0.3125 0.1971 0.1332 0.1226
+service tediously slow inattentive busy parking stink
+0.3079 0.0606 0.1172 0.2005 0.1311 0.0963 0.0864
+never eaten 40 piece relatively good nigiri
+0.1124 0.1208 0.116 0.1182 0.1398 0.1299 0.2629
+service slow wait order get food although crowded
+0.2463 0.0938 0.1044 0.0457 0.054 0.2539 0.0968 0.1052
+happen impressed cuisine definitely try
+0.1265 0.186 0.4431 0.1535 0.0909
+yes might wait reservation
+0.2025 0.2014 0.3217 0.2744
+food awesome definitely try striped bass
+0.3779 0.1045 0.1014 0.0601 0.1728 0.1832
+decent wine selection
+0.2423 0.448 0.3097
+paying atmosphere nice numerous place bay idge
+0.0943 0.3543 0.114 0.092 0.1878 0.094 0.0636
+positive wait staff prompt knowledgable likeable
+0.1052 0.1311 0.3776 0.1275 0.1978 0.0608
+server attentive friendly quite attractive
+0.1839 0.259 0.1986 0.1361 0.2224
+atmosphere mostly older crowd group mid 20 year old also
+0.2554 0.064 0.0914 0.1169 0.0681 0.0508 0.0768 0.1271 0.0789 0.0706
+dish like piece beef
+0.3336 0.1816 0.2081 0.2767
+would even complained food least tasted good quality food crappy
+0.0594 0.0544 0.0644 0.23 0.0504 0.0818 0.0666 0.0955 0.23 0.0676
+good food
+0.2245 0.7755
+fried dumpling great
+0.332 0.4315 0.2365
+winnie staff best crew find serving
+0.0709 0.4398 0.0867 0.206 0.1153 0.0814
+one go lucky strike food
+0.0999 0.1451 0.1154 0.126 0.5136
+certain staple excellent burger pasta food really point
+0.0894 0.0763 0.1365 0.0973 0.1404 0.2896 0.0952 0.0755
+unfortunately food something get worked
+0.1247 0.5126 0.1172 0.109 0.1365
+tried simple dish spinach ravioli light oil garlic sauce actually faired better nyc italian joint tried similar dish
+0.0264 0.0765 0.0611 0.0692 0.0705 0.0633 0.0756 0.0633 0.0771 0.0426 0.0276 0.0394 0.0676 0.0641 0.0559 0.0264 0.0322 0.0611
+would definitely go back exotic martini blackboard
+0.1153 0.12 0.1262 0.1157 0.1825 0.138 0.2023
+lucky strike great casual place grab bite eat
+0.0945 0.1032 0.1038 0.1808 0.2369 0.0845 0.1082 0.0882
+wait staff pleasant fun part gorgeous wonderful aesthetic beautification way way cuter way
+0.0701 0.202 0.077 0.0548 0.0366 0.0798 0.0542 0.171 0.0325 0.0418 0.0418 0.0965 0.0418
+food yummy especially cooked perfection mussel spicy tomato sauce shoestring crispy fry
+0.1826 0.0564 0.0505 0.0783 0.0762 0.0681 0.0751 0.0852 0.0973 0.0792 0.0779 0.0733
+best part l late night atmosphere delightfully free bts
+0.0706 0.0649 0.0577 0.0746 0.1399 0.3211 0.1628 0.0507 0.0577
+get completely delish martini glass drink 50 recommend vanilla shanty mmmm great homey setting great music
+0.0363 0.0537 0.0548 0.0527 0.0632 0.0512 0.0337 0.0374 0.0707 0.0326 0.0644 0.0421 0.1049 0.1593 0.0421 0.1009
+house lady dj saturday night outrageously good taste music moreover take request
+0.0532 0.0698 0.0838 0.1061 0.1086 0.0682 0.0679 0.0973 0.1385 0.0804 0.0558 0.0703
+pizza consistently good
+0.4093 0.3423 0.2484
+salad delicious way begin meal
+0.2317 0.2664 0.1443 0.1643 0.1933
+pas calamari
+0.3015 0.6985
+thick slightly soggy
+0.3275 0.3222 0.3504
+decor charming
+0.6771 0.3229
+service average
+0.7318 0.2682
+room cheesesticks best pizza nyc get pepperoni yum family style salad
+0.1518 0.0492 0.0602 0.1229 0.1203 0.0548 0.1018 0.0718 0.0856 0.0802 0.1014
+great staff
+0.1724 0.8276
+always great servic
+0.4071 0.3343 0.2585
+pizza delicious use fresh mozzarella instead cheap fro zen shredded cheese common pizzaria
+0.0957 0.0908 0.0539 0.1057 0.1042 0.0409 0.0632 0.0459 0.0777 0.0893 0.075 0.067 0.0907
+also thin get cold quickly filling
+0.152 0.2234 0.11 0.173 0.1573 0.1843
+located end magnificent block
+0.3485 0.1629 0.2925 0.1961
+cozy warm inside back
+0.3936 0.252 0.225 0.1293
+love scene first place character nice light fortunate location wise
+0.0511 0.14 0.0674 0.1366 0.1274 0.0829 0.1062 0.0627 0.1459 0.0798
+pizza pretty good huge
+0.3592 0.2241 0.218 0.1986
+got family size penne la vodka tremendously gigantic portion bucket food literally
+0.0433 0.0771 0.0632 0.0929 0.069 0.0646 0.0959 0.071 0.087 0.0543 0.2321 0.0496
+food excellent
+0.6797 0.3203
+fish fresh
+0.4394 0.5606
+waitstaff friendly
+0.5921 0.4079
+honestly worst sushi husband entire life
+0.1468 0.154 0.2888 0.1408 0.1477 0.1219
+sure restaurant would rated highly eat sushi definitely poor quality
+0.056 0.225 0.0703 0.08 0.0748 0.0571 0.1408 0.0731 0.1097 0.1132
+atmosphere nothing special feel like sushi establishment tokyo
+0.2874 0.0827 0.071 0.13 0.0622 0.1399 0.1441 0.0828
+owner staff japanese well add entire ambiance
+0.1301 0.2962 0.094 0.1005 0.077 0.0661 0.2362
+despite slightly limited menu everything prepared done perfection ultra fresh work food art
+0.0509 0.0682 0.045 0.0576 0.0629 0.0762 0.0581 0.0756 0.0797 0.0955 0.0516 0.1811 0.0977
+taxan delicious
+0.2966 0.7034
+cost extra turn regular roll inside roll roll triple size rice
+0.0686 0.065 0.0762 0.0571 0.1142 0.1248 0.1142 0.1142 0.0761 0.0754 0.1143
+spicy tuna roll huge probably best price range
+0.1494 0.199 0.1497 0.0958 0.0734 0.0848 0.1378 0.11
+yellowtail particularly good well
+0.4069 0.2187 0.1567 0.2176
+reservation eat deal however choice fairly limited probably order food eat le 18 going menu
+0.0754 0.0451 0.0452 0.0766 0.0612 0.068 0.0535 0.0434 0.0387 0.2151 0.0451 0.0506 0.0546 0.059 0.0684
+staff ignored friend entire time
+0.4865 0.1321 0.1105 0.1086 0.1623
+like server forgot actually worked instead wanted hang cool
+0.0855 0.1926 0.0883 0.1094 0.099 0.0758 0.0879 0.1092 0.1523
+shame nice convenient place like pink pony ruined lousy service
+0.087 0.0818 0.096 0.1348 0.055 0.0667 0.0845 0.0767 0.0852 0.2322
+asked moved took half hour seated high traffic area back even though rest room practically empty
+0.0513 0.0527 0.045 0.0349 0.0605 0.0784 0.0746 0.0762 0.104 0.0505 0.0462 0.0549 0.0458 0.115 0.048 0.062
+hang live neighborhood food decent
+0.1193 0.1181 0.236 0.406 0.1206
+however service leaf bad taste mouth
+0.1342 0.3657 0.1177 0.1122 0.1564 0.1137
+know busy showing vintage tee shirt looking bored agenda eat enjoy company friend seeking pleasant experience
+0.0504 0.0703 0.0422 0.0867 0.0789 0.0843 0.0614 0.0535 0.0493 0.0357 0.0382 0.0482 0.0458 0.068 0.0768 0.1103
+food awesome
+0.7833 0.2167
+service friendly attentive
+0.4295 0.2476 0.3229
+ambiance relaxed stylish
+0.4187 0.2296 0.3517
+highly recommend sophia pizza
+0.1795 0.1433 0.3652 0.312
+rosario without doubt one greatest pizzeria existence
+0.122 0.1232 0.1138 0.0915 0.1542 0.2323 0.163
+take real pride food business
+0.1045 0.1183 0.1846 0.4387 0.1539
+make homemade mozzarella every pie ultra fresh
+0.097 0.1497 0.1936 0.0922 0.1068 0.1641 0.1966
+even getting pushed class famous ray sal risen carry father uncle legacy smile true love community let forget outstanding pizza
+0.039 0.0347 0.0438 0.0541 0.0304 0.0465 0.0644 0.0496 0.0458 0.0468 0.0405 0.0314 0.0666 0.0555 0.0347 0.0944 0.0379 0.0387 0.0667 0.0785
+worker ignore talk female customer time skipped order
+0.1297 0.1383 0.1111 0.1597 0.1583 0.154 0.0788 0.0702
+crappy service two individual great
+0.153 0.505 0.0856 0.128 0.1284
+good fast service
+0.1792 0.2205 0.6003
+dine thalia slightly deceiving beautiful outside bland inside
+0.0965 0.1171 0.1116 0.1433 0.1823 0.0963 0.1195 0.1334
+establishment score big point presentation style
+0.2466 0.1262 0.0906 0.1206 0.2717 0.1442
+however service plain sesame crusted salmon
+0.1208 0.3291 0.1111 0.1598 0.1619 0.1172
+place pretty deceiving gorgeous place great location wonderful ambiance
+0.1255 0.0664 0.1078 0.1043 0.1255 0.055 0.1341 0.0708 0.2105
+service par wonderful
+0.6249 0.1705 0.2046
+biggest complaint un tasty food although presented well
+0.068 0.0608 0.121 0.1367 0.273 0.1041 0.1267 0.1097
+salmon dish fine price paid expected type flavor
+0.1283 0.1568 0.0978 0.1408 0.0873 0.1071 0.0845 0.1974
+asked server two glass splash southern comfort grand marnier 10 minute later drink arrive asked
+0.0555 0.1093 0.0347 0.0782 0.0877 0.0682 0.0973 0.0578 0.0781 0.0504 0.0822 0.0392 0.0633 0.0425 0.0555
+first course good chocolate sampler rich dessert wine far sweet
+0.0771 0.071 0.0803 0.1271 0.0736 0.1285 0.1086 0.1523 0.0695 0.112
+husband mesclun salmon ice cream enjoyed course
+0.106 0.2268 0.1454 0.1437 0.172 0.0985 0.1077
+fast service
+0.2687 0.7313
+think restaurant loud full romantic
+0.1284 0.3711 0.1797 0.1077 0.2132
+ordered smoked salmon roe appetizer flavor
+0.0857 0.1311 0.1553 0.2451 0.1438 0.239
+entree bland small dessert inspired
+0.1517 0.2105 0.18 0.2045 0.2533
+fan pastis year never fails succeed producing wonderfully friendly knowledgeable server miss eva top notch french bistro fare
+0.0303 0.0708 0.0718 0.034 0.0458 0.0503 0.0637 0.0787 0.0759 0.0721 0.0703 0.0304 0.0259 0.0404 0.055 0.0544 0.0577 0.0724
+wine selection glass bottle wonderful always recommend friend make reservation going town
+0.143 0.0988 0.0964 0.0731 0.0827 0.0782 0.0571 0.07 0.0677 0.0913 0.0714 0.0702
+pleasantly gre eted
+0.445 0.2775 0.2775
+menu impressive selection ranging burger steak escargot
+0.1218 0.1322 0.1454 0.1172 0.1287 0.1572 0.1974
+food well prepared
+0.5486 0.2205 0.2309
+service ok
+0.7793 0.2207
+kinda nosiy table close together still beautiful place enjoy nice dinner
+0.0875 0.05 0.1077 0.0673 0.0654 0.0594 0.1612 0.1476 0.0589 0.0895 0.1055
+atmosphere crowded great bistro type vibe
+0.3617 0.141 0.084 0.1448 0.0775 0.191
+food really good onion soup one best ever
+0.3255 0.107 0.0943 0.1297 0.1342 0.0633 0.076 0.07
+service hur ried friendly
+0.5076 0.0998 0.0998 0.2927
+fry yummy
+0.5653 0.4347
+eating haut cuisine subtle hint whatever cassuolet steake fritte tripe stew etc simple stuff
+0.0404 0.0368 0.1496 0.1351 0.077 0.0536 0.0368 0.0368 0.0368 0.0822 0.1141 0.0478 0.102 0.0509
+great vibe lot people
+0.1726 0.3924 0.182 0.253
+husband perfect well done dry
+0.1602 0.1719 0.2555 0.204 0.2085
+complain liked atmosphere much
+0.1619 0.1239 0.5759 0.1383
+husband enjoyed taste size portion left completely full
+0.1082 0.1005 0.1782 0.117 0.161 0.097 0.1351 0.1029
+waitress suggested glass wine went well food
+0.1544 0.0604 0.1045 0.155 0.1301 0.1135 0.2822
+charmingly small lead atmoshere extremely cozy romantic even
+0.1299 0.0817 0.1092 0.1987 0.1253 0.1867 0.1124 0.0561
+food served small tasting portion option good dish better next
+0.2666 0.0864 0.0919 0.0697 0.0999 0.0656 0.0772 0.1126 0.0726 0.0575
+crawfish boiled despite making mess ton fun quite tasty well
+0.1115 0.1017 0.0816 0.0772 0.0927 0.0688 0.0933 0.1112 0.1453 0.1167
+granted space smaller best service find even largest restaurant
+0.0557 0.2112 0.0543 0.056 0.2325 0.0744 0.0567 0.0614 0.1979
+enjoy collaboration chef owner chef colin alevras time time truly love best colin full swing
+0.0455 0.0387 0.0759 0.1054 0.0759 0.0765 0.0387 0.0801 0.0801 0.0742 0.0427 0.0473 0.0765 0.0485 0.0939
+truly mark attentive waiter
+0.1858 0.1435 0.37 0.3007
+asked spicy delicious
+0.2335 0.3649 0.4016
+waiter people helping attentive genuine
+0.244 0.1489 0.1239 0.3002 0.183
+even sent u dessert house thought would like amazing panna cotta yummy
+0.0596 0.0505 0.0979 0.0986 0.0571 0.0616 0.0649 0.0578 0.0797 0.1677 0.127 0.0777
+quick martini bar recommend jeffery mind blowing roast chicken go village
+0.0826 0.0916 0.1145 0.065 0.0566 0.077 0.1003 0.1036 0.1105 0.0838 0.1144
+even though restaurant packed seated promptly even asked table upstairs problem
+0.0595 0.0707 0.2077 0.0669 0.1011 0.0865 0.0595 0.0662 0.1034 0.108 0.0704
+even though little loud yell talk
+0.1276 0.1516 0.1457 0.2156 0.2058 0.1537
+table service could little attentive someone also work service industry understood busy
+0.0753 0.1778 0.0469 0.0495 0.1337 0.0457 0.0538 0.0522 0.1778 0.0523 0.0592 0.0757
+like others said expect restaurant make nite romantic yes busy restaurant may require wait
+0.0426 0.0523 0.0534 0.0605 0.1532 0.0482 0.0422 0.088 0.048 0.0766 0.1532 0.0527 0.0529 0.0762
+steak excellent one best tasted butter intitally way overwhelm flavor meat
+0.1078 0.1238 0.0511 0.0614 0.0935 0.0868 0.0501 0.0644 0.1174 0.1397 0.1038
+side ok incredibly salty
+0.1888 0.2019 0.3025 0.3068
+could drank glass water still parched watch
+0.1379 0.1187 0.1995 0.159 0.1221 0.1503 0.1124
+succulent steak cooked precisely desired doneness accompanied salad side look like leafy road kill
+0.1158 0.0801 0.0837 0.0682 0.0513 0.0372 0.0904 0.0768 0.0501 0.073 0.0448 0.118 0.0654 0.0453
+forget rush wait noise actually bad mean please go steakhouse coddled romantic
+0.0597 0.0665 0.1043 0.1063 0.0746 0.0756 0.0834 0.0623 0.0717 0.1268 0.0484 0.1204
+want piece beef head
+0.2522 0.2373 0.3155 0.195
+tasty steak pork loin work
+0.2406 0.1972 0.1736 0.2517 0.1369
+filled suit though never really feel terribly comfortable
+0.1001 0.1484 0.0864 0.077 0.101 0.1476 0.1263 0.2132
+could without cigar smoke
+0.2369 0.2424 0.2553 0.2654
+presentation service thing magic show work
+0.2249 0.3718 0.0875 0.1257 0.0809 0.1092
+service attentive yet disc reet
+0.3511 0.264 0.1522 0.1636 0.0691
+flavor robust subtle
+0.2882 0.3324 0.3794
+brioche lolly party favor cute sweet touch memorable meal
+0.1258 0.0657 0.1247 0.0754 0.1302 0.139 0.1389 0.0873 0.113
+disappointed pre fixe menu choice per course restaurant offer choice ended ordering la carte
+0.0686 0.0438 0.0607 0.0783 0.0701 0.0529 0.0631 0.2034 0.0623 0.0701 0.0423 0.0537 0.0732 0.0575
+thoroughly enjoyed food annoying scream across table conversation
+0.0913 0.0698 0.2983 0.1053 0.1069 0.0998 0.1226 0.1059
+also convinced waiter zombie appeared difficulty focusing spoke
+0.1117 0.092 0.2255 0.1062 0.1168 0.1221 0.1189 0.1067
+began cheese fondue artisanal blend added apple kielbasa dip
+0.0771 0.1189 0.1201 0.1152 0.1383 0.0805 0.0955 0.1455 0.1089
+careful portion huge
+0.2764 0.4247 0.2989
+cod paella spicy filling big eater could eat half boyfriend classic fish chip big serving least piece fish basketful fry
+0.0662 0.065 0.0703 0.0609 0.0334 0.0482 0.0437 0.0358 0.0305 0.0363 0.0598 0.0706 0.0537 0.0334 0.0375 0.0374 0.045 0.0706 0.0326 0.0686
+ended dinner surprisingly light flaky apple tarte tatin
+0.0518 0.1214 0.1184 0.1321 0.1651 0.0905 0.1499 0.1708
+free drink
+0.3588 0.6412
+butter melted white wine warm cheese oozing everywhere
+0.1009 0.1069 0.1246 0.1677 0.154 0.1141 0.1386 0.0931
+friendly server made great food suggestion also sent sommelier fromager table help suggest different pairing wine cheese
+0.0867 0.0803 0.0353 0.0383 0.1551 0.049 0.0456 0.0311 0.0818 0.0296 0.0637 0.0461 0.0245 0.0306 0.0592 0.0851 0.0579
+nice wine list cheese menu large summer feta salad shrimp dish excellent refreshing cheese course
+0.0586 0.0942 0.0745 0.0641 0.0545 0.0414 0.0501 0.0836 0.0675 0.07 0.0724 0.0808 0.0802 0.0641 0.0439
+love wine cheese delicious french fare love artisanal
+0.0681 0.1775 0.1208 0.1463 0.1297 0.1724 0.0681 0.117
+makhani ok korma bland
+0.322 0.1472 0.3148 0.216
+best thing tasted lambc hop
+0.181 0.177 0.2758 0.1479 0.2184
+many thing love bukhara furniture awsome love wood furniture
+0.0536 0.0498 0.0459 0.0777 0.2651 0.0612 0.0459 0.1357 0.2651
+happy food awsome
+0.1474 0.6656 0.187
+yes dal bukhara dam good kababs
+0.1165 0.2124 0.1604 0.1343 0.1304 0.2459
+got back lunch tamarind excellent
+0.1146 0.1589 0.1638 0.2734 0.2893
+decided eat tea room small cute
+0.0853 0.1052 0.1507 0.2958 0.1731 0.1899
+split tasty vegetable samosa malai tikka wrap
+0.0578 0.1716 0.167 0.1953 0.1512 0.1723 0.0848
+dine tamarind vegetarian dish simply par non veg selection
+0.1034 0.1414 0.1057 0.1341 0.1067 0.084 0.0982 0.106 0.1205
+importantly food excellent
+0.3028 0.4739 0.2233
+try sea bass
+0.1525 0.3827 0.4648
+good bread well
+0.2657 0.3653 0.3689
+dim sum
+0.6214 0.3786
+dim sum ok taste fresh little dish look steamy hot also note lack chinese
+0.0862 0.0525 0.0569 0.0859 0.1091 0.0559 0.0874 0.0774 0.0657 0.0549 0.0608 0.0442 0.082 0.0811
+one vegetarian entree abby treasure actually quite surprise delicious wintermelon covering assortment fresh mushroom vegetable
+0.0391 0.067 0.0585 0.0384 0.0574 0.0592 0.0771 0.0474 0.0911 0.0384 0.0756 0.0611 0.1061 0.0857 0.098
+meat dish
+0.4833 0.5167
+bring someone speaks cantonese waiter may understand
+0.076 0.1059 0.1544 0.1592 0.2515 0.1205 0.1326
+decor leaf something desired
+0.5827 0.1621 0.1187 0.1366
+usually v item per dish
+0.1598 0.1911 0.1948 0.1531 0.3012
+okay service
+0.2086 0.7914
+get go go hamburger matter review say
+0.101 0.1341 0.1341 0.1429 0.1339 0.2296 0.1244
+steamed fresh brought hot hot hot table
+0.1631 0.2288 0.0842 0.1151 0.1151 0.1151 0.1784
+wait long dim sum like sharing table typical raucous dim sum atmosphere gig sleek chinatown alternative
+0.0604 0.0388 0.0612 0.0373 0.0338 0.0402 0.0604 0.0421 0.0562 0.0612 0.0373 0.156 0.0501 0.163 0.0523 0.05
+tip skip turnip cake roast pork bun egg custard
+0.1085 0.0514 0.1319 0.1049 0.1129 0.1168 0.1214 0.1246 0.1278
+looked menu lot choice dumpling appetizer section
+0.1199 0.1451 0.1188 0.1299 0.2055 0.146 0.1348
+ordered dinosaur roll white tuna sashimi
+0.0799 0.1151 0.1726 0.1708 0.2295 0.232
+roll big good sashimi fresh
+0.2083 0.0989 0.1464 0.28 0.2665
+dry disgusting even finish first piece
+0.1944 0.2224 0.1403 0.122 0.1648 0.1561
+recently decided try location delight outdoor seating perfect since yorkie
+0.1164 0.0525 0.0491 0.1858 0.1117 0.1195 0.1183 0.0835 0.1043 0.0589
+indoor cozy cute
+0.3483 0.4403 0.2115
+portion size huge sushi good
+0.2183 0.1585 0.1536 0.301 0.1686
+staff accomodating
+0.7789 0.2211
+largest freshest piece sushi delicious
+0.1433 0.1664 0.1475 0.2894 0.2534
+terrific menu full unique roll special dish
+0.1383 0.13 0.098 0.1853 0.1685 0.1073 0.1727
+killer sushi
+0.3805 0.6195
+everyone welcomed family
+0.3058 0.3595 0.3347
+hurley like cheer everyone know name actually glad came
+0.0821 0.0989 0.1377 0.1306 0.1274 0.103 0.1265 0.1001 0.0937
+try crunchy tuna die
+0.1048 0.3399 0.3609 0.1945
+try everything matter good
+0.1476 0.322 0.2618 0.2686
+know
+1.0
+good food
+0.2245 0.7755
+good drink
+0.4911 0.5089
+bagel fabulous
+0.5421 0.4579
+live new jersey whenever go new york city buy bagel eat hot freeze told call order bring car would look parking
+0.0459 0.0609 0.0567 0.0425 0.0445 0.0609 0.0772 0.0761 0.0311 0.0528 0.033 0.0418 0.0354 0.039 0.0484 0.0284 0.0282 0.0495 0.0407 0.0589 0.0478
+best bagel
+0.4109 0.5891
+whitefish salad excellent whitefish little mayo
+0.1733 0.1723 0.2062 0.1733 0.1182 0.1566
+bagel always warm soft inside crispy outside enormous size
+0.0985 0.0884 0.1483 0.129 0.1324 0.1254 0.0956 0.1024 0.0801
+huge selection different cream cheese salad great
+0.1165 0.1677 0.0873 0.1805 0.1651 0.1739 0.109
+lox always fresh
+0.2751 0.2632 0.4618
+bagel huge
+0.5593 0.4407
+served warm soft fluffy interior
+0.1197 0.1864 0.162 0.1647 0.3671
+worker also absolutely load bagel cream cheese ets little messy
+0.1056 0.0932 0.1132 0.0666 0.1062 0.1297 0.1186 0.0606 0.0858 0.1205
+staff nonsense
+0.7369 0.2631
+food option rule
+0.6624 0.163 0.1745
+lived upstate would buy freeze bagel would still better else
+0.1199 0.1082 0.0993 0.076 0.0865 0.1287 0.0993 0.0872 0.1047 0.0903
+bagel big brobdingnagian colossal elephantine enormous gargantuan giant gigantic huge humungous jumbo king sized leviathan mammoth massive titanic tremendous whopping best bagel nyc
+0.0515 0.0301 0.0293 0.0406 0.0293 0.0535 0.0415 0.055 0.047 0.0406 0.0293 0.0692 0.0387 0.0446 0.0293 0.0451 0.0501 0.0293 0.0483 0.0383 0.0359 0.0515 0.0718
+always fresh delicious
+0.2347 0.4118 0.3535
+garantuan ca fit toaster
+0.1616 0.2656 0.2229 0.3499
+personal favorite everything bagel lox spread bagles unbeliavably good
+0.1061 0.0837 0.1311 0.1264 0.1186 0.1243 0.1284 0.0721 0.1094
+plenty great sushi spot manhattan faan always favorite sushi chinese
+0.0709 0.0662 0.1387 0.1128 0.1342 0.0931 0.0806 0.0595 0.1387 0.1052
+love spicy scallop roll boyfriend consistently get sesame chicken
+0.0662 0.1294 0.15 0.1297 0.0669 0.1255 0.0669 0.1482 0.1172
+sake martini wonderful
+0.3251 0.3328 0.3422
+find service friendly quick often greeted house
+0.1012 0.3162 0.1823 0.0908 0.0861 0.1495 0.0739
+try chef special die
+0.1458 0.3433 0.2403 0.2706
+service exactly five star thats really big deal
+0.3562 0.1056 0.0731 0.1028 0.0927 0.1207 0.0718 0.0771
+downstairs lounge always good attraction
+0.2424 0.2385 0.1859 0.1792 0.154
+thai definitely great bland indistinguished
+0.2515 0.1811 0.1665 0.2721 0.1288
+seem place emphasis special fresh ingredient necessary good thai
+0.0913 0.1601 0.1129 0.0746 0.1499 0.1441 0.0789 0.0823 0.106
+service consistently excellent decent
+0.4539 0.1866 0.2205 0.139
+need kick sushi pretty good place consistent
+0.1128 0.1089 0.198 0.114 0.1109 0.2156 0.1398
+best pad thai ever
+0.1975 0.3055 0.3152 0.1818
+design atmosphere good
+0.3861 0.4824 0.1315
+super trendy always someone take empty seat seems customer service deemed essence
+0.0697 0.1113 0.0641 0.0533 0.0508 0.0679 0.0737 0.0685 0.0866 0.207 0.0543 0.0927
+atlhough table opened next u asked slightly larger space left u awkardly seated
+0.0417 0.0899 0.0803 0.0471 0.085 0.0575 0.0824 0.0595 0.1927 0.0494 0.085 0.0417 0.0879
+place really trendi forgotten important part restaurant food
+0.154 0.0899 0.0522 0.0612 0.0848 0.0587 0.2258 0.2735
+last two time ordered food soo spicy could barely eat spice took away flavor dish
+0.0779 0.0302 0.0726 0.0351 0.1839 0.0597 0.0756 0.0471 0.0511 0.0386 0.0705 0.0424 0.0398 0.0978 0.0777
+tom kha soup pathetic
+0.2807 0.2921 0.2482 0.179
+want good authentic thai place place go
+0.097 0.1003 0.1855 0.1291 0.1951 0.1951 0.0979
+would definitely recommend sea like thai cuisine
+0.1023 0.1064 0.0869 0.1583 0.0911 0.1477 0.3073
+red sliding door may unique block cold air outside
+0.1091 0.1443 0.106 0.0878 0.1401 0.0768 0.1034 0.1318 0.1006
+cold enjoy
+0.5982 0.4018
+went combination different seafood dish appetizer
+0.2015 0.1875 0.0864 0.2003 0.1846 0.1398
+food spicy delicious
+0.5365 0.2206 0.2428
+might little spicy friend couteract eat rice keeping water hand
+0.0905 0.095 0.1446 0.0946 0.0671 0.0737 0.1451 0.1042 0.1038 0.0815
+place little tight cold day seating entranceway pretty drafty
+0.1821 0.0874 0.1335 0.1081 0.07 0.1239 0.0617 0.0962 0.1371
+sure setting nice
+0.1389 0.6302 0.2309
+like food came right ordered
+0.1229 0.5349 0.1165 0.1235 0.102
+made obvious food cooked fresh obviously made hand reheated
+0.0621 0.0964 0.2725 0.1169 0.1437 0.0786 0.0621 0.0631 0.1047
+food fresh sauce bland oily
+0.3325 0.1753 0.1773 0.1341 0.1809
+love thai noodle shrimp chicken coconut juice must
+0.0776 0.1375 0.1533 0.1506 0.1373 0.1501 0.1152 0.0784
+summer eat outside terrace another great feature suan
+0.1243 0.0892 0.1383 0.1573 0.0844 0.105 0.1306 0.1708
+cater american palate like hot let know willing oblig
+0.1335 0.1416 0.1564 0.0895 0.1033 0.0896 0.1153 0.0963 0.0743
+try green curry
+0.1712 0.4098 0.419
+good crowd good outdoor seating hip japanese vibe
+0.0894 0.15 0.0894 0.1194 0.1183 0.1446 0.1159 0.1731
+sake list extensive looking purple haze listed made u upon request
+0.0899 0.1295 0.0962 0.1075 0.1252 0.0568 0.0533 0.0679 0.1159 0.0686 0.0893
+spicy tuna roll unusually good rock shrimp tempura awesome great appetizer share
+0.0937 0.1249 0.0939 0.1163 0.066 0.0583 0.093 0.1221 0.063 0.0562 0.0729 0.0396
+went around 30 friday died bit service great
+0.1465 0.0735 0.091 0.0909 0.0872 0.1242 0.3083 0.0784
+tasty sushi appetizer overall food quality varied saki selection
+0.1189 0.1228 0.076 0.1023 0.2375 0.0987 0.0887 0.0649 0.0902
+good dark atmosphere music nice touch
+0.0903 0.1615 0.3314 0.1843 0.1066 0.1259
+problem literally sitting top people next
+0.1702 0.1299 0.1678 0.1809 0.2201 0.1311
+know case many nyc eatery really cram point borderline uncomfortable
+0.0848 0.0646 0.0704 0.1337 0.1403 0.0941 0.0826 0.0746 0.1286 0.1264
+craving haru great food especially house roll ca stand wait building outisde head across street sake bar
+0.0337 0.0738 0.0401 0.1627 0.045 0.0369 0.067 0.051 0.0363 0.0669 0.0947 0.031 0.0352 0.0544 0.0594 0.0491 0.0628
+sushi kamikaze roll fresh well presented
+0.1932 0.1319 0.154 0.1971 0.1503 0.1734
+place literal hole wall buried within doyers right pell st barber alley chinatown
+0.1164 0.0394 0.068 0.1516 0.0583 0.0523 0.0394 0.0477 0.1393 0.063 0.0394 0.1116 0.0736
+photobook menu cute touch certainly helped group pick fried chicken pork chop noodle dish ordered
+0.0389 0.0648 0.0771 0.0823 0.0883 0.0567 0.0577 0.032 0.0706 0.0759 0.0736 0.0723 0.0847 0.0861 0.0389
+cuisine gathered authentic taiw nese though different accustomed taipei
+0.2586 0.1085 0.1786 0.0637 0.0637 0.0938 0.0659 0.1037 0.0637
+menu choice similar taste lacked flavor looked
+0.126 0.1127 0.0883 0.1644 0.1939 0.2106 0.1041
+restuarant large seems several round table accomodate large group hoping save buck eat authentic taiw nese
+0.1114 0.0539 0.0716 0.0506 0.0514 0.0917 0.0565 0.0539 0.0632 0.0425 0.0434 0.0585 0.0468 0.1195 0.0426 0.0426
+best drumstick rice sour spicy soup town
+0.0981 0.1392 0.1732 0.1307 0.1727 0.1731 0.1132
+beef noodle soup good well
+0.1874 0.2222 0.2205 0.1549 0.215
+cold appetizer dish taste like way remember taste growing taiwan
+0.1098 0.1051 0.1387 0.1362 0.0755 0.0805 0.0731 0.1362 0.0823 0.0626
+far best pizza manhattan
+0.1715 0.1598 0.3265 0.3421
+favorite meal pesto pizza house salad good bottle wine
+0.0685 0.1016 0.144 0.1476 0.0702 0.1218 0.0896 0.0869 0.1699
+conveniently delivered right door
+0.2677 0.2198 0.2064 0.3062
+fast
+1.0
+food great
+0.8021 0.1979
+personal pan perfect size hungry night
+0.1529 0.1901 0.1472 0.1482 0.1096 0.252
+downside ordering delivery guy major attitude
+0.1737 0.1121 0.142 0.1558 0.1487 0.2676
+never dramatic delivery guy lot huffing panting muttering breath live walkup always seem disappointed tip
+0.0487 0.2459 0.0537 0.0589 0.0506 0.0371 0.0371 0.0695 0.0641 0.0566 0.0371 0.0585 0.0625 0.0542 0.0653
+thin crust pizza amazing choose toping
+0.2072 0.2308 0.2288 0.1518 0.0898 0.0915
+service great well
+0.5993 0.1524 0.2483
+large place cute cozy
+0.1226 0.2857 0.192 0.3997
+started bombay beer big enough two
+0.1358 0.2249 0.194 0.1346 0.1976 0.1131
+dinner chicken tikka masala garlic naan
+0.1489 0.1378 0.186 0.1641 0.162 0.2012
+mmmmm delicious
+0.3668 0.6332
+service slow people friendly
+0.4292 0.1634 0.16 0.2475
+nice place relax conversation
+0.2147 0.3538 0.2085 0.2231
+selection change frequently basic dish always available
+0.1766 0.1175 0.1393 0.1443 0.1965 0.1398 0.086
+remember wear best clothes come smelling like indian food well worth
+0.0552 0.1026 0.0578 0.1114 0.0423 0.0647 0.0569 0.1115 0.2477 0.0996 0.0504
+owner truly caters need
+0.2966 0.2089 0.3266 0.1679
+family came gave apps test palets ordered
+0.1765 0.1157 0.1239 0.1477 0.1135 0.2213 0.1013
+everyone happy choice
+0.375 0.2735 0.3515
+ambiance barely romantic management try
+0.4077 0.1199 0.2048 0.199 0.0687
+dahkin also offer prix fixe lunch buffet
+0.1105 0.1701 0.1465 0.1487 0.1427 0.1544 0.1271
+stay away latter since wo go second hint hint
+0.064 0.0797 0.1068 0.1242 0.1439 0.104 0.0836 0.1469 0.1469
+menu many fish item oyster
+0.2024 0.1566 0.2631 0.1738 0.2041
+fish really really fresh lived maine ten year grew fish agreed mare one best seafood restaurant new york
+0.0564 0.0449 0.0449 0.072 0.0426 0.0481 0.039 0.0721 0.0387 0.0564 0.0293 0.1026 0.0266 0.0319 0.0625 0.1127 0.0527 0.0668
+made early dinner reservation thoroughly impressed reminds grandfather old school italian scenery lot fun stuff admire
+0.0413 0.0433 0.073 0.0636 0.0556 0.059 0.0666 0.0733 0.0596 0.0561 0.0804 0.1004 0.0472 0.0583 0.0479 0.0743
+ate clam oreganta spectacular salad perfectly marinated cucumber tomato lot shrimp basil
+0.0418 0.078 0.0403 0.0753 0.0831 0.1107 0.0995 0.1189 0.0986 0.0549 0.0862 0.1127
+boyfriend ate tuna cooked perfectly
+0.1112 0.1036 0.2866 0.2243 0.2743
+sprung people plus seeing eye dog still accommodated u friendly boot
+0.0553 0.1048 0.0722 0.0743 0.0771 0.0787 0.0657 0.0961 0.1127 0.1621 0.1011
+octopus eater floored octopus salad
+0.2527 0.1349 0.1714 0.2527 0.1883
+fried clam enough kick make em worth eating
+0.1597 0.1704 0.1324 0.1311 0.1199 0.096 0.0939 0.0966
+seafood dish good complaint anyone desert terriffic
+0.1838 0.1694 0.1161 0.0893 0.1284 0.1436 0.1696
+one meal edible bland made weird rosemary orange flav ring
+0.0576 0.0973 0.1005 0.1195 0.0675 0.0904 0.1963 0.1114 0.0565 0.1031
+fish overdone
+0.4816 0.5184
+someone else recommended dessert also left
+0.1543 0.1451 0.1373 0.2421 0.1816 0.1396
+one u actually liked expresso
+0.1385 0.2769 0.2094 0.1627 0.2124
+vouch favorite dish egg drop soup dumpling general tso chicken
+0.0559 0.0646 0.1232 0.1124 0.0569 0.1202 0.1313 0.1071 0.1198 0.1086
+delicious
+1.0
+friend sampled choice menu found taste
+0.1445 0.1368 0.1529 0.1708 0.1719 0.2229
+food awful atrocious actually
+0.479 0.1457 0.2344 0.1409
+service typical short order dinner type
+0.4105 0.1212 0.1256 0.0762 0.1703 0.0963
+dumpling fetish suggest try
+0.4698 0.1991 0.1651 0.166
+skin dumpling made fresh tell melt mouth
+0.1702 0.1763 0.0892 0.2064 0.0929 0.1469 0.1181
+fried rice amazing
+0.3221 0.3836 0.2944
+coming child always come back taste
+0.1596 0.1783 0.1737 0.0988 0.1497 0.2399
+dim sum serving bit larger used
+0.2305 0.1404 0.1213 0.2162 0.1505 0.141
+several dim sum order piece
+0.1691 0.3108 0.1893 0.1343 0.1965
+good hey food bad dim sum supposed smaller portion try dish smaller dish cheap
+0.0592 0.0531 0.2043 0.0608 0.0851 0.0519 0.0469 0.0463 0.0766 0.0325 0.0863 0.0463 0.0863 0.0644
+saw heating least one frozen item though sure dim sum dish
+0.062 0.1058 0.0721 0.064 0.0866 0.0899 0.0925 0.0676 0.1371 0.0835 0.1389
+nevertheless food pretty good
+0.2079 0.499 0.1485 0.1445
+realize five minute meaningless wait may anywhere two twenty minute may frustrating
+0.0636 0.0564 0.1105 0.0541 0.1166 0.0805 0.0664 0.0466 0.0814 0.1105 0.0805 0.1328
+nyu student love place make fun young atmosphere
+0.0908 0.0951 0.0618 0.1652 0.0763 0.0943 0.1049 0.3116
+exotic salad basic ly delcious little green salad peanut sauce perfect sweet basil fried tofu
+0.073 0.0704 0.0554 0.0604 0.0534 0.0483 0.068 0.0704 0.0614 0.0953 0.0483 0.0722 0.0954 0.0619 0.0664
+concern slighly business waitstaff order throw food rushing
+0.1238 0.0553 0.1017 0.2354 0.0522 0.0615 0.2898 0.0803
+place sleek modern playfull return frequently
+0.1723 0.3395 0.2428 0.0584 0.0954 0.0916
+appetizer recommend shrimp fritter dumpling
+0.1724 0.1181 0.22 0.2469 0.2426
+night hard hear conversation everyone else competing luxury music playing background also voluminous
+0.0941 0.047 0.0625 0.0721 0.0617 0.0477 0.0825 0.096 0.12 0.0863 0.1315 0.0597 0.0388
+would agree mass term service delivery achilles heel
+0.0832 0.1058 0.115 0.141 0.3126 0.089 0.0615 0.092
+co worker wait almost hour delivery discover got ordered
+0.1134 0.1372 0.1695 0.0898 0.1278 0.1139 0.0928 0.077 0.0786
+pad thai lad nar various dish look good paper better thai food le asthetically pleasing place
+0.0535 0.0552 0.0446 0.0283 0.0352 0.0626 0.0554 0.0429 0.0607 0.0404 0.0552 0.1482 0.0348 0.1106 0.0887 0.0835
+bread soft paratha bread unlike plain bread use calcutta stuffing tandoori styled flavorful
+0.0733 0.0808 0.0871 0.0733 0.0528 0.0603 0.0733 0.0495 0.0774 0.0634 0.0905 0.0907 0.1275
+pinnacle indian fast food fast food opin
+0.1048 0.1202 0.0951 0.2669 0.0951 0.2669 0.0509
+new indian food try paneer roll piece heaven
+0.1086 0.1265 0.2811 0.0447 0.1809 0.1158 0.0741 0.0683
+like mamoun food well side side kati roll produce tastier food hand
+0.0459 0.0536 0.1997 0.0803 0.0513 0.0513 0.059 0.0823 0.0856 0.0453 0.1997 0.0463
+tasty suggest eating one meat tend mesh well average american digestive system
+0.124 0.0392 0.0519 0.0482 0.0979 0.0665 0.1197 0.0996 0.0881 0.0901 0.0892 0.0856
+kati roll serf numerous filling tandoori chicken paneer etc wrapped piping hot parathas
+0.0604 0.0842 0.0631 0.0564 0.0728 0.1005 0.0761 0.1316 0.0506 0.0561 0.0837 0.0542 0.1103
+parathas kebab made ordered ensuring level freshness unsurpassed
+0.1834 0.1339 0.0775 0.0649 0.1269 0.1273 0.168 0.1181
+main downside place nazi like guy running constantly complains noise level
+0.0708 0.0915 0.1525 0.0891 0.0622 0.082 0.0637 0.09 0.0833 0.1134 0.1013
+also limited seating substantial wait getting food peak time
+0.0837 0.0708 0.1091 0.0878 0.1171 0.06 0.2849 0.0741 0.1125
+amazing place try roti roll
+0.171 0.3041 0.0859 0.2164 0.2226
+really recommend simple unda egg roll
+0.1592 0.1061 0.256 0.0924 0.1866 0.1996
+delicate spice onion egg kick as roti
+0.2051 0.1428 0.1484 0.1435 0.1059 0.1051 0.1492
+excellent service
+0.3269 0.6731
+secret lunch menu offer complimentary appetizer every entree ordered
+0.1014 0.1108 0.1321 0.1051 0.115 0.1329 0.1028 0.1207 0.0792
+pad thai noodle sticky
+0.2361 0.2436 0.2716 0.2486
+pot sticker great tempura dish great
+0.1441 0.1358 0.1224 0.2658 0.2095 0.1224
+seating trying get maximum amount people restaurant nice neighbor dine
+0.1076 0.0628 0.0597 0.0764 0.0798 0.1016 0.2319 0.0959 0.0927 0.0915
+husband said portion small main course good eat portion would fine
+0.0794 0.0908 0.1181 0.1087 0.0824 0.0807 0.0912 0.0661 0.1181 0.0813 0.0831
+love atmorphere peep
+0.2708 0.2455 0.4837
+staff kind well trained fast always prompt jump behind bar fix drink know detail every item menu make excelent recomendations
+0.1565 0.0315 0.0531 0.0727 0.0471 0.0397 0.0528 0.0299 0.0403 0.051 0.0321 0.0397 0.0391 0.0624 0.0327 0.0361 0.042 0.0344 0.0527 0.054
+first time happened like crab croquette apt ordered happy change without making big deal
+0.0724 0.1029 0.0606 0.0599 0.1034 0.1095 0.0749 0.0497 0.0577 0.0658 0.0682 0.0693 0.051 0.0547
+staff also young energeic hot
+0.5167 0.1282 0.156 0.0833 0.1158
+food creative asian flare beautifully arranged
+0.3124 0.1486 0.105 0.1475 0.1715 0.115
+thr moshphere compact modern yet cozy
+0.1241 0.0661 0.1162 0.2749 0.1457 0.273
+perfect date
+0.4938 0.5062
+great wine great food
+0.1208 0.2688 0.1208 0.4896
+like indian food much del icious however want factor equation
+0.0582 0.114 0.2532 0.0646 0.0882 0.0483 0.0902 0.0709 0.1083 0.1042
+glass leaping lizard glass prosecco mussel everything happy
+0.1496 0.0771 0.0771 0.1496 0.1665 0.1506 0.1402 0.0895
+granted girl would also great date spot ambiance chic bustling yet also hear conversation table rather loud din worse someone else conversation
+0.0279 0.0316 0.031 0.0353 0.0297 0.0333 0.0505 0.1135 0.0792 0.0569 0.0505 0.0353 0.037 0.0427 0.0494 0.0357 0.0481 0.0735 0.0378 0.03 0.0282 0.0427
+go focus tamarind margarita
+0.1993 0.2791 0.3142 0.2075
+food alright stuff good like steak dish tends dry
+0.2741 0.0874 0.0724 0.0794 0.063 0.1125 0.1158 0.1056 0.0899
+say snacking really set proper dinner
+0.1166 0.1947 0.1462 0.1438 0.2197 0.179
+stick small dish
+0.2534 0.3356 0.411
+visited bread bar january restaurant week pleased menu selection service
+0.0843 0.0805 0.078 0.1128 0.167 0.0876 0.0526 0.0643 0.0768 0.1962
+especially liked chicken tikka naan dal
+0.1154 0.0954 0.1554 0.2099 0.227 0.1969
+menu changed portion even smaller lentil dish salty beyond edibility basmati rice dish lacked flavor
+0.0556 0.0504 0.0656 0.0414 0.0396 0.0926 0.0739 0.0731 0.0653 0.0334 0.0843 0.0722 0.0739 0.0857 0.0931
+noise level unbearable conversation impossible
+0.239 0.2136 0.2088 0.2026 0.136
+ordered number appetizer mostly chutney naan enjoyable tomato chutney amazing aside one thing time finish one dish next would layed table
+0.0273 0.0373 0.0458 0.0382 0.0727 0.0779 0.0445 0.0669 0.0727 0.0454 0.0567 0.0279 0.0327 0.0566 0.0295 0.0279 0.0605 0.0309 0.037 0.0528 0.0589
+chicken steak seasoned cooked perfection lamb sandwhich great heartier appetite
+0.1019 0.1123 0.139 0.1174 0.1142 0.1206 0.0747 0.0675 0.0828 0.0697
+rarely wait seat curry masaman green red full flavor come super spicy ask
+0.0708 0.0902 0.0758 0.0854 0.0895 0.0835 0.0774 0.0525 0.1166 0.0375 0.0716 0.0902 0.059
+pad thai excellent well
+0.2248 0.2319 0.2932 0.2501
+menu especially groundbreaking everything tried far well executed tasty
+0.099 0.0861 0.1097 0.1081 0.0569 0.078 0.1252 0.1813 0.1558
+service always friendly efficient
+0.4151 0.1286 0.2393 0.217
+space bit small live music jazz night loud cramped
+0.209 0.0927 0.0818 0.069 0.1401 0.0857 0.1098 0.0948 0.1171
+also place popular family bothered child running loose like wild animal come later night avoid
+0.064 0.1228 0.0641 0.0725 0.0856 0.0672 0.0513 0.0561 0.0501 0.0805 0.0676 0.0372 0.0405 0.1009 0.0398
+food great authentic
+0.5612 0.1384 0.3004
+love jazz band fri sat
+0.1411 0.2423 0.233 0.1875 0.1961
+whoever jazz duo point
+0.2697 0.275 0.257 0.1983
+even wine glass good
+0.1637 0.3798 0.2562 0.2003
+thai place go nyc wonderful live relaxed jazz certain night
+0.0945 0.1428 0.0716 0.1184 0.0805 0.0738 0.1313 0.0916 0.0782 0.1174
+live relaxed jazz top enjoy
+0.172 0.306 0.2135 0.1757 0.1327
+like saying bread come special bakery seen buying dowtown manhathan
+0.0876 0.0857 0.1518 0.0651 0.1 0.1348 0.0917 0.0837 0.1268 0.0728
+despite gabriella claim us finest ingredient grand dame seen purchasing case kraft string cheeze cosco
+0.0581 0.0395 0.06 0.0724 0.0675 0.1049 0.0567 0.0865 0.0498 0.0566 0.0467 0.068 0.0882 0.1058 0.0395
+bar another bad idea
+0.3396 0.1745 0.2621 0.2238
+gabriela personaly greets recommends eat
+0.1199 0.2677 0.3031 0.1775 0.1318
+food mostly made scratch fresh well prepared
+0.3214 0.0856 0.0732 0.0859 0.1694 0.1292 0.1353
+bar various selection mixed drink special catcher
+0.191 0.1178 0.188 0.1303 0.1486 0.1299 0.0945
+little tonino awesome favorite delivery place kennsington honestly best gnochi ever
+0.0865 0.061 0.0885 0.0709 0.0884 0.1802 0.061 0.0841 0.0747 0.136 0.0688
+called gnochi alla nona found chef special
+0.0951 0.1812 0.2343 0.0814 0.1365 0.1598 0.1118
+everyone spoken super friendly help ful willing extra mile customer
+0.0948 0.1128 0.102 0.1746 0.0928 0.0596 0.0772 0.0733 0.0862 0.1268
+finally got chance experience quality good food great food everyone try getting fort hamilton exit everyday life always saying going try pizzeria adorable kid sign astonished superb taste everything tried far pizza chicken cutlet parm favorite chicken marsala one seem get correctly place seemed perfect kinda surreal highly highly highly recomennded
+0.0108 0.0103 0.0145 0.0357 0.0229 0.0159 0.0551 0.0136 0.0551 0.0167 0.0088 0.0116 0.0245 0.0266 0.0297 0.0102 0.012 0.0165 0.0124 0.0151 0.0088 0.0272 0.0246 0.0152 0.015 0.0264 0.0274 0.0229 0.0191 0.0101 0.0138 0.0263 0.0205 0.0227 0.0219 0.0122 0.0205 0.0211 0.0107 0.0177 0.0117 0.0182 0.031 0.017 0.0149 0.0184 0.0309 0.0151 0.0151 0.0151 0.0105
+could reccommend godmother pizza higher
+0.1783 0.1634 0.133 0.3325 0.1929
+done really nice job offering typical pizzeria faves plus terrific special like godmother pizza sort traditional flat pizza olive oil brushed crust le tomato sauce usua
+0.0346 0.0355 0.0369 0.0409 0.0366 0.0309 0.0533 0.0435 0.0269 0.0365 0.0283 0.0248 0.0206 0.0515 0.0319 0.0377 0.0323 0.0515 0.0503 0.0564 0.0335 0.0519 0.0254 0.0504 0.0575 0.0206
+obviously run folk know pie
+0.1878 0.1461 0.2866 0.1929 0.1866
+work near best oatmeal neighborhood packaged quick cooked item
+0.0921 0.0867 0.0755 0.135 0.1879 0.1058 0.09 0.1387 0.0883
+treat like family morning night
+0.1577 0.1536 0.2222 0.1571 0.3094
+ambience cute quaint good business although vacation
+0.3801 0.1037 0.1318 0.0793 0.0961 0.1045 0.1045
+salad fantastic
+0.5855 0.4145
+although looking regular lettuce walnut salad got great
+0.1408 0.1331 0.0761 0.1664 0.1783 0.1453 0.0689 0.0911
+ingredient organic real plus
+0.3677 0.2558 0.1957 0.1807
+far best salad fast food restaurant
+0.0819 0.0763 0.1287 0.1165 0.3268 0.2699
+fine dining restaurant quality
+0.1319 0.2469 0.4133 0.2079
+100 different choice create
+0.2722 0.1485 0.2139 0.3653
+delivery service great
+0.185 0.6498 0.1652
+first waitress completely unattentive time saw odd restaurant table got order wrong
+0.0619 0.1218 0.07 0.1371 0.088 0.042 0.0746 0.1839 0.0915 0.0416 0.0401 0.0474
+plain pizza soggy creative wild mushroom third generation fornini pizza drenched truffle oil middle making soggy nothingon rest
+0.0498 0.0726 0.0623 0.0724 0.0561 0.0648 0.0349 0.0549 0.029 0.0726 0.0756 0.0664 0.0794 0.0416 0.0404 0.0623 0.029 0.0357
+love restaurant think using fancy expensive ingrediants make food fine cuisine even idea use
+0.0364 0.1429 0.0494 0.0421 0.0583 0.0537 0.088 0.045 0.173 0.0456 0.1341 0.041 0.044 0.0465
+went lunch couple week ago saturday thoroughly impressed food
+0.1209 0.07 0.0592 0.1136 0.0895 0.1187 0.0803 0.0853 0.2624
+pesto pizza excellent thin crust pizza nice amount spicy italian cheese never heard
+0.0907 0.093 0.0918 0.0841 0.0938 0.093 0.0666 0.0554 0.0801 0.0863 0.0728 0.0488 0.0436
+back garden sitting area pleasant see personal herb garden
+0.0782 0.1142 0.0833 0.161 0.1363 0.0705 0.0848 0.1574 0.1142
+come family pizzeria owner almost ashamed say pizza fornino blow family receipies away
+0.0432 0.084 0.1249 0.1314 0.0551 0.0844 0.0662 0.1206 0.0482 0.055 0.084 0.0482 0.0548
+mine little burnt still delicious goat cheese panchetta raddichio kind bitter though
+0.0517 0.0757 0.0945 0.0635 0.1268 0.1233 0.1047 0.0535 0.0535 0.0668 0.1072 0.0788
+friend got mushroom pizza tasted better
+0.1354 0.094 0.2143 0.2401 0.1792 0.1371
+sangria pretty tasty good hot muggy day
+0.1486 0.144 0.2421 0.14 0.1283 0.0923 0.1048
+kind small place guess busy might able fit group kid
+0.0764 0.1106 0.1806 0.081 0.1325 0.0825 0.0725 0.0844 0.0908 0.0886
+best reuben sandwich ever
+0.2111 0.2558 0.3387 0.1943
+never cheescake like
+0.2494 0.5219 0.2288
+fantastic omlette sandwich inch high filled layer deli meat goodness
+0.0807 0.1386 0.1084 0.0779 0.1107 0.0943 0.1083 0.0807 0.1144 0.0861
+service bit slow friendly
+0.4237 0.1707 0.1613 0.2443
+refill fountain drink though
+0.1997 0.3976 0.2078 0.1948
+everything good ok definitely nothing great
+0.2004 0.1672 0.1586 0.155 0.1764 0.1424
+could made meal yummy dumpling dumpling menu
+0.1094 0.0974 0.1404 0.132 0.1925 0.1925 0.1359
+luckily saved room bbq salmon sea bass crispy duck
+0.0528 0.054 0.1742 0.1046 0.1021 0.118 0.1433 0.126 0.1249
+menu rearely change xcept one two special quality care put thier food evident
+0.0743 0.0446 0.059 0.0446 0.0455 0.0384 0.0613 0.0971 0.0758 0.0621 0.0495 0.2338 0.1139
+crackling calamari salad usually cheap disaster many restaurant crispy lightly dressed
+0.072 0.1017 0.0905 0.0515 0.0725 0.052 0.0566 0.1899 0.0981 0.1292 0.0861
+barebecued salmon elegantly spiced dry
+0.0879 0.1593 0.3982 0.2035 0.1511
+wine beer served house varities actually quite good
+0.2068 0.1062 0.1221 0.0854 0.1152 0.1108 0.1444 0.1091
+food tasty portion size appropriate
+0.3815 0.1909 0.143 0.1039 0.1807
+restaurant dark attractive spot light shining putting worst light possible reaching sunglass
+0.1577 0.0989 0.1196 0.0803 0.0836 0.0817 0.0551 0.0527 0.0836 0.0523 0.06 0.0744
+ordered crab cocktail soaked lime juice concoction could taste lime
+0.0547 0.1138 0.0845 0.0999 0.1081 0.0895 0.1491 0.0733 0.1189 0.1081
+could even make salad appealing
+0.1699 0.1571 0.1727 0.2614 0.2389
+waiter actually poured water hand walked away
+0.2652 0.1316 0.1395 0.132 0.1037 0.1311 0.0969
+great roofdeck nice group 30 somet hings music kind quiet
+0.0838 0.0648 0.116 0.0961 0.0972 0.0648 0.0648 0.2005 0.0809 0.1312
+cornelia street look like broadway set west side story inside po cool quaint really ca top setting romantic dinner nyc
+0.0885 0.0449 0.046 0.0283 0.034 0.0398 0.0506 0.0316 0.0394 0.0554 0.0359 0.0504 0.0592 0.0404 0.0386 0.0366 0.1148 0.0584 0.0495 0.0575
+take seat bar back half restaurant saw woman get nudged 40times sitting
+0.0655 0.095 0.106 0.0712 0.0491 0.227 0.0518 0.0952 0.0585 0.0525 0.0525 0.0758
+anyway food great creative fresh always battali yet combo dish salty waiter could fill water glass enough
+0.0312 0.1505 0.0371 0.0716 0.0793 0.0452 0.0535 0.0633 0.0389 0.0635 0.0628 0.0892 0.0385 0.032 0.0444 0.0557 0.0432
+white bean brushetta start incredible pasta phenomenal
+0.1587 0.1737 0.1446 0.0741 0.1244 0.1886 0.136
+almost think get away salad pasta time get entree struggling finish given decent portion size salad pasta plus bread brushetta start
+0.0335 0.0439 0.0327 0.0333 0.0605 0.0745 0.0607 0.0327 0.0447 0.042 0.0316 0.0437 0.0457 0.0576 0.0419 0.0605 0.0745 0.0383 0.0612 0.0571 0.0293
+food amazing especially get chef tasting menu favourite bottle two wine extensive selection wine
+0.1913 0.0606 0.0529 0.0407 0.0717 0.05 0.0608 0.0425 0.0537 0.0314 0.105 0.0618 0.0726 0.105
+people dress suit evening gown well shirt jean
+0.1141 0.1351 0.1523 0.1234 0.0602 0.1268 0.1561 0.1319
+recommend meatball caprese salad bean toast wonderful start meal
+0.0679 0.123 0.1876 0.122 0.1383 0.1021 0.0984 0.059 0.1017
+quail fantastic unique pasta full flavor
+0.1876 0.1139 0.1852 0.1981 0.0979 0.2173
+also seated promptly time reservation service quick professional
+0.0792 0.1083 0.0927 0.1064 0.0945 0.2614 0.075 0.1825
+guacamole shrimp appetizer really great filet good much like frites came filet good neither u cared
+0.0663 0.08 0.0627 0.0644 0.0483 0.0659 0.0567 0.05 0.045 0.0797 0.0427 0.0659 0.0567 0.0528 0.0762 0.0866
+big gawky outside
+0.2749 0.2682 0.4569
+food fresh del icious reasonably priced
+0.3655 0.1927 0.1273 0.0697 0.1248 0.1199
+dessert appealing stuffy overpriced french restaurant
+0.1313 0.1206 0.2157 0.1211 0.1344 0.2768
+time always great meal
+0.3109 0.2365 0.1942 0.2584
+diverse menu something everybody
+0.3161 0.2516 0.181 0.2513
+steak good fish good sushi surprisingly great
+0.1604 0.1131 0.1615 0.1131 0.202 0.1534 0.0964
+partial gnocchi
+0.2827 0.7173
+plus made perfect martini
+0.2358 0.2158 0.256 0.2924
+tuna tartar appetizer die
+0.3123 0.3371 0.1823 0.1683
+service thing good restaurant
+0.4193 0.0987 0.1251 0.3569
+going share feel obligated sitting sushi bar dining watched chef accidentally drop piece unagi floor upon retrieving floor proceed use piece delivery order preparing
+0.0358 0.0227 0.0627 0.0345 0.036 0.0675 0.0503 0.0644 0.029 0.0489 0.0336 0.0255 0.0344 0.0728 0.0559 0.03 0.0249 0.0559 0.0396 0.0351 0.0344 0.036 0.0235 0.0466
+unfortunately piece sashimi sushi sometimes hand delicious fresh wo leave stuffed
+0.0591 0.0641 0.1347 0.1257 0.0872 0.0563 0.11 0.1282 0.0951 0.0551 0.0845
+yet bad indifferent meal nothing knock sock guaranteed good swimmingly fresh time
+0.0903 0.064 0.1466 0.0706 0.0656 0.0624 0.0664 0.0587 0.0622 0.115 0.1133 0.0849
+quaint romantic trattoria top manhattan restaurant list
+0.1357 0.1338 0.1501 0.0839 0.141 0.2329 0.1226
+food delicious special regular menu fare dish never disappointment
+0.2702 0.1223 0.0709 0.0557 0.0859 0.1441 0.1141 0.0677 0.0691
+whether parmesean porcini souffle lamb glazed balsamic vinegar surely transported northern italy one bite
+0.0401 0.0671 0.0825 0.0666 0.0812 0.0671 0.1129 0.103 0.0641 0.084 0.0874 0.0607 0.0358 0.0474
+first place romantic claimed citysearch editorial review
+0.094 0.1904 0.1604 0.0858 0.1479 0.158 0.1636
+service one would expect joint price category
+0.3478 0.0697 0.0925 0.1169 0.1385 0.136 0.0985
+instance plate dumped table handed wine list upside etc somehow working italian charm constant mille grazie constitute proper service
+0.0486 0.0395 0.0369 0.0503 0.0308 0.0672 0.0532 0.044 0.0303 0.0457 0.0405 0.0543 0.0577 0.0554 0.0364 0.0612 0.0686 0.0605 0.1188
+completely fair redeeming factor food average could make deficiency teodora
+0.0852 0.0806 0.1078 0.1159 0.2709 0.0964 0.0693 0.0705 0.0517 0.0517
+host asked appetizer group waiter gave u ordered item ordered
+0.1562 0.0812 0.0987 0.0873 0.1828 0.0719 0.12 0.0588 0.0842 0.0588
+normally would improper however delicious host complain
+0.0901 0.1139 0.0842 0.1571 0.1996 0.2234 0.1317
+ate pasta entre e great
+0.1298 0.3176 0.1701 0.2208 0.1617
+food average would return see operate four le dinner
+0.2956 0.1051 0.0763 0.0921 0.069 0.1067 0.0669 0.0695 0.1189
+pasta fantastic homemade lasagna best city
+0.2049 0.1178 0.1697 0.2046 0.0987 0.2042
+italian staff warm engaging start
+0.1352 0.3613 0.1539 0.2915 0.0581
+try lasagnette appetizer
+0.2375 0.2849 0.4777
+bad food heritage
+0.1734 0.5825 0.2441
+porcini mushroom pasta special tasteless seafood tagliatelle
+0.1423 0.1354 0.1542 0.0834 0.1334 0.1457 0.2055
+icing cake tiramisu resembled nothing ever
+0.27 0.1374 0.2201 0.1519 0.1294 0.0911
+called mascarpone chocolate chip good far cry name implies
+0.0765 0.1473 0.1572 0.1078 0.0993 0.0859 0.1055 0.0821 0.1383
+love food
+0.1739 0.8261
+place get yummy authentic japanese comfort food
+0.1629 0.0615 0.0893 0.1549 0.1087 0.1333 0.2893
+popular style izakaya sake small portion sake friendly dish
+0.0902 0.0956 0.1065 0.0926 0.1059 0.1151 0.0926 0.1718 0.1297
+also korean bbq beer friendly korean appetizer like kim chee
+0.0793 0.1014 0.0955 0.0761 0.151 0.1014 0.0864 0.0621 0.1338 0.113
+place japanese ever get
+0.4121 0.2749 0.1573 0.1557
+consistently good japanese tapa
+0.2831 0.2054 0.2665 0.245
+highly recommend lobster roll much mayo tell fresh lob ster
+0.0904 0.0722 0.122 0.1357 0.0841 0.1179 0.0782 0.1737 0.0629 0.0629
+guest enjoyed pizza santa fe chopped salad fish chip
+0.094 0.0708 0.1444 0.1321 0.1128 0.1064 0.1192 0.1251 0.0952
+sitting main dining room spectacular hand painted high ceili never know world outside
+0.0595 0.0564 0.1065 0.1272 0.077 0.05 0.1557 0.0825 0.0412 0.0541 0.0639 0.0558 0.0702
+ca wait summer serve outside gigantic patio
+0.1361 0.1784 0.1268 0.0949 0.1411 0.1327 0.19
+place would much better served run group actually understands customer service
+0.1311 0.0601 0.0594 0.0634 0.0755 0.0522 0.0659 0.0685 0.1034 0.0945 0.2259
+thing walk eat planning event especially small intimate one forget
+0.0772 0.0977 0.0708 0.093 0.112 0.0934 0.1165 0.1942 0.0657 0.0795
+helpful least give grand run around time event date roll around regret chosing place also become hostile
+0.0926 0.0411 0.0427 0.0514 0.0421 0.0434 0.0741 0.0622 0.052 0.0773 0.0434 0.0276 0.0358 0.1056 0.0551 0.056 0.0977
+nobody restaurant give firm answer anything end one person take responsibility anything
+0.0764 0.2122 0.0584 0.111 0.0878 0.0602 0.053 0.05 0.0747 0.0612 0.0949 0.0602
+terrible terrible management deserves shut
+0.2079 0.2079 0.2532 0.1506 0.1804
+complimentary chef app delicate butternut squash ravioli delicious truffle sauce amazing buttery tender langostine entree dessert ca remember fabulous cakebread cabernet drinking whole evening amazing
+0.0285 0.0385 0.031 0.0567 0.0701 0.0659 0.0502 0.0465 0.0449 0.0548 0.0326 0.0579 0.0543 0.0196 0.0299 0.0403 0.0323 0.0229 0.0291 0.0196 0.054 0.0267 0.0209 0.0402 0.0326
+complimentary stuff kept coming waiter saw opening gift received dessert plate happy birthday written candlevery nice touch attentive staff
+0.0388 0.037 0.0327 0.0387 0.083 0.0264 0.0413 0.0413 0.0377 0.0549 0.0452 0.031 0.0494 0.0434 0.0267 0.0479 0.0565 0.1022 0.1659
+like transported italian countryside romantic filled antique
+0.0653 0.1296 0.126 0.1673 0.1348 0.0926 0.2843
+ceiling amazing
+0.6971 0.3029
+scalina fedeli reminded service integral fine dining
+0.0732 0.0732 0.1182 0.372 0.0732 0.1011 0.1892
+despite fact space large overcrowded floor table
+0.0943 0.091 0.2958 0.0811 0.1563 0.1437 0.1379
+mother chair bumped dozen time hasty waiter waiter ever helpful stood back watched sister physically move table
+0.0525 0.0907 0.0619 0.0378 0.0685 0.0331 0.1027 0.1027 0.0372 0.0855 0.0406 0.0449 0.0386 0.0449 0.0472 0.0399 0.0712
+soon father lifted pen check chef appeared usher u
+0.0811 0.103 0.1114 0.1004 0.0913 0.1357 0.1112 0.1249 0.1409
+staff little bistro friendly never experienced incompetency
+0.3589 0.0819 0.1289 0.1696 0.0759 0.1269 0.0578
+besides table promised given restaurant patron twice actually seated served dish ordered three time received one order 20 minute rest table served order undercooked charged 45 bill
+0.0327 0.0467 0.0258 0.0322 0.0937 0.0511 0.0293 0.0334 0.0456 0.0368 0.0479 0.0217 0.0237 0.0448 0.0305 0.0221 0.0204 0.0363 0.0442 0.0267 0.0467 0.0368 0.0204 0.0492 0.0271 0.0303 0.0438
+waitress moved table practically bathroom asked cancel dinner order want eat sitting toilet told top thing dropped used silverware boyfriend jacket stop apologize clean mess left clothes
+0.0641 0.0317 0.0482 0.0288 0.0579 0.0309 0.0298 0.0472 0.0211 0.0328 0.0246 0.0323 0.0398 0.029 0.0349 0.0268 0.0231 0.0299 0.0605 0.0249 0.0467 0.0254 0.0376 0.0554 0.0375 0.0265 0.0527
+wife always enjoy young always well trained nevertheless friendly staff story
+0.0481 0.062 0.0463 0.0737 0.062 0.0829 0.1135 0.0859 0.1154 0.2442 0.066
+sit outside warm weather inside cozy winter
+0.113 0.1048 0.1626 0.1181 0.1451 0.2539 0.1025
+decent wine reasonable price
+0.1849 0.3418 0.237 0.2362
+place cool enough east village french enough make feel like could bistro back alley paris
+0.1013 0.0737 0.0517 0.0752 0.0694 0.0722 0.0517 0.0468 0.0864 0.0414 0.046 0.0765 0.0466 0.0971 0.064
+home last year may skew reviewer bit food tasty spicy sans oil come floating along similar nues
+0.0383 0.0671 0.0837 0.045 0.0302 0.0466 0.0619 0.1584 0.0793 0.0652 0.0371 0.0828 0.0271 0.0782 0.0337 0.0353 0.0302
+sweet lassi excellent lamb chettinad garlic naan rasamalai forgettable
+0.1024 0.1171 0.1195 0.1118 0.1261 0.111 0.1378 0.0484 0.1259
+stick gulab jamun
+0.288 0.3458 0.3662
+like spicy food get chicken vindaloo
+0.0816 0.1461 0.3553 0.0756 0.1323 0.2092
+spicy offensive
+0.4902 0.5098
+year always provided pleasurable dining experience quality food wine
+0.1156 0.0657 0.0789 0.0605 0.1079 0.1417 0.0909 0.2187 0.1201
+staff always attentive kind always amazed handled various different group size come
+0.2611 0.0662 0.1608 0.0525 0.0662 0.0588 0.0781 0.0524 0.0436 0.0624 0.06 0.0377
+co worker stated food amazing wondered heard place
+0.0842 0.1018 0.0745 0.306 0.0969 0.0958 0.0685 0.1723
+main course average portion decent overall
+0.1323 0.1296 0.18 0.1897 0.1503 0.2181
+bread lamb chop meal quite good however
+0.156 0.1729 0.139 0.1287 0.1502 0.1135 0.1396
+beverage excellent dessert good
+0.1903 0.3311 0.2752 0.2034
+sapphire twice time food fine good
+0.1338 0.1013 0.1551 0.3927 0.1035 0.1137
+stick chicken beef lamb dish
+0.141 0.2017 0.1898 0.2388 0.2287
+usually order wine indian ca comment wine list wine
+0.0619 0.0497 0.1516 0.1243 0.0866 0.1026 0.1516 0.12 0.1516
+skip dessert
+0.2886 0.7114
+dish offered unique tasty fresh lamb sausage sardine biscuit large whole shrimp amazing pistachio ice cream best freshest ever
+0.0598 0.0306 0.0641 0.0709 0.0746 0.0624 0.0646 0.0578 0.0562 0.0342 0.0288 0.0578 0.0448 0.0817 0.0483 0.0579 0.0331 0.0421 0.0304
+food ambiance service agree previous review wait wait wait staff rude get looking get right
+0.1253 0.1183 0.1216 0.0412 0.0378 0.0606 0.0515 0.0515 0.0515 0.1484 0.0648 0.0267 0.0452 0.0267 0.0289
+impressed food
+0.2455 0.7545
+zero ambiance boot
+0.2295 0.5626 0.2079
+exception lemon salad much pepper eye started watering food decent great
+0.0809 0.0927 0.0932 0.0604 0.1008 0.063 0.0468 0.0967 0.2368 0.0703 0.0584
+menu limited think counted ent rees
+0.214 0.1673 0.1922 0.1697 0.1284 0.1284
+ordered special grilled branzino infused bone difficult eat
+0.0713 0.0981 0.1281 0.2513 0.1651 0.126 0.0816 0.0784
+decor place diner ish kind place expect east village romantic simple small sparse
+0.1785 0.0896 0.0599 0.0609 0.0379 0.0896 0.0519 0.0665 0.0613 0.0754 0.0841 0.0548 0.0896
+first waiter served u neglected fill u special would chosen known
+0.076 0.1621 0.0886 0.1063 0.1038 0.0581 0.1063 0.0717 0.0706 0.0902 0.0663
+notified mention special apologize let u know made good decision regardless
+0.139 0.0928 0.081 0.099 0.0711 0.1201 0.0914 0.0703 0.0894 0.0657 0.0803
+secondly night place overwhelmed upper east side lady perfume
+0.1242 0.1369 0.1665 0.0889 0.1013 0.1235 0.0759 0.0879 0.0949
+bring service notch offerng complementary amuse bouche table gave u small dessert celebration
+0.035 0.1895 0.0792 0.0373 0.0638 0.0954 0.086 0.0803 0.0456 0.076 0.0674 0.0765 0.0683
+good selection wine ranging affordable high end
+0.1163 0.1525 0.2206 0.1229 0.1511 0.1537 0.0829
+ambiance
+1.0
+tiny felt like eating someone living room
+0.1297 0.1498 0.0971 0.0885 0.1054 0.1805 0.249
+sometimes little cramped get little warm hello nyc
+0.1247 0.0939 0.1716 0.0739 0.0939 0.1753 0.1043 0.1623
+also back garden open summer cute french outdoor seating could ask
+0.0806 0.071 0.1037 0.0959 0.0801 0.1037 0.11 0.1061 0.1051 0.0702 0.0737
+le pere pinard 15 pre theater menu outstanding
+0.1064 0.0864 0.0864 0.1284 0.0805 0.1847 0.1439 0.1833
+fresh authentic french cuisine substantial portion
+0.1805 0.1832 0.1372 0.2653 0.1055 0.1283
+three course choice include excellent mussel puff pastry goat cheese salad delicious dressing hanger steak au poivre world
+0.0292 0.0358 0.0398 0.037 0.0659 0.0521 0.0483 0.0597 0.0615 0.0522 0.055 0.0632 0.0811 0.0646 0.0573 0.0757 0.0855 0.0361
+easy get table large group get hustled
+0.1468 0.1169 0.2259 0.1328 0.1557 0.1169 0.1049
+first went enjoy garden terrace
+0.1624 0.2693 0.1312 0.221 0.2161
+steak tartare great bet fix table
+0.2103 0.2258 0.1264 0.1024 0.1245 0.2106
+admittedly night inside restaurant rather warm open kitchen part charm
+0.1095 0.107 0.1041 0.1909 0.0687 0.1166 0.0809 0.0636 0.0496 0.109
+great wine selection gigondas worth price house champagne great value
+0.0808 0.1797 0.1243 0.0625 0.0667 0.1242 0.0742 0.0944 0.0808 0.1125
+food actually aweful
+0.6126 0.1802 0.2072
+picky actually gross
+0.2539 0.3023 0.4438
+mussles fishiest thing ever tasted seabass bland goat cheese salad missing goat cheese penne chicken bone disgusting
+0.0735 0.0317 0.038 0.0357 0.0592 0.0728 0.0671 0.0732 0.0621 0.0655 0.0389 0.0732 0.0621 0.0665 0.0619 0.056 0.0624
+upon entering greeted owner steven frederick went way gracious host
+0.0536 0.1184 0.1069 0.1212 0.0958 0.0989 0.1074 0.0571 0.1227 0.118
+last time went waitress come back taking order
+0.1588 0.148 0.1727 0.2049 0.064 0.097 0.0872 0.0674
+get drink refill even offer u option dessert
+0.0918 0.1295 0.1244 0.1021 0.1092 0.1678 0.1062 0.169
+steak au poivre one worst
+0.2018 0.2664 0.3006 0.0957 0.1355
+steak fatty sauce overpowering tasty
+0.1741 0.1602 0.2262 0.2271 0.2124
+kind attentive wait staff
+0.093 0.2846 0.1604 0.462
+really like scallop mahi mahi saffron risotto yum
+0.1021 0.0714 0.1481 0.1286 0.1286 0.1868 0.1477 0.0866
+friend devoured chicken mashed pota tos
+0.1508 0.1262 0.2087 0.3003 0.107 0.107
+delicious crab cake
+0.3855 0.3383 0.2763
+staff courteous friendly
+0.5087 0.2509 0.2403
+important sushi rival best tokyo
+0.1845 0.3076 0.1867 0.139 0.1822
+fish fresh piece sliced perfection seasoned sushi chef usually little fresh wasabi soy sauce also sometimes sea salt
+0.0572 0.073 0.0365 0.0498 0.0578 0.0704 0.0716 0.0519 0.031 0.0374 0.073 0.068 0.0505 0.0738 0.0407 0.0497 0.0553 0.0523
+admittedly place gigantic piece fish overflowing plate thank goodness opinion simple elegant sushi better place new york anywhere u
+0.0623 0.074 0.0402 0.0346 0.0543 0.0474 0.0424 0.0369 0.0391 0.0337 0.0695 0.0906 0.068 0.0358 0.074 0.0508 0.0644 0.0308 0.0511
+ton different type fish helpfully organized group salmon whitefish tuna yellowtail oyster eel uni etc fish amazingly fresh flown day world
+0.0301 0.0251 0.0289 0.0526 0.0325 0.0467 0.036 0.0439 0.0504 0.0697 0.0956 0.0408 0.068 0.0767 0.0315 0.0526 0.0558 0.0671 0.0355 0.0276 0.0329
+treated attitude ever since moment stepped restaurant
+0.098 0.1723 0.0712 0.1118 0.1199 0.1534 0.2734
+first greeting entered last call 10 15
+0.1092 0.2526 0.146 0.1664 0.1207 0.0938 0.1113
+got sashimi order could believe small portion
+0.0882 0.2616 0.085 0.1209 0.1042 0.1629 0.1771
+would disappointed portion quality good enough make
+0.1193 0.1287 0.1732 0.192 0.1338 0.1327 0.1202
+goodness everything fish rice seaweed absolutely amazing
+0.1113 0.13 0.1548 0.1545 0.1973 0.1335 0.1186
+never problem staff maybe lucky
+0.117 0.1306 0.5529 0.0946 0.1049
+first time sushi outstanding second time little bland
+0.0962 0.1367 0.1788 0.1401 0.0786 0.1367 0.0935 0.1395
+location twice hell kitchen location twic spicy eggplant doused oil chicken dry oily tasted like bad chicken chinatown
+0.0858 0.0368 0.0377 0.0393 0.0858 0.0272 0.0587 0.0721 0.0745 0.0745 0.0531 0.0468 0.0776 0.0508 0.0328 0.0425 0.0531 0.0508
+singapore mai fun curry flavor whatsoever
+0.1739 0.2146 0.1254 0.1518 0.2073 0.127
+usually order fried rice shrimp sichuan sauce appetizer cooked sichuan pepper mmmm
+0.0512 0.0412 0.0792 0.0943 0.0934 0.0819 0.1219 0.0732 0.0981 0.0819 0.0974 0.0863
+recommend lunch special tasts regular chinese restaurant
+0.0927 0.1129 0.111 0.0808 0.0872 0.166 0.3495
+try ordering regular menu would regret
+0.1218 0.1669 0.1577 0.2434 0.1976 0.1126
+never problem charging meal tip food delivered quickly live minute walk
+0.0634 0.0708 0.0597 0.0831 0.0849 0.2532 0.0623 0.077 0.0737 0.0986 0.0732
+chicken garlic sauce chicken black bean sauce hunan chicken
+0.0993 0.1167 0.1422 0.0993 0.0869 0.119 0.1422 0.0952 0.0993
+four u arrived noon place empty staff acted like imposing rude
+0.0466 0.0802 0.0542 0.0764 0.1161 0.0656 0.2441 0.0592 0.0474 0.1037 0.1066
+never brought u complimentary noodle ignored repeated request sugar threw dish table
+0.0666 0.0516 0.1033 0.0736 0.1104 0.0854 0.0699 0.0796 0.0867 0.0515 0.1122 0.1092
+food lousy sweet salty portion tiny
+0.3497 0.1245 0.1413 0.146 0.1311 0.1074
+complained small tip
+0.2916 0.359 0.3493
+step cosette miraculously small beaten path parisian bistro
+0.1151 0.0622 0.1212 0.1123 0.1281 0.1462 0.1764 0.1386
+tiny restaurant cozy get certain parisian flair
+0.079 0.2125 0.2028 0.0547 0.0794 0.1394 0.2322
+food average average french onion soup filling yet overly impressive dessert brilliant way
+0.1804 0.0641 0.0641 0.0723 0.0719 0.0744 0.0643 0.0758 0.077 0.0622 0.0707 0.0785 0.0442
+however go ambience consider food companion trip across world
+0.0801 0.0635 0.3119 0.0632 0.2248 0.0625 0.0608 0.0752 0.0581
+appetizer ok main course decidedly subpar
+0.1612 0.1385 0.1318 0.129 0.2582 0.1813
+worse 60 erroneously added 80 bill
+0.1779 0.1777 0.1079 0.1431 0.1751 0.2182
+romantic want brightly lit
+0.2387 0.1409 0.3704 0.25
+bernard great host bother bit recited entire menu wife
+0.0737 0.0952 0.1955 0.081 0.1509 0.089 0.102 0.1227 0.0899
+food hot tasty
+0.5663 0.1502 0.2835
+cozy romantic atomosphere around 15 table
+0.2674 0.161 0.2574 0.0785 0.0963 0.1395
+service prompt slightly rushed
+0.4691 0.1933 0.1822 0.1554
+food good would consider world
+0.4792 0.1387 0.1237 0.1346 0.1238
+cute decorative
+0.3165 0.6835
+food inventive still keep traditional indian flav ring
+0.3026 0.1431 0.0686 0.0808 0.1057 0.1362 0.0577 0.1053
+recommend garlic shrimp okra bindi anything lamb
+0.0916 0.1831 0.1707 0.1923 0.0798 0.098 0.1844
+food inludes famous scrumptious bombay style chaat bhelpuri sevpuri samosa chaats well great indian appetizer
+0.1829 0.0349 0.0338 0.072 0.0598 0.0569 0.0914 0.0349 0.0349 0.1042 0.0349 0.0735 0.0451 0.0823 0.0585
+place larger feature adequate seating unlike joint bar deserves mention
+0.158 0.0763 0.0862 0.1135 0.1075 0.0805 0.1084 0.1083 0.077 0.0843
+people attest spending 50 drink new york bar hardly feeling thing drink plentiful unique
+0.076 0.0799 0.0585 0.0414 0.063 0.0811 0.1028 0.081 0.0537 0.0804 0.048 0.063 0.0759 0.0952
+kamasutra bombay cosmopolitan excellent tipsy time
+0.0983 0.1684 0.1666 0.2428 0.1204 0.2035
+oh yes fan indian oldie film star plenty portrait indian actor actress classic black white adorn wall would love know obtained
+0.0246 0.0306 0.0264 0.0532 0.0599 0.0464 0.0331 0.0312 0.0788 0.0532 0.0685 0.0683 0.0414 0.0386 0.0482 0.0977 0.0868 0.0305 0.0249 0.035 0.0226
+love poster famous indian actor prime indian cinema
+0.0723 0.1509 0.0634 0.1547 0.199 0.0868 0.1547 0.1182
+try tandoori salmon
+0.1597 0.4935 0.3468
+palak paneer standard fan malai kofta
+0.1965 0.2571 0.1063 0.0891 0.1762 0.1747
+rice portion gnerally small vegtable day get teaspoon u hour least well done eating one bothered u great
+0.0771 0.07 0.0357 0.0644 0.0357 0.0405 0.0397 0.0627 0.0727 0.0579 0.0409 0.0751 0.06 0.0392 0.0364 0.0733 0.0727 0.0461
+go drink
+0.485 0.515
+ask usha nicest bartender manhattan
+0.1435 0.1018 0.215 0.2732 0.2666
+fav sassy lassi
+0.2165 0.3753 0.4082
+service spotty sometimes really friendly sometimes barely
+0.2919 0.1415 0.1079 0.0989 0.1683 0.1079 0.0835
+server make feel like favor bring food
+0.1795 0.0901 0.1664 0.0796 0.0759 0.062 0.3465
+begin told 30 minute wait started leave hostess offered call u cell phone table ready
+0.0565 0.0501 0.058 0.0788 0.0832 0.04 0.0459 0.1201 0.0437 0.0622 0.0787 0.0691 0.0787 0.0832 0.0518
+sure enough exactly 30 minute later got call seated promptly
+0.0713 0.0997 0.0998 0.0994 0.1352 0.0644 0.0648 0.1067 0.1395 0.1194
+waitstaff attentive polite helpful impressive feat close quarter
+0.208 0.1868 0.1341 0.1264 0.0884 0.1235 0.0657 0.067
+food fantastic
+0.782 0.218
+entree side drink everything creatively prepared yet still simple
+0.0824 0.0728 0.085 0.0984 0.2091 0.1193 0.1191 0.0642 0.1498
+food good ca lie
+0.5173 0.1498 0.1622 0.1707
+staff horrible u
+0.6321 0.1603 0.2076
+hostess waitress incredibly rude everything could rush u
+0.1786 0.1646 0.1239 0.1556 0.1045 0.077 0.0789 0.117
+planning get dessert waitress basically bill u chance order
+0.0948 0.0733 0.1349 0.1884 0.0894 0.1328 0.1339 0.0906 0.062
+place incredibly tiny
+0.4393 0.3211 0.2396
+refuse seat party weekend
+0.2184 0.2686 0.2818 0.2311
+hostess rude point offensive
+0.3299 0.2874 0.1449 0.2378
+food bland oily
+0.5135 0.2071 0.2794
+dim sum spectacular
+0.4057 0.2471 0.3472
+ive asked cart attendant lotus leaf wrapped rice replied back rice walked away
+0.0585 0.0646 0.046 0.0963 0.0987 0.0766 0.0673 0.1012 0.101 0.0635 0.1012 0.0719 0.0532
+ask three time finally came back dish ive requested
+0.1111 0.0862 0.1632 0.0813 0.09 0.1069 0.1744 0.0984 0.0884
+food okay nothing great
+0.5531 0.1414 0.169 0.1365
+expect sit inside though table always full
+0.1383 0.1486 0.1909 0.1192 0.1742 0.1274 0.1015
+try olive cream cheese lox spread whole wheat everything bagel
+0.0489 0.1433 0.1256 0.1149 0.0965 0.1012 0.0625 0.0974 0.1067 0.1029
+coffee quite good
+0.2792 0.4106 0.3102
+bagel outstanding taste terrific texture chewy yet gummy
+0.0971 0.1174 0.1203 0.098 0.1698 0.1216 0.1219 0.1539
+overall best bagel town
+0.3396 0.1841 0.2639 0.2124
+bagel fine little overcooked really special bagel experience
+0.1176 0.0926 0.0949 0.1421 0.1154 0.0921 0.1176 0.2276
+good spread great beverage selection bagel really tasty
+0.108 0.1228 0.0921 0.1011 0.1417 0.1249 0.1226 0.1868
+big complaint toasting available
+0.2066 0.2351 0.3632 0.1951
+murray wo
+0.6158 0.3842
+wo ca service directory
+0.2095 0.1681 0.5201 0.1023
+say murray anything service
+0.1252 0.2993 0.112 0.4635
+thought place using much msg cooking food
+0.0785 0.1804 0.0779 0.0818 0.1145 0.1465 0.3204
+thai food good
+0.2242 0.6016 0.1742
+nice quiet location go eat good meal relax able talk good time
+0.0861 0.0974 0.1516 0.0712 0.0528 0.073 0.0828 0.0836 0.057 0.0719 0.073 0.0996
+staff attentive smile face
+0.4534 0.2793 0.155 0.1122
+lot variety even people eat vegetarian like
+0.1334 0.1641 0.1213 0.1854 0.1074 0.1707 0.1178
+try green curry vegetable
+0.1123 0.2689 0.2749 0.3439
+quantity also good come satisfied
+0.3029 0.2031 0.2002 0.1181 0.1758
+service ok people get asked
+0.4658 0.1319 0.1737 0.1021 0.1263
+wonderful salad del icious refreshing spicy
+0.1492 0.1849 0.1636 0.0896 0.2196 0.1932
+pam special fried fish amazing
+0.1839 0.1599 0.2112 0.252 0.193
+large two people nothing left
+0.186 0.1266 0.2785 0.2351 0.1738
+always delicious meal always leave feeling satisfied
+0.1338 0.2015 0.1462 0.1338 0.1009 0.1705 0.1132
+fish fresh rice tasted old stale
+0.1701 0.217 0.1698 0.1465 0.1351 0.1615
+quite frankly worst sushi ever tried
+0.1981 0.1867 0.1425 0.2672 0.1111 0.0944
+fake fish tank
+0.3071 0.3623 0.3307
+menu may small everything delicious
+0.1821 0.1626 0.1975 0.1988 0.2591
+particularly love yellowfun tuna mussel selection
+0.1919 0.1 0.0906 0.2602 0.1771 0.1803
+love seafood would love place
+0.1238 0.2695 0.1518 0.1238 0.3311
+think best meal life minnow
+0.1991 0.1628 0.2289 0.1521 0.2571
+seafood amazing good wine list ever changing menu always offer great surprise
+0.1155 0.0798 0.073 0.1384 0.1095 0.0542 0.0885 0.0801 0.0757 0.0638 0.0622 0.0593
+combination super fresh ingredient dish unusual really delicious
+0.1255 0.0955 0.1542 0.1482 0.1235 0.1245 0.0961 0.1324
+staff always friendly without seeming grating chef greeted u couple occasion
+0.2534 0.0643 0.1197 0.0561 0.0911 0.0408 0.0802 0.0982 0.0832 0.0483 0.0647
+get sense people care restaurant experience nice
+0.0665 0.1521 0.113 0.1012 0.258 0.2024 0.1067
+reservation could sit back garden great secluded perfect nice weather
+0.1077 0.0786 0.1077 0.0795 0.1162 0.0758 0.1338 0.0831 0.105 0.1126
+main hit whole grilled fish
+0.1834 0.1436 0.1427 0.2403 0.2899
+huge del icious fresh reason return
+0.1425 0.1881 0.1031 0.2848 0.1131 0.1684
+hopefully next time save room dessert
+0.1355 0.1043 0.1912 0.094 0.2853 0.1896
+even upon delivery juicy pork bun quite good
+0.0917 0.0891 0.107 0.1666 0.1398 0.1453 0.1484 0.1121
+best found outside chinatown master
+0.1351 0.1851 0.1881 0.2058 0.2859
+wife also enjoyed spinach shanghai low mein attraction
+0.0864 0.1089 0.0867 0.1772 0.1376 0.1558 0.1552 0.0923
+crispy chicken u though
+0.2903 0.2535 0.2648 0.1914
+still living dark age answering machine want make reservation limited
+0.0688 0.1297 0.1572 0.0874 0.1214 0.0898 0.085 0.0789 0.1064 0.0755
+answer phone lucky hang
+0.2735 0.3113 0.1799 0.2352
+walk in risky
+0.3924 0.3488 0.2589
+eaten time food always good
+0.1194 0.1752 0.4436 0.1333 0.1284
+single place chinatown nice neighborhood feeling like
+0.0851 0.2099 0.1326 0.1273 0.2167 0.1428 0.0857
+may owner always smile warmly greet
+0.1162 0.2128 0.123 0.1657 0.2418 0.1406
+try spicy wonton salt pepper shrimp
+0.0708 0.183 0.2071 0.168 0.1895 0.1816
+bite food kai indeed del icious fresh elegant
+0.0692 0.2692 0.1005 0.0885 0.0937 0.0514 0.1419 0.1855
+black cod yuzu sauce wonderful
+0.1612 0.1916 0.2267 0.2636 0.157
+must warn reader portion size small especially appetizer plan eat full intend order chef special tasting menu prepare order pay appetizer dish person portion sharing main entree cold udon end meal
+0.0237 0.0261 0.0372 0.0418 0.0304 0.0385 0.0308 0.0357 0.0232 0.0234 0.0267 0.0352 0.0201 0.0418 0.0293 0.0292 0.0355 0.0288 0.0201 0.0332 0.0357 0.0471 0.0324 0.0418 0.0305 0.0292 0.0324 0.0373 0.0435 0.023 0.0366
+someone appreciates simplicity elegance wonderfully presented tasting seafood vegetable regardless portion size kai place
+0.0398 0.062 0.0886 0.1561 0.0925 0.0741 0.0417 0.0731 0.0778 0.0415 0.0598 0.0435 0.0596 0.0899
+someone appreciates thing hope food spare share kai may best option
+0.0673 0.1047 0.0616 0.0655 0.2696 0.0779 0.0468 0.1007 0.0766 0.063 0.0664
+ambience calm quiet
+0.5702 0.2709 0.1588
+crazy sake martini
+0.241 0.3751 0.3839
+people eat seem typical upper east side snob aware
+0.1239 0.0718 0.11 0.098 0.1173 0.1431 0.0879 0.1486 0.0995
+waitress awesome
+0.6641 0.3359
+get 10 excellent service advice
+0.0995 0.1118 0.2205 0.4539 0.1142
+food tasty portioins tiny even high quality restaurant
+0.2592 0.1297 0.0494 0.0796 0.0613 0.0991 0.1077 0.214
+staff absolutely professiona sometimes see waiter enough knowledge dish
+0.2827 0.0851 0.0456 0.0856 0.0557 0.1415 0.0686 0.1344 0.1008
+nice quiet small enough
+0.2512 0.2841 0.2535 0.2112
+food great
+0.8021 0.1979
+service top notch
+0.5799 0.1778 0.2423
+must say view nyc beautiful
+0.1064 0.1311 0.221 0.2336 0.3078
+last time week ago early 5pm crowded noisy
+0.143 0.1333 0.1461 0.1151 0.0806 0.111 0.1398 0.131
+food good part regular food nothing special
+0.3051 0.0883 0.0655 0.0629 0.3051 0.0932 0.08
+staff offer impeccable service
+0.3973 0.0849 0.1922 0.3255
+lobster bisque oz maine lobster
+0.2132 0.2323 0.1384 0.2028 0.2132
+boyfriend new england chowder good think award go lobster bisque
+0.0612 0.1112 0.0848 0.1021 0.0833 0.0822 0.1712 0.0813 0.1066 0.1161
+filet mignon garlic mash
+0.2219 0.2494 0.2889 0.2397
+divine melt mouth
+0.3708 0.3488 0.2804
+boyfriend prime rib good want bottle bubbly weekday got little bottle korbett enough
+0.061 0.0724 0.0988 0.083 0.0803 0.0806 0.1027 0.0726 0.0535 0.0775 0.0806 0.0547 0.0824
+lava cake ordered food came take least make
+0.1374 0.1142 0.0672 0.352 0.0767 0.0838 0.0771 0.0916
+lava cake dessert incredible recommend
+0.2373 0.1971 0.2381 0.1942 0.1332
+although typical kind water would like question service good overall relaxing place eat
+0.0771 0.0579 0.0481 0.0596 0.0522 0.0464 0.0668 0.196 0.0585 0.0871 0.0942 0.1138 0.0424
+problem manager complete incompetent
+0.1593 0.3052 0.1543 0.3812
+offer subpar service personality
+0.1162 0.1652 0.4453 0.2734
+fact appears going go postal moment
+0.1519 0.2265 0.1536 0.1582 0.1069 0.2029
+excuse lousy servic
+0.3018 0.4546 0.2437
+food place gourmet indian cuisine
+0.3186 0.1794 0.1116 0.1434 0.247
+curry slurry crap regular run mill food
+0.1504 0.0737 0.1181 0.0796 0.0866 0.1053 0.3863
+food excellent found location 104 2nd avenue consistent food short menu
+0.1875 0.0884 0.06 0.1128 0.0358 0.0632 0.081 0.0684 0.1875 0.0557 0.0596
+best dish paneer bhurji baluchi shrimp curry chicken makhani
+0.066 0.1193 0.1818 0.0539 0.0785 0.1153 0.11 0.1052 0.1699
+manager uncanny knack getting rare eclectic music comprising indian add ambience
+0.105 0.0374 0.079 0.0413 0.0644 0.0991 0.1158 0.0374 0.0882 0.0603 0.2719
+however summer 2003 seems management changed great big door replaced glass front ridding dark romantic getup
+0.0628 0.0515 0.1208 0.0566 0.0813 0.0507 0.0435 0.0345 0.0604 0.0626 0.0653 0.068 0.0336 0.0913 0.0836 0.0336
+food undercooked sauce watery vegetable raw
+0.3191 0.1383 0.1701 0.1271 0.1554 0.0899
+course past month chef staff changed better
+0.0825 0.0998 0.1348 0.1207 0.3816 0.0928 0.0877
+wish would change back
+0.1896 0.2718 0.266 0.2726
+food inconsistent
+0.7219 0.2781
+make best pizza ny maybe anywhere
+0.1419 0.1274 0.2602 0.2324 0.1105 0.1277
+consistantly great thin crisp crust inventive topping combination smokiness believed one new york oldest wood burning oven like naples wood used pizza rest menu much pizza place offering creative dish like prosciutto sushi brooklyn caviar brick oven shrimp salad huge well made pasta normanl red sauced slop recieve pizza house
+0.0264 0.0128 0.0224 0.0243 0.0249 0.0245 0.0191 0.0222 0.0284 0.0135 0.0101 0.02 0.0253 0.0231 0.0322 0.0211 0.0147 0.0119 0.0165 0.0322 0.0132 0.0247 0.0122 0.0165 0.0132 0.0247 0.0291 0.0176 0.0246 0.0219 0.0119 0.0285 0.0267 0.0188 0.0223 0.0252 0.0147 0.0211 0.0204 0.0137 0.0208 0.0118 0.0251 0.0099 0.0183 0.0266 0.0147 0.0102 0.0247 0.0117
+bread beginning super tasty make want pizza delicious come personal size however warned peter favourite pizza prosciutto baby arugula actually margarite pizza cold prosciutto baby arugula top like salad
+0.0377 0.0254 0.031 0.0475 0.0247 0.0265 0.0452 0.0429 0.0162 0.0266 0.0258 0.0338 0.0251 0.0333 0.0211 0.0452 0.0523 0.0287 0.0599 0.0279 0.0181 0.0452 0.0317 0.0523 0.0287 0.0599 0.0282 0.0218 0.0373
+good thought would
+0.3653 0.309 0.3257
+overall openminded recommend tomato sauce pizza bit sweet add unique touch
+0.1007 0.0446 0.0512 0.1091 0.1247 0.1115 0.0914 0.0945 0.0719 0.1059 0.0944
+pizza best like thin crusted pizza
+0.2051 0.1004 0.0988 0.1856 0.2051 0.2051
+plenty choice make creation
+0.216 0.2329 0.2128 0.3383
+rest menu limited everything good eats
+0.1358 0.1838 0.1438 0.2007 0.1674 0.1686
+kenny owner always treat family like part family
+0.2037 0.1912 0.1105 0.0868 0.1222 0.0845 0.0789 0.1222
+jukebox play everything italian opera stroke
+0.192 0.1539 0.1551 0.198 0.1406 0.1604
+food amazing rich pasta fresh doughy pizza
+0.2563 0.0811 0.1188 0.1243 0.1351 0.1621 0.1223
+even pasta delicious rarity new york pizza restaurant
+0.0629 0.1288 0.1202 0.1095 0.1026 0.13 0.1267 0.2193
+order panang duck fantastic
+0.1438 0.2958 0.3377 0.2227
+fact two people could really share one plate
+0.1308 0.0793 0.1745 0.1234 0.1585 0.0838 0.0939 0.1557
+flavor great menu extensive
+0.3746 0.1738 0.224 0.2275
+plus wednesday night house wine unlimited
+0.1272 0.133 0.2364 0.1158 0.2804 0.1072
+live thai way living
+0.2178 0.2789 0.1835 0.3197
+recommend thai popcorn
+0.2409 0.4097 0.3494
+everything pretty good
+0.3715 0.3186 0.3099
+downtown dinner 2002 prixe fix appetizer ok waiter gave poor suggestion try potato stuff kanish best one
+0.0835 0.0715 0.1257 0.0432 0.0432 0.0569 0.0488 0.1053 0.0415 0.0715 0.0562 0.0283 0.0676 0.0469 0.0339 0.0415 0.0346
+small serving main entree salmon wasnt impressed girlfriend chicken good
+0.1176 0.0747 0.0891 0.0991 0.1178 0.0844 0.1109 0.0806 0.127 0.0987
+dessert joke dont bother
+0.381 0.1926 0.2224 0.204
+perfect place amanzing indian food
+0.1093 0.2276 0.0771 0.1819 0.4041
+really loved different inovated touch cheff give food
+0.1182 0.0871 0.0711 0.0686 0.1451 0.0686 0.0818 0.3596
+must try shrimp appetizer
+0.1933 0.1446 0.3712 0.2909
+even indian friend could believe good tasty everything
+0.0921 0.1752 0.1047 0.0996 0.0858 0.1127 0.1948 0.1351
+cannot imagine friendlier staff working restaurant
+0.0764 0.0763 0.1358 0.36 0.1005 0.251
+cannot imagine better indian food city
+0.0929 0.0927 0.1005 0.1662 0.3693 0.1784
+meat dish adorn selection although still large number vegetarian friendly choice
+0.0917 0.098 0.1917 0.0881 0.0885 0.0526 0.0561 0.0603 0.0773 0.1298 0.066
+southern indian cuisine still
+0.1821 0.2536 0.4366 0.1277
+classical restaurant fare chef given new life old cuisine really innovative tasty dish genuinely indian without heavy old restaurant burn out
+0.0573 0.088 0.0568 0.0399 0.0303 0.0412 0.0233 0.035 0.0826 0.035 0.0578 0.0534 0.045 0.0508 0.048 0.0279 0.0427 0.035 0.088 0.0267 0.0353
+probably much busier lunch seldom crowded dinner close downtown
+0.0704 0.089 0.0982 0.093 0.1114 0.1444 0.1403 0.0895 0.1638
+lobster sandwich fantastic
+0.3617 0.366 0.2723
+husband said could eaten several portion fine even exclaimed french fry best
+0.0742 0.0849 0.0754 0.0793 0.0668 0.1105 0.0777 0.0697 0.0562 0.1182 0.1183 0.0688
+scallop appetizer delicious sauce wonderful
+0.227 0.1524 0.2155 0.2539 0.1512
+oh complimentary pudding dessert enough yummy
+0.1129 0.1504 0.2 0.2128 0.1561 0.1677
+menu limited almost dish excellent
+0.1895 0.1482 0.1299 0.2517 0.2808
+lobster sandwich good spaghetti scallop shrimp great
+0.141 0.1426 0.1102 0.1753 0.1815 0.1554 0.0939
+came crowded saturday night seated right away despite 15 minute late reservation
+0.0552 0.1049 0.1146 0.1172 0.1018 0.0585 0.0549 0.0712 0.0718 0.0986 0.0625 0.0888
+service efficient courteous
+0.4706 0.2461 0.2833
+two u got lobster roll 24 two opted codfish pea risotto carrot reduction 21 bread roll soft buttery lobster salad fresh tasting couldve little generous meat bay fry well seasoned came vinegar dipping ketchup available codfish decent fresh reduction especially interesting found white flesh slightly bland though skin seasoned perfection
+0.0087 0.0205 0.0098 0.0195 0.0217 0.0101 0.0087 0.0089 0.03 0.0264 0.025 0.0256 0.0317 0.0116 0.0209 0.0217 0.0231 0.0296 0.0195 0.0207 0.0277 0.0138 0.01 0.0142 0.0213 0.0208 0.0148 0.0211 0.0212 0.0267 0.0115 0.0294 0.023 0.0204 0.0097 0.03 0.0156 0.0277 0.0317 0.0145 0.0175 0.0168 0.0215 0.0179 0.0198 0.0212 0.0148 0.0229 0.0267 0.022
+effort increase turnover restaurant offer dessert beyond complimentary espresso cup filled chocolate mousse
+0.0764 0.0498 0.0588 0.1669 0.0512 0.0792 0.0754 0.056 0.0825 0.0486 0.0659 0.0927 0.0967
+started lox mussel best ive ever ever cod trout dinner
+0.0667 0.106 0.1259 0.0788 0.0805 0.0726 0.0726 0.1309 0.1302 0.1359
+staff knowledgeable full personality
+0.4643 0.2083 0.0939 0.2335
+best chicken pad tai ever
+0.1525 0.2431 0.2359 0.2282 0.1404
+forget read atmosphere bad either
+0.1046 0.1899 0.4726 0.1325 0.1003
+time waited well half hour table even though reservation
+0.1405 0.0877 0.143 0.0635 0.1103 0.1462 0.0842 0.1 0.1247
+loud hot dark
+0.3379 0.2243 0.4378
+barely see never mind conversation
+0.2018 0.1696 0.182 0.1886 0.258
+take forever get drink almost always forget bring something although dont forget charge
+0.0711 0.0915 0.0635 0.0896 0.0651 0.0897 0.0702 0.0535 0.0683 0.1139 0.0683 0.0702 0.085
+joya used cool spot decent food colorful relaxed atmosphere
+0.0825 0.0488 0.0784 0.0805 0.0569 0.1915 0.159 0.0991 0.2034
+crowded loud ca even talk person next
+0.1922 0.1855 0.1455 0.1098 0.1322 0.1348 0.1
+everytime go bunch drunk idiot making scene front
+0.0932 0.1108 0.0767 0.099 0.1382 0.1043 0.2265 0.1513
+waiter owner nonchalant promised call exterminator dismayed apologetic would expected
+0.1604 0.1407 0.1335 0.0614 0.0832 0.0516 0.1075 0.1136 0.0699 0.0781
+food authentic italian delicious
+0.4114 0.2202 0.1823 0.1861
+pizza terrific homemade pasta
+0.2804 0.1987 0.236 0.2849
+pizza little soggy
+0.4123 0.2335 0.3541
+enough wine glass either
+0.2006 0.3834 0.2586 0.1575
+making authentic neapolitan pizza open brick oven lightly frying zucchini blossom visiting regular growing legion checking newcomer
+0.0415 0.0836 0.0647 0.0745 0.0546 0.0759 0.0442 0.0877 0.0453 0.0676 0.0829 0.0683 0.0322 0.0391 0.0298 0.0381 0.0701
+year thought tuscan cuisine best salvatore converted hearty neapolitan fare first visit
+0.1052 0.0487 0.0973 0.1542 0.0465 0.0793 0.0527 0.0957 0.0824 0.1061 0.0553 0.0767
+wife tan ya hostess completes comforting atmosphere delightfully warm gracious
+0.0443 0.0794 0.0485 0.1128 0.0709 0.1436 0.202 0.1024 0.0959 0.1002
+gentleman maybe manager came table without much smile greeting asked order
+0.1089 0.0535 0.1414 0.0575 0.1085 0.0691 0.0674 0.1069 0.1698 0.0695 0.0475
+recommend pad see ew pork chop tofu plate
+0.0875 0.1442 0.0932 0.1122 0.1442 0.1415 0.1483 0.1288
+actually space breathe decor set tone intimate dinner
+0.0633 0.1896 0.08 0.2415 0.0695 0.146 0.1236 0.0866
+staff attentive almost always get table
+0.3875 0.2387 0.0713 0.0983 0.0696 0.1345
+food nothing like menu description
+0.4346 0.1328 0.0999 0.1382 0.1946
+curry chicken ordered way oily bland hardly tasted curry coconut said contained
+0.0944 0.0902 0.0462 0.0594 0.1318 0.0977 0.062 0.0863 0.0944 0.0986 0.0698 0.0692
+like took leftover chicken poured oil sprinkled pepper powder sauce translucent red
+0.0498 0.05 0.0553 0.0807 0.0676 0.1133 0.1101 0.0924 0.0957 0.1156 0.0929 0.0765
+friend food also complete opposite supposed taste like look like
+0.0734 0.273 0.0802 0.074 0.0961 0.0626 0.1133 0.0627 0.1021 0.0627
+food average would say even chain restaurant baluchi taste better
+0.235 0.0836 0.0607 0.0616 0.0556 0.0827 0.1941 0.0653 0.0975 0.064
+ambience romantic definitely good place bring date
+0.4034 0.1379 0.0781 0.0842 0.1638 0.0521 0.0806
+careful request extra spice
+0.2099 0.258 0.2021 0.33
+notice however table looked like pita instead naan
+0.1022 0.1322 0.1525 0.0975 0.0853 0.1529 0.0757 0.2018
+taj vegetarian rejoice dish manna heaven
+0.2106 0.1807 0.1442 0.2291 0.1035 0.1318
+carnivore sample succulent tikka masala tandoori dish yummy
+0.0892 0.0658 0.1816 0.1538 0.1356 0.1504 0.1292 0.0944
+got excellent piece cheesecake several nice pastry
+0.0803 0.2028 0.1134 0.1752 0.0976 0.147 0.1838
+son girlfriend wanted cheeseburger hug
+0.2209 0.1879 0.1879 0.2517 0.1516
+big bun
+0.3427 0.6573
+huge pastrami sandwich roll
+0.1935 0.2295 0.2748 0.3022
+people rude bit new york
+0.1686 0.241 0.1821 0.1801 0.2282
+great food lt one person eat
+0.1157 0.469 0.0895 0.0912 0.1363 0.0983
+pizza delivered cold cheese even fully melted
+0.2093 0.1079 0.1467 0.1639 0.1038 0.1148 0.1536
+looked like shredded cheese partly done still strip
+0.1092 0.0955 0.1849 0.1552 0.1189 0.1333 0.0941 0.109
+pizza really good
+0.4356 0.3 0.2644
+little inconsistency either way pizza really good
+0.1211 0.177 0.1011 0.1099 0.2138 0.1473 0.1298
+food diamond rough food delicious homemade perfect balance herb tomato
+0.1868 0.0612 0.0638 0.1868 0.0845 0.075 0.0505 0.1068 0.0973 0.0872
+pizza
+1.0
+place many different style pizza amazing
+0.2667 0.1165 0.0936 0.1474 0.2259 0.1499
+enter feel like entered mom kitchen
+0.2181 0.2318 0.1109 0.1795 0.1267 0.1329
+service superb treat like family
+0.4282 0.2195 0.1041 0.1014 0.1467
+figured never argentinian pizza grabbed lunch sharing large pelligrino pizza two special one goat cheese blue cheese excellent
+0.0373 0.0459 0.049 0.0875 0.0451 0.0489 0.0501 0.0443 0.035 0.0875 0.0301 0.0481 0.0357 0.0807 0.0685 0.0515 0.0685 0.0864
+also shared house salad fresh
+0.1774 0.1295 0.137 0.2377 0.3184
+always nice crowd never loud
+0.1689 0.1921 0.2733 0.1409 0.2248
+seated ignored wait taff
+0.3033 0.2426 0.3101 0.144
+bartender unable tear away friend bar
+0.2773 0.1086 0.1425 0.1173 0.1456 0.2088
+finally unable make gin tonic could find tonic
+0.0978 0.0997 0.1292 0.1247 0.1336 0.1271 0.1542 0.1336
+found food outstanding particulary salmon dish
+0.1132 0.3538 0.1433 0.1181 0.1222 0.1494
+also ordered change mojito world
+0.212 0.1377 0.1822 0.2817 0.1864
+friend settled rice dish came back following day try dim sum good outstanding good
+0.0656 0.05 0.1006 0.103 0.0531 0.0631 0.0696 0.0528 0.0388 0.1016 0.0619 0.0706 0.0987 0.0706
+ate back patio worth cool music hear well
+0.0705 0.0922 0.1559 0.0725 0.1458 0.2103 0.1096 0.1431
+chance small cozy restaurant romantic feel decor great
+0.0579 0.0759 0.1733 0.1817 0.1044 0.1057 0.247 0.0543
+yes wait seated small waiting area seat bar taken
+0.0784 0.1246 0.1219 0.1046 0.0992 0.1616 0.1048 0.117 0.0879
+mango chicken ca go tell delicious presentation beatiful
+0.1265 0.1146 0.0965 0.0869 0.0731 0.1393 0.1806 0.1826
+staff busy ordering sushi dinner laying eat bar even bring check
+0.2804 0.0978 0.0516 0.1224 0.0953 0.0534 0.0496 0.0913 0.056 0.0424 0.0597
+wine always good tapa always yummy especially warm pita bread
+0.149 0.0816 0.0786 0.0937 0.0816 0.0838 0.075 0.1369 0.1118 0.108
+wine cheese plate plentiful ca wait try fondue table grilling
+0.1525 0.1038 0.0896 0.1004 0.0871 0.1141 0.0442 0.1048 0.1141 0.0894
+almost hesititate write review atmosphere great would hate become crowded
+0.059 0.0516 0.0737 0.1309 0.2874 0.0668 0.0698 0.0678 0.0808 0.1121
+wait staff freindly make feel like eating freindly little european town
+0.0852 0.2455 0.1145 0.0539 0.0996 0.0476 0.0434 0.1145 0.056 0.0839 0.0559
+forgot sandwich include plastic fork include pita hummus platter
+0.0779 0.1229 0.087 0.1398 0.0953 0.087 0.1352 0.1539 0.101
+far popular bar restaurant table waiter bartender greatly enjoyed unobtrusive atmosphere
+0.0428 0.0502 0.0659 0.1411 0.0702 0.1013 0.0875 0.0745 0.04 0.1448 0.1815
+love tongue sandwich grilled hotdog potato latke apple sauce
+0.0676 0.1106 0.1203 0.11 0.0852 0.1222 0.1166 0.0963 0.1712
+ever order bacon late nite either platter sandwich matter take place morning frying turn hard almost like bacos hurt molar
+0.0397 0.0333 0.0686 0.0456 0.042 0.0417 0.0569 0.0693 0.0522 0.044 0.1041 0.0434 0.0536 0.0508 0.0428 0.0403 0.0425 0.0353 0.0585 0.0353
+otherwise good stuff late nite eats
+0.2126 0.1728 0.1575 0.1473 0.1357 0.1741
+black white shake came good also
+0.1772 0.2216 0.1657 0.1184 0.1574 0.1597
+corned beef pastrami excellent much le fatty big tourist place around time square
+0.0768 0.082 0.0733 0.1104 0.0598 0.055 0.0884 0.0458 0.0731 0.1319 0.0541 0.0925 0.0568
+menu lot option hope go back try potato pancake
+0.1258 0.103 0.0974 0.096 0.1118 0.1024 0.0629 0.1506 0.1501
+late nite omelletes good variety
+0.1937 0.1783 0.1497 0.2271 0.2512
+came cooked cheese almost non existant
+0.1155 0.2273 0.198 0.1155 0.1639 0.1798
+used shredded cheese top
+0.1859 0.3247 0.2725 0.2169
+best pastrami ever great portion without ridiculous
+0.123 0.1648 0.1132 0.13 0.1975 0.138 0.1336
+wife fried shrimp huge loved
+0.156 0.2319 0.2734 0.1766 0.1621
