@@ -3,7 +3,7 @@ import json
 import codecs
 
 #load model
-model = gensim.models.KeyedVectors.load_word2vec_format('/home/danny/gpuimp/post_abae_mymodel1_similwords/model_200_abae.txt', binary=False)
+model = gensim.models.KeyedVectors.load_word2vec_format('../models/model_200_abae.txt', binary=False)
 
 def format_lines(attib_file):
     totales = []
@@ -56,9 +56,6 @@ def evaluation(true, predict, domain):
         print(classification_report(true_label, predict_label, ['Food', 'Staff', 'Ambience', 'Anecdotes', 'Price', 'Miscellaneous'], digits=3))
 
 
-#print('ok')
-#f_attrib_weights = '/home/danny/gpuimp/experiments/modified_abae_v3_mymodel/code/output_dir_mymodel/restaurant/att_weights'
-
 f_attrib_weights_rf1 = '../word_simils/simils_rest/staff.txt'
 f_attrib_weights_rf2 = '../word_simils/simils_rest/ambience.txt'
 f_attrib_weights_rf3 = '../word_simils/simils_rest/food.txt'
@@ -91,13 +88,9 @@ for (val1,val2,val3) in zip(totales_staff, totales_ambience, totales_food):
         predict_labels.append('Food')
    
 
-#domain = 'restaurant'
-#print(len(predict_labels))
-#test_labels = '/home/danny/gpuimp/experiments/modified_abae/preprocessed_data/%s/test_label.txt' % (domain)
-#print(open(test_labels))
 
 domain = 'restaurant'
 print('--- Results on %s domain ---' % (domain))
-test_labels = '/home/danny/gpuimp/experiments/modified_abae/preprocessed_data/%s/test_label.txt' % (domain)
+test_labels = '../category_labels/restaurant/test_label.txt'
 evaluation(open(test_labels), predict_labels, domain)
 

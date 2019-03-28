@@ -1,8 +1,12 @@
-This folder contains the implementation of SUAEx which is organized in three folders
-	1) word_simils
-	2) category_atribution
-	3) select_aspects
-Through this implementation, we can run SUAEx on the restaurant ABAE dataset. Bellow the steps to run the example
+1) Download the word-embeddings model from
+	https://mega.nz/#!rihQiYhL 
+	and put it on the "models" folder
+	
+2) This folder contains the implementation of SUAEx which is organized in three folders
+	a) word_simils
+	b) category_atribution
+	c) select_aspects
+3) Through this implementation, we can run SUAEx on the restaurant ABAE dataset. Bellow the steps to run the example
 	a) On "word_simils/code/" run the python script  getaspectbysimil_v3restaurant.py
 		python getaspectbysimil_v3restaurant.py
 	b) On "category_atribution/" run the python script cat_atrib_rest.py
@@ -10,6 +14,7 @@ Through this implementation, we can run SUAEx on the restaurant ABAE dataset. Be
 	c) On "select_aspects/" run the python script   select.py
 		python select.py
 
-Requirements
-	Gensim 
+4) Requirements
+	Python3
+	Gensim
 	sklearn

@@ -41,13 +41,6 @@ def get_simis(ar_sentence , ref_word, negatives):
             simils_context.append('0')
             simils.append('0')
     return (simils_context, simils)
-            #print(word+' -- '+ref_word)
-            #print('similarity with context')
-            #print(tot/(elems+1))
-
-            #print('similarity without context')
-            #res1 = model_r.wv.similarity(w1=word, w2=ref_word)
-            #print(res1)
 
 def get_simis_total(ar_sentence , ref_word, negatives):
     simils_context = []
@@ -197,7 +190,7 @@ def negatives_refwords(ref_words):
 
 import time 
 tinitial = time.time()
-model_r = gensim.models.KeyedVectors.load_word2vec_format('/home/danny/git_imp/simil_words_final/models/restaurant.txt', binary=False)
+model_r = gensim.models.KeyedVectors.load_word2vec_format('../../models/restaurant.txt', binary=False)
 
 
 #sentence = 'usually,order,wine,indian,ca,comment,wine,list,wine'
@@ -208,15 +201,11 @@ model_r = gensim.models.KeyedVectors.load_word2vec_format('/home/danny/git_imp/s
 lines_rest = []
 lines_rest_withdiff = []
 with open('../data/test/test_restaurant.txt') as f_r:
-#with open('../data/ex.txt') as f_r:
     lines_rest = f_r.readlines()
 
-#with open('../../differ_words/diff_data/test_r.txt') as f_rwd:
-#    lines_rest_withdiff = f_rwd.readlines()
-
-#ref_words = ['food','staff','price','ambience']
 ref_words = ['food','staff','ambience']
 ##uncoment this to base other result
+#ref_words = ['food','staff','price','ambience']
 #neg_by_word = negatives_2refwords(ref_words)
 #commnet this to base other result
 neg_by_word = negatives_allrefwords(ref_words)
@@ -228,15 +217,10 @@ for i,ref_word in enumerate(ref_words):
     out = codecs.open('../simils_rest/'+ref_word+'.txt','w', 'utf-8')
     out_probs = codecs.open('../probs_rest/'+ref_word+'.txt','w', 'utf-8')
     print('ref_word : ' + ref_word)
-    #print(ref_word)
     print(negatives_r)
     simil_ref = []
     for line in lines_rest:
-        #print(line_withdiff)
         ar_sentence_l = line.strip().split(' ') 
-        #ar_sentence_l_withdiff = line_withdiff.strip().split(' ') 
-        #print(str(len(ar_sentence_l)) +' -- ' +str(len(ar_sentence_l_withdiff)))
-    
         ###########    
         ##uncoment this to base other result
         #simils_context, simils, simils_total = get_simis_total_withdiff(ar_sentence_l, ar_sentence_l_withdiff,ref_word, [negatives_r[0], negatives_r[1],'great', 'even'])

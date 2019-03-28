@@ -40,10 +40,7 @@ with open('/home/danny/gpuimp/post_abae_mymodel1_similwords/test_labels_abae.txt
 words_cat1 = set()
 words_cat2 = set()
 words_cat3 = set()
-#print(ar_letras_rf1[0])
-#print(ar_pesos_rf1[0])
-#print(totales_staff[0])
-#print(suaex_labels[0])
+
 for letras, valores1, valores2, valores3, label in zip(ar_letras_rf1, ar_pesos_rf1, ar_pesos_rf2, ar_pesos_rf3, suaex_labels):
     label = label.strip()
     if label == "Staff":#usar los valores1
@@ -60,6 +57,7 @@ for letras, valores1, valores2, valores3, label in zip(ar_letras_rf1, ar_pesos_r
         words_cat3 =  words_cat3.union(set(selected_words))
     else:
         print("aq")
+
 print("group 1")
 print(list(words_cat1)[:50])
 print("group 2")
