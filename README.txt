@@ -15,6 +15,6 @@
 		python select.py
 
 4) Requirements
-	Python3
-	Gensim
+	python3
+	gensim
 	sklearn
