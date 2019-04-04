@@ -18,5 +18,5 @@
 
 4) Requirements
 	python3
-	gensim
-	sklearn
+	gensim 3.5.2
+	sklearn 0.0
