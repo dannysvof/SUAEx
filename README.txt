@@ -1,6 +1,6 @@
 1) Model
 	a) Download the word-embeddings model from
-	https://mega.nz/#!rihQiYhL 
+	https://mega.nz/#!rihQiYhL!jdGipAwlxX4F-RWTRjoNQLZWH_fit2zwQZBCn8QsQxc 
 	b) Create the folder "models" 
 	c) Put the download model on the created folder
 	
