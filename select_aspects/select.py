@@ -24,9 +24,9 @@ def sort_list(lista):
     indexs = sorted(range(len(lista)), key=lambda k: lista[k], reverse=True)
     return indexs 
     
-f_attrib_weights_rf1 = '/home/danny/git_imp/simil_words/simils_rest/staff.txt'
-f_attrib_weights_rf2 = '/home/danny/git_imp/simil_words/simils_rest/ambience.txt'
-f_attrib_weights_rf3 = '/home/danny/git_imp/simil_words/simils_rest/food.txt'
+f_attrib_weights_rf1 = '../word_simils/simils_rest/staff.txt'
+f_attrib_weights_rf2 = '../word_simils/simils_rest/ambience.txt'
+f_attrib_weights_rf3 = '../word_simils/simils_rest/food.txt'
 
 (ar_letras_rf1, ar_pesos_rf1, totales_staff) = format_lines(f_attrib_weights_rf1)
 (ar_letras_rf2, ar_pesos_rf2, totales_ambience) = format_lines(f_attrib_weights_rf2)
@@ -34,7 +34,7 @@ f_attrib_weights_rf3 = '/home/danny/git_imp/simil_words/simils_rest/food.txt'
 
 #suaex_labels = codecs.open('test_labels_abae.txt','w')
 suaex_labels = []
-with open('/home/danny/gpuimp/post_abae_mymodel1_similwords/test_labels_abae.txt','r') as f:
+with open('../category_atribution/test_labels_abae.txt','r') as f:
     suaex_labels = f.readlines()
 
 words_cat1 = set()
@@ -58,9 +58,9 @@ for letras, valores1, valores2, valores3, label in zip(ar_letras_rf1, ar_pesos_r
     else:
         print("aq")
 
-print("group 1")
+print("group 1 - Staff")
 print(list(words_cat1)[:50])
-print("group 2")
+print("group 2 - Ambience")
 print(list(words_cat2)[:50])
-print("group 3")
+print("group 3 - Food")
 print(list(words_cat3)[:50])

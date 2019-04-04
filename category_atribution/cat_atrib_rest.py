@@ -3,7 +3,7 @@ import json
 import codecs
 
 #load model
-model = gensim.models.KeyedVectors.load_word2vec_format('../models/model_200_abae.txt', binary=False)
+model = gensim.models.KeyedVectors.load_word2vec_format('../models/restaurant.txt', binary=False)
 
 def format_lines(attib_file):
     totales = []
