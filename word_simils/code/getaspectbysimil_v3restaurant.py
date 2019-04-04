@@ -2,6 +2,7 @@ import gensim
 import codecs
 from operator import itemgetter
 import numpy as np
+import os 
 
 def my_softmax(X):
     #X = np.array([1.1, 5.0, 2.8, 7.3])  # evidence for each choice
@@ -210,6 +211,14 @@ ref_words = ['food','staff','ambience']
 #commnet this to base other result
 neg_by_word = negatives_allrefwords(ref_words)
 
+
+#create if not exists the folders of simils and probs
+path_simils = '../simils_rest'
+if not os.path.exists(path_simils):
+    os.makedirs(path_simils)
+path_probs = '../probs_rest'
+if not os.path.exists(path_probs):
+    os.makedirs(path_probs)
 
 simils_by_ref = []
 for i,ref_word in enumerate(ref_words):

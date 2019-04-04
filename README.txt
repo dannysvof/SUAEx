@@ -1,6 +1,8 @@
-1) Download the word-embeddings model from
+1) Model
+	a) Download the word-embeddings model from
 	https://mega.nz/#!rihQiYhL 
-	and put it on the "models" folder
+	b) Create the folder "models" 
+	c) Put the download model on the created folder
 	
 2) This folder contains the implementation of SUAEx which is organized in three folders
 	a) word_simils
