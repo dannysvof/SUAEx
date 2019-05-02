@@ -12,7 +12,7 @@ The "Simple Unsupervised Similarity-based Aspect Extraction" is a method to extr
 #### Usage
 
 ##### Model 
-	* Download the word-embeddings model from(restaurant.txt): 
+	* Download the word-embeddings model(restaurant.txt) from: 
 			https://mega.nz/#!rihQiYhL!jdGipAwlxX4F-RWTRjoNQLZWH_fit2zwQZBCn8QsQxc
 	* Create the folder "models"
 	* Put the download model on the created folder
@@ -31,11 +31,10 @@ The "Simple Unsupervised Similarity-based Aspect Extraction" is a method to extr
 #### Citation <br />
 ```	
 If using SUAEx, please cite our work by : 
-		@inproceedings{Suarez19, 
+	@inproceedings{Suarez19, 
   		title={Simple Unsupervised Similarity-Based Aspect Extraction}, 
-  		author={Danny Suarez Vargas, Lucas R. C. Pessutto, and
-               Viviane Pereira Moreira}, 
+  		author={Danny Suarez Vargas, Lucas R. C. Pessutto, and Viviane Pereira Moreira}, 
   		booktitle={20th International Conference on Computational Linguistics and Intelligent Text Processing (CICLing)}, 
   		year={2019} 
-		} 
+	} 
 ```
