@@ -1,4 +1,4 @@
-SUAEx
+###SUAEx 
 The "Simple Unsupervised Similarity-based Aspect Extraction" is a method to extract aspect words(most relevant words in a given sentence and domain). SUAEx implements a simple approach that only relies on word-embeddings similarity with respect to reference words. Furthermore, it emulates the attention mechanism of neural networks by using only the similarity of words. 
 
 #### Dependencies
